@@ -676,6 +676,16 @@
 					<url>https://archive.org/embed/arcade_ffight2b</url>
 					<descripcion></descripcion>
 				</item>
+				<item>
+					<id></id>
+					<icono>https://archive.org/serve/magical3/magical3_screenshot.gif</icono>
+					<imgfondo>https://archive.org/serve/magical3/magical3_screenshot.gif</imgfondo>
+					<tipo>snes</tipo>
+					<capitulo>01</capitulo>
+					<titulo>Disney's Magical Quest 3 starring Mickey & Donald</titulo>
+					<url>Disney's Magical Quest 3 starring Mickey & Donald</url>
+					<descripcion></descripcion>
+				</item>
 				
 				
 			
