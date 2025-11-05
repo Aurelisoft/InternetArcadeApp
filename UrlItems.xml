@@ -638,6 +638,16 @@
 			
 				<item>
 					<id></id>
+					<icono>https://archive.org/serve/dkc_snes_2/dkc_snes_2_screenshot.gif</icono>
+					<imgfondo>https://archive.org/serve/dkc_snes_2/dkc_snes_2_screenshot.gif</imgfondo>
+					<tipo>snes</tipo>
+					<capitulo>01</capitulo>
+					<titulo>Donkey Kong Country (SNES)</titulo>
+					<url>https://archive.org/embed/dkc_snes_2</url>
+					<descripcion></descripcion>
+				</item>
+				<item>
+					<id></id>
 					<icono>https://archive.org/serve/super-mario-world-2-yoshis-island-usa-rev-a/super-mario-world-2-yoshis-island-usa-rev-a_screenshot.gif</icono>
 					<imgfondo>https://archive.org/serve/super-mario-world-2-yoshis-island-usa-rev-a/super-mario-world-2-yoshis-island-usa-rev-a_screenshot.gif</imgfondo>
 					<tipo>snes</tipo>
