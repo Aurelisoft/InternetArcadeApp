@@ -782,6 +782,16 @@
 					<url>https://archive.org/embed/Super_Mario_2_1998_Unl_f1</url>
 					<descripcion></descripcion>
 				</item>
+				<item>
+					<id></id>
+					<icono>https://archive.org/serve/Somari_the_Adventurer/Somari_the_Adventurer_screenshot.gif</icono>
+					<imgfondo>https://archive.org/serve/Somari_the_Adventurer/Somari_the_Adventurer_screenshot.gif</imgfondo>
+					<tipo>genesis</tipo>
+					<capitulo>01</capitulo>
+					<titulo>Somari the Adventurer</titulo>
+					<url>https://archive.org/embed/Somari_the_Adventurer</url>
+					<descripcion></descripcion>
+				</item>
 				
 				
 			
@@ -1197,4 +1207,3 @@
 		
 	</inicio>
 </kidsarchive>
-
