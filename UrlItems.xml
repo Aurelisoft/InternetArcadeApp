@@ -94,6 +94,26 @@
 				</item>
 				<item>
 					<id></id>
+					<icono>https://archive.org/serve/xmen_20250615_202506/xmen_screenshot.jpg</icono>
+					<imgfondo>https://archive.org/serve/xmen_20250615_202506/xmen_screenshot.jpg</imgfondo>
+					<tipo>arcade</tipo>
+					<capitulo>01</capitulo>
+					<titulo>X-Men [1992] - Arcade</titulo>
+					<url>https://archive.org/embed/xmen_20250615_202506</url>
+					<descripcion></descripcion>
+				</item>
+				<item>
+					<id></id>
+					<icono>https://archive.org/serve/gberet_nes/gberet_nes_screenshot.gif</icono>
+					<imgfondo>https://archive.org/serve/gberet_nes/gberet_nes_screenshot.gif</imgfondo>
+					<tipo>arcade</tipo>
+					<capitulo>01</capitulo>
+					<titulo>Green Beret (Arcade)</titulo>
+					<url>https://archive.org/embed/gberet_nes</url>
+					<descripcion></descripcion>
+				</item>
+				<item>
+					<id></id>
 					<icono>https://archive.org/serve/arcade_galaga88/galaga88_screenshot.png</icono>
 					<imgfondo>https://archive.org/serve/arcade_galaga88/galaga88_screenshot.png</imgfondo>
 					<tipo>arcade</tipo>
@@ -682,8 +702,18 @@
 					<imgfondo>https://archive.org/serve/magical3/magical3_screenshot.gif</imgfondo>
 					<tipo>snes</tipo>
 					<capitulo>01</capitulo>
-					<titulo>Disney's Magical Quest 3 starring Mickey & Donald</titulo>
-					<url>Disney's Magical Quest 3 starring Mickey & Donald</url>
+					<titulo>Disney's Magical Quest 3 starring Mickey and Donald</titulo>
+					<url>https://archive.org/embed/magical3</url>
+					<descripcion></descripcion>
+				</item>
+				<item>
+					<id></id>
+					<icono>https://archive.org/serve/super-street-fighter-ii-usa_202301/Super+Street+Fighter+II+(USA)-image.jpg</icono>
+					<imgfondo>https://archive.org/serve/super-street-fighter-ii-usa_202301/Super+Street+Fighter+II+(USA)-image.jpg</imgfondo>
+					<tipo>snes</tipo>
+					<capitulo>01</capitulo>
+					<titulo>Super Street Fighter II SNES (USA)</titulo>
+					<url>https://archive.org/embed/super-street-fighter-ii-usa_202301</url>
 					<descripcion></descripcion>
 				</item>
 				
@@ -740,6 +770,16 @@
 					<capitulo>01</capitulo>
 					<titulo>Mario 3 Around The World (R) [a1][t1]</titulo>
 					<url>https://archive.org/embed/Mario_3_Around_The_World_R_a1_t1</url>
+					<descripcion></descripcion>
+				</item>
+				<item>
+					<id></id>
+					<icono>https://archive.org/serve/daimakaimura-ghoulsn-ghosts-japan-usa-en/daimakaimura-ghoulsn-ghosts-japan-usa-en_screenshot.gif</icono>
+					<imgfondo>https://archive.org/serve/daimakaimura-ghoulsn-ghosts-japan-usa-en/daimakaimura-ghoulsn-ghosts-japan-usa-en_screenshot.gif</imgfondo>
+					<tipo>genesis</tipo>
+					<capitulo>01</capitulo>
+					<titulo>Ghouls'n Ghosts Genesis (USA)</titulo>
+					<url>https://archive.org/embed/daimakaimura-ghoulsn-ghosts-japan-usa-en</url>
 					<descripcion></descripcion>
 				</item>
 				<item>
