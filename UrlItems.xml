@@ -1033,13 +1033,13 @@
 		
 		<carpeta>
 			<id></id>
-			<titulo>Series De Dibujos Animados</titulo>
+			<titulo>Cartoon Series</titulo>
 			<icono></icono>
 			<imgfondo></imgfondo>
 			<descripcion></descripcion>
 			<carpeta>
 				<id></id>
-				<titulo>Coyote y Correcaminos</titulo>
+				<titulo>Coyote and Road Runner</titulo>
 				<icono></icono>
 				<imgfondo>https://drive.google.com/uc?export=view&amp;id=1fVxmvV5KWUkuKt-KkyC-rBNFsJ0_Xysj</imgfondo>
 				<descripcion></descripcion>
@@ -1103,7 +1103,7 @@
 			</carpeta>
 			<carpeta>
 				<id></id>
-				<titulo>Los Picapiedra</titulo>
+				<titulo>The Flintstones</titulo>
 				<icono></icono> 
 				<imgfondo></imgfondo>
 				<descripcion></descripcion>
