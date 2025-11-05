@@ -701,7 +701,17 @@
 					<titulo>Super Street Fighter II   The New Challengers (U) [c]</titulo>
 					<url>https://archive.org/embed/Super_Street_Fighter_II_The_New_Challengers_U_c_GG</url>
 					<descripcion></descripcion>
-				</item>			
+				</item>
+				<item>
+					<id></id>
+					<icono>https://archive.org/serve/scheroes_bin/bandicam%202021-02-25%2009-06-44-942.jpg</icono>
+					<imgfondo>https://archive.org/serve/scheroes_bin/bandicam%202021-02-25%2009-06-44-942.jpg</imgfondo>
+					<tipo>genesis</tipo>
+					<capitulo>01</capitulo>
+					<titulo>Sonic Classic Heroes</titulo>
+					<url>https://archive.org/embed/scheroes_bin</url>
+					<descripcion></descripcion>
+				</item>
 				<item>
 					<id></id>
 					<icono>https://archive.org/serve/Super_Mario_Bros_OK/Super_Mario_Bros_OK_screenshot.gif</icono>
