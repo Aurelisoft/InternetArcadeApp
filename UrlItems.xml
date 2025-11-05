@@ -3,7 +3,7 @@
 		<id></id>
 		<titulo>Home Category</titulo>
 		<icono></icono>
-		<imgfondo>https://drive.google.com/uc?export=view&amp;id=1OmnByLxp7hbwAkllI1ork1lXeIGQXhr0</imgfondo>
+		<imgfondo>fondoinicio.jpg</imgfondo>
 		<urlacercade>https://archive.org/about/</urlacercade>
 		<urldonate>https://archive.org/donate?origin=aurelio</urldonate>
 		<descripcion></descripcion>
@@ -1197,3 +1197,4 @@
 		
 	</inicio>
 </kidsarchive>
+
