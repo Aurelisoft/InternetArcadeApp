@@ -1265,12 +1265,12 @@
 			<descripcion></descripcion>
 		    <item>
 				<id></id>
-				<icono>https://archive.org/services/img/BettyBoopBimbosExpress1931</icono>
-				<imgfondo>https://archive.org/services/img/BettyBoopBimbosExpress1931</imgfondo>
+				<icono>https://archive.org/services/img/popeye-1933-1939</icono>
+				<imgfondo>https://archive.org/services/img/popeye-1933-1939</imgfondo>
 				<tipo>video</tipo>
 				<capitulo>01</capitulo>
-				<titulo>Betty Boop: Bimbo's Express (1931)</titulo>
-				<url>https://archive.org/embed/BettyBoopBimbosExpress1931</url>
+				<titulo>Best Popeye the Sailor Cartoons Compilation 1933-1939</titulo>
+				<url>https://archive.org/embed/popeye-1933-1939</url>
 				<descripcion></descripcion>
 			</item>
 		</carpeta>
@@ -1286,6 +1286,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
