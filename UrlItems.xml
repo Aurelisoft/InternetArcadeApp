@@ -1282,6 +1282,16 @@
 				<titulo>Mickey Mouse and Donald Duck Cartoon Collection: Volume 1 (Laserdisc)</titulo>
 				<url>https://archive.org/embed/69as_20210705</url>
 				<descripcion></descripcion>
+			</item>		
+		    <item>
+				<id></id>
+				<icono>https://archive.org/services/img/cartoon-classics-vol-4-25-favorite-cartoons-3-hours</icono>
+				<imgfondo>https://archive.org/services/img/cartoon-classics-vol-4-25-favorite-cartoons-3-hours</imgfondo>
+				<tipo>video</tipo>
+				<capitulo>01</capitulo>
+				<titulo>PD Cartoon Classics Vol 4 25 Favorite Cartoons 3 Hours</titulo>
+				<url>https://archive.org/embed/cartoon-classics-vol-4-25-favorite-cartoons-3-hours</url>
+				<descripcion></descripcion>
 			</item>
 		</carpeta>
 		
@@ -1296,6 +1306,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
