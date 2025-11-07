@@ -1308,7 +1308,7 @@
 				<id></id>
 				<icono>https://ia800800.us.archive.org/12/items/80s-best-of/80s%202.jpg?cnt=0</icono>
 				<imgfondo>https://ia800800.us.archive.org/12/items/80s-best-of/80s%202.jpg?cnt=0</imgfondo>
-				<tipo>video</tipo>
+				<tipo>audio</tipo>
 				<capitulo>01</capitulo>
 				<titulo>80s Best Of</titulo>
 				<url>https://archive.org/embed/80s-best-of</url>
@@ -1322,6 +1322,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
