@@ -1314,6 +1314,38 @@
 				<url>https://archive.org/embed/80s-best-of</url>
 				<descripcion></descripcion>
 			</item>
+
+		    <item>
+				<id></id>
+				<icono>https://archive.org/download/06-reel-2-real-feat.-the-mad-stuntman-i-like-to-move-it-erick-more-club-mix/The%20Ultimate%20Party%20Hits%20Capa.jpg</icono>
+				<imgfondo>https://archive.org/download/06-reel-2-real-feat.-the-mad-stuntman-i-like-to-move-it-erick-more-club-mix/The%20Ultimate%20Party%20Hits%20Capa.jpg</imgfondo>
+				<tipo>audio</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Sensation 90s Vol. 2 CD1 The Ultimate Party Hits</titulo>
+				<url>https://archive.org/embed/06-reel-2-real-feat.-the-mad-stuntman-i-like-to-move-it-erick-more-club-mix</url>
+				<descripcion></descripcion>
+			</item>
+		    <item>
+				<id></id>
+				<icono>https://ia800801.us.archive.org/10/items/90s-hits_202409/ab67616d0000b2736de4c9e24247e2e0bda5f36a.jpg?cnt=0</icono>
+				<imgfondo>https://ia800801.us.archive.org/10/items/90s-hits_202409/ab67616d0000b2736de4c9e24247e2e0bda5f36a.jpg?cnt=0</imgfondo>
+				<tipo>audio</tipo>
+				<capitulo>01</capitulo>
+				<titulo>90s Hits</titulo>
+				<url>https://archive.org/embed/90s-hits_202409</url>
+				<descripcion></descripcion>
+			</item>
+		    <item>
+				<id></id>
+				<icono>https://ia800506.us.archive.org/24/items/best-of-the-80s/R-1230146-1442822179-1934.jpg?cnt=0</icono>
+				<imgfondo>https://ia800506.us.archive.org/24/items/best-of-the-80s/R-1230146-1442822179-1934.jpg?cnt=0</imgfondo>
+				<tipo>audio</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Best Of The 80s</titulo>
+				<url>https://archive.org/embed/best-of-the-80s</url>
+				<descripcion></descripcion>
+			</item>
+			
 		</carpeta>
 		
 		
@@ -1322,6 +1354,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
