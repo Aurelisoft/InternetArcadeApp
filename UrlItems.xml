@@ -1311,7 +1311,7 @@
 				<tipo>audio</tipo>
 				<capitulo>01</capitulo>
 				<titulo>80s Best Of</titulo>
-				<url>https://archive.org/embed/80s-best-of/01+-+Salt'n+Pepa+-+Push+It.mp3</url>
+				<url>https://archive.org/embed/80s-best-of</url>
 				<descripcion></descripcion>
 			</item>
 		</carpeta>
@@ -1322,6 +1322,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
