@@ -24,6 +24,16 @@
 			
 				<item>
 					<id></id>
+					<icono>https://archive.org/serve/arcade_hharry/hharry_screenshot.png</icono>
+					<imgfondo>https://archive.org/serve/arcade_hharry/hharry_screenshot.png</imgfondo>
+					<tipo>arcade</tipo>
+					<capitulo>01</capitulo>
+					<titulo>Hammerin' Harry (World M81)</titulo>
+					<url>https://archive.org/embed/arcade_hharry</url>
+					<descripcion></descripcion>
+				</item>	
+				<item>
+					<id></id>
 					<icono>https://archive.org/serve/arcade_clubpacm/arcade_clubpacm_screenshot.png</icono>
 					<imgfondo>https://archive.org/serve/arcade_clubpacm/arcade_clubpacm_screenshot.png</imgfondo>
 					<tipo>arcade</tipo>
@@ -1354,6 +1364,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
