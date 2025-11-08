@@ -744,6 +744,16 @@
 			
 				<item>
 					<id></id>
+					<icono>https://archive.org/serve/sg_Toki_1991_Sega_TAD_Corporation_EU-US_en/Toki_1991_Sega_TAD_Corporation_EU-US_en_screenshot.gif</icono>
+					<imgfondo>https://archive.org/serve/sg_Toki_1991_Sega_TAD_Corporation_EU-US_en/Toki_1991_Sega_TAD_Corporation_EU-US_en_screenshot.gif</imgfondo>
+					<tipo>genesis</tipo>
+					<capitulo>01</capitulo>
+					<titulo>Toki</titulo>
+					<url>https://archive.org/embed/sg_Toki_1991_Sega_TAD_Corporation_EU-US_en</url>
+					<descripcion></descripcion>
+				</item>
+				<item>
+					<id></id>
 					<icono>https://archive.org/serve/Super_Street_Fighter_II_The_New_Challengers_U_c_GG/Super_Street_Fighter_II_The_New_Challengers_U_c_GG_screenshot.gif</icono>
 					<imgfondo>https://archive.org/serve/Super_Street_Fighter_II_The_New_Challengers_U_c_GG/Super_Street_Fighter_II_The_New_Challengers_U_c_GG_screenshot.gif</imgfondo>
 					<tipo>genesis</tipo>
@@ -1364,6 +1374,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
