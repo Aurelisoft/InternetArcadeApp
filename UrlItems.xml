@@ -657,6 +657,16 @@
 				<descripcion></descripcion>
 				<item>
 					<id></id>
+					<icono>https://archive.org/serve/super-mario-all-stars-usa_202504/super-mario-all-stars-usa_202504_screenshot.gif</icono>
+					<imgfondo>https://archive.org/serve/super-mario-all-stars-usa_202504/super-mario-all-stars-usa_202504_screenshot.gif</imgfondo>
+					<tipo>snes</tipo>
+					<capitulo>01</capitulo>
+					<titulo>Super Mario All-Stars</titulo>
+					<url>https://archive.org/embed/super-mario-all-stars-usa_202504</url>
+					<descripcion></descripcion>
+				</item>
+			    <item>
+					<id></id>
 					<icono>https://archive.org/serve/super-mario-world-usa_202406/Screenshot%202024-06-01%20235151.png</icono>
 					<imgfondo>https://archive.org/serve/super-mario-world-usa_202406/Screenshot%202024-06-01%20235151.png</imgfondo>
 					<tipo>snes</tipo>
@@ -665,7 +675,6 @@
 					<url>https://archive.org/embed/super-mario-world-usa_202406</url>
 					<descripcion></descripcion>
 				</item>
-			
 				<item>
 					<id></id>
 					<icono>https://archive.org/serve/dkc_snes_2/dkc_snes_2_screenshot.gif</icono>
@@ -1374,6 +1383,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
