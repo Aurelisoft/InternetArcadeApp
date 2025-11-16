@@ -4,8 +4,8 @@
 		<titulo>Inicio</titulo>
 		<icono></icono>
 		<imgfondo>fondoinicio.jpg</imgfondo>
-		<urlinformacionlegalterminos>informacionlegalterminos.html</urlinformacionlegalterminos>
-		<urlacercade>acercade.html</urlacercade>
+		<urlinformacionlegalterminos>https://rawcdn.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/informacionlegalterminos.html</urlinformacionlegalterminos>
+		<urlacercade>https://rawcdn.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/acercade.html</urlacercade>
 		<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
 		<urldonateinternetarchive>https://archive.org/donate?origin=aureli</urldonateinternetarchive>
 		<descripcion></descripcion>
@@ -1023,4 +1023,5 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
