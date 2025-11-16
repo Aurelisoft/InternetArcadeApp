@@ -4,7 +4,7 @@
 		<titulo>Inicio</titulo>
 		<icono></icono>
 		<imgfondo>fondoinicio.jpg</imgfondo>
-		<urlinformacionlegalterminos>informacionlegalterminos.html/</urlinformacionlegalterminos>
+		<urlinformacionlegalterminos>informacionlegalterminos.html</urlinformacionlegalterminos>
 		<urlacercade>acercade.html</urlacercade>
 		<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
 		<urldonateinternetarchive>https://archive.org/donate?origin=aureli</urldonateinternetarchive>
@@ -1023,3 +1023,4 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
