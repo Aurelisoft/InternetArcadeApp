@@ -4,8 +4,8 @@
 		<titulo>Inicio</titulo>
 		<icono></icono>
 		<imgfondo>fondoinicio.jpg</imgfondo>
-		<urlinformacionlegalterminos>https://rawcdn.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/informacionlegalterminos.html</urlinformacionlegalterminos>
-		<urlacercade>https://rawcdn.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/acercade.html</urlacercade>
+		<urlinformacionlegalterminos>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/informacionlegalterminos.html</urlinformacionlegalterminos>
+		<urlacercade>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/acercade.html</urlacercade>
 		<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
 		<urldonateinternetarchive>https://archive.org/donate?origin=aureli</urldonateinternetarchive>
 		<descripcion></descripcion>
