@@ -638,9 +638,61 @@
 				<titulo>Arkanoid (NES)</titulo>
 				<url>https://archive.org/embed/arkanoid_nes</url>
 				<descripcion></descripcion>
+			</item>		
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/donkey-kong-classics_202502/donkey-kong-classics_202502_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/donkey-kong-classics_202502/donkey-kong-classics_202502_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Donkey Kong Classics NES</titulo>
+				<url>https://archive.org/embed/donkey-kong-classics_202502</url>
+				<descripcion></descripcion>
 			</item>
-		
-		
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/super-mario-bros-nes/super_mario-bros-nes_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/super-mario-bros-nes/super_mario-bros-nes_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario Bros.</titulo>
+				<url>https://archive.org/embed/super-mario-bros-nes</url>
+				<descripcion></descripcion>
+			</item>
+
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/super-mario-bros-3-nes/super-mario-bros-3-nes_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/super-mario-bros-3-nes/super-mario-bros-3-nes_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario Bros. 3</titulo>
+				<url>https://archive.org/embed/super-mario-bros-3-nes</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/simpsons_nes_2/simpsons_nes_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/simpsons_nes_2/simpsons_nes_2_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Bart vs. the Space Mutants (NES)</titulo>
+				<url>https://archive.org/embed/simpsons_nes_2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/ducktales_nes_2/ducktales_nes_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/ducktales_nes_2/ducktales_nes_2_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>DuckTales (NES)</titulo>
+				<url>https://archive.org/embed/ducktales_nes_2</url>
+				<descripcion></descripcion>
+			</item>
+
+
+			
 		
 		</carpeta>
 		
@@ -1023,5 +1075,6 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
