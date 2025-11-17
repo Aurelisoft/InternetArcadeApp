@@ -1069,12 +1069,80 @@
 				<url>https://archive.org/embed/mario-kart-super-circuit_202503</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/pokemon-emerald-version-usa-europe_202501/pokemon-emerald-version-usa-europe_202501_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/pokemon-emerald-version-usa-europe_202501/pokemon-emerald-version-usa-europe_202501_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Pokemon Emerald Version ( USA, Europe)</titulo>
+				<url>https://archive.org/embed/pokemon-emerald-version-usa-europe_202501</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/pokemon_leaf_green-version-u-v-1.1/00_A.jpg</icono>
+				<imgfondo>https://archive.org/serve/pokemon_leaf_green-version-u-v-1.1/00_A.jpg</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Pokémon - Leaf Green Version (V1.1)</titulo>
+				<url>https://archive.org/embed/pokemon_leaf_green-version-u-v-1.1</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/super-mario-advance-2-super-mario-world_gba/super-mario-advance-2-super-mario-world_gba_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/super-mario-advance-2-super-mario-world_gba/super-mario-advance-2-super-mario-world_gba_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario Advance 2: Super Mario World</titulo>
+				<url>https://archive.org/embed/super-mario-advance-2-super-mario-world_gba</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/kirby_gba/kirby_gba_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/kirby_gba/kirby_gba_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Kirby: Nightmare in Dreamland (Gameboy Advance)</titulo>
+				<url>https://archive.org/details/kirby_gba</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/mariokong/mariokong_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/mariokong/mariokong_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Mario vs. Donkey Kong (Gameboy Advance)</titulo>
+				<url>https://archive.org/embed/mariokong</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/dk2_gba/dk2_gba_screenshot.gif</icono>
+				<imgfondo>>https://archive.org/serve/dk2_gba/dk2_gba_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Donkey Kong Country 2 (Gameboy Advance)</titulo>
+				<url>https://archive.org/embed/dk2_gba</url>
+				<descripcion></descripcion>
+			</item>
+
+
+
+
+
+
+			
 		</carpeta>
 		
 		
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
