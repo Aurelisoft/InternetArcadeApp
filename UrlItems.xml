@@ -1106,7 +1106,7 @@
 				<tipo>gba</tipo>
 				<capitulo>01</capitulo>
 				<titulo>Kirby: Nightmare in Dreamland (Gameboy Advance)</titulo>
-				<url>https://archive.org/details/kirby_gba</url>
+				<url>https://archive.org/embed/kirby_gba</url>
 				<descripcion></descripcion>
 			</item>
 			<item>
@@ -1142,6 +1142,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
