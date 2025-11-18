@@ -1047,6 +1047,126 @@
 				<url>https://archive.org/embed/quake_dos</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/fallout-1.1-update/fallout-1.1-update_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/fallout-1.1-update/fallout-1.1-update_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Fallout</titulo>
+				<url>https://archive.org/embed/fallout-1.1-update</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/the_incredible_machine_1992/the_incredible_machine_1992_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/the_incredible_machine_1992/the_incredible_machine_1992_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>The Incredible Machine</titulo>
+				<url>https://archive.org/embed/the_incredible_machine_1992</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/msdos_Prehistorik_2_1993/Prehistorik_2_1993_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/msdos_Prehistorik_2_1993/Prehistorik_2_1993_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Prehistorik 2</titulo>
+				<url>https://archive.org/embed/msdos_Prehistorik_2_1993</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/PERSIA_VGA/PERSIA_VGA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/PERSIA_VGA/PERSIA_VGA_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>MS-DOS: Prince of Persia (VGA Graphics and SoundBlaster)</titulo>
+				<url>https://archive.org/embed/PERSIA_VGA</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/monkey_dos/bandicam%202020-12-13%2020-44-40-725.jpg</icono>
+				<imgfondo>https://archive.org/serve/monkey_dos/bandicam%202020-12-13%2020-44-40-725.jpg</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>The Secret of Monkey Island (MS-DOS)</titulo>
+				<url>https://archive.org/embed/monkey_dos</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/quake_dos/quake_dos_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/quake_dos/quake_dos_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Quake</titulo>
+				<url>https://archive.org/embed/quake_dos</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/die_siedler_2_151/die_siedler_2_151_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/die_siedler_2_151/die_siedler_2_151_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Die Siedler 2 – Gold Edition</titulo>
+				<url>https://archive.org/embed/die_siedler_2_151</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/battle_chess_1988/battle_chess_1988_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/battle_chess_1988/battle_chess_1988_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Battle Chess</titulo>
+				<url>https://archive.org/embed/battle_chess_1988</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/IndianaJones_Atlantis/IndianaJones_Atlantis_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/IndianaJones_Atlantis/IndianaJones_Atlantis_screenshot.png</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Indiana Jones and the Fate of Atlantis</titulo>
+				<url>https://archive.org/embed/IndianaJones_Atlantis</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/msdos_SimCity_1989/SimCity_1989_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/msdos_SimCity_1989/SimCity_1989_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>SimCity</titulo>
+				<url>https://archive.org/embed/msdos_SimCity_1989</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/SimCity-2/SimCity-2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/SimCity-2/SimCity-2_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>SimCity 2000</titulo>
+				<url>https://archive.org/embed/SimCity-2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/msdos_Golden_Axe_1990/Golden_Axe_1990_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/msdos_Golden_Axe_1990/Golden_Axe_1990_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Golden Axe</titulo>
+				<url>https://archive.org/embed/msdos_Golden_Axe_1990</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -1142,6 +1262,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
