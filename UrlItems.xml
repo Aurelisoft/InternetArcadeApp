@@ -1049,6 +1049,16 @@
 			</item>
 			<item>
 				<id></id>
+				<icono>https://archive.org/serve/msdos_Dragons_Lair_1993/Dragons_Lair_1993_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/msdos_Dragons_Lair_1993/Dragons_Lair_1993_screenshot.png</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dragon's Lair</titulo>
+				<url>https://archive.org/embed/msdos_Dragons_Lair_1993</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
 				<icono>https://archive.org/serve/fallout-1.1-update/fallout-1.1-update_screenshot.gif</icono>
 				<imgfondo>https://archive.org/serve/fallout-1.1-update/fallout-1.1-update_screenshot.gif</imgfondo>
 				<tipo>dosbox</tipo>
@@ -1262,6 +1272,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
