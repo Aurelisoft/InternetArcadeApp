@@ -7,7 +7,7 @@
 		<urlinformacionlegalterminos>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/informacionlegalterminos.html</urlinformacionlegalterminos>
 		<urlacercade>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/acercade.html</urlacercade>
 		<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
-		<urldonateinternetarchive>https://archive.org/donate?origin=aureli</urldonateinternetarchive>
+		<urldonateinternetarchive>https://archive.org/donate?origin=aurelisoft@gmail.com</urldonateinternetarchive>
 		<descripcion></descripcion>
 		
 		<carpeta>
@@ -1262,6 +1262,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
