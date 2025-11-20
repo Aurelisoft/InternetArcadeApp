@@ -1,15 +1,17 @@
 <InternetArcadeApp>
+	<version>1.1​​​</version>
+	<urlactualizacion>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade​​​</urlactualizacion>
+	<urlacercade>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/acercade.html</urlacercade>
+	<urlopiniones>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade​​​</urlopiniones>
+	<urlinformacionlegalterminos>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/informacionlegalterminos.html</urlinformacionlegalterminos>
+    <urlpoliticaprivacidad>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/politicaprivacidad.html</urlpoliticaprivacidad>
+	<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
+	<urldonateinternetarchive>https://archive.org/donate?origin=aurelisoft@gmail.com</urldonateinternetarchive>
 	<inicio>
 		<id></id>
 		<titulo>Inicio</titulo>
 		<icono></icono>
 		<imgfondo>fondoinicio.jpg</imgfondo>
-		<urlacercade>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/acercade.html</urlacercade>
-		<urlopiniones>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade​​​</urlopiniones>
-		<urlinformacionlegalterminos>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/informacionlegalterminos.html</urlinformacionlegalterminos>
-        <urlpoliticaprivacidad>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/politicaprivacidad.html</urlpoliticaprivacidad>
-		<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
-		<urldonateinternetarchive>https://archive.org/donate?origin=aurelisoft@gmail.com</urldonateinternetarchive>
 		<descripcion></descripcion>
 		
 		<carpeta>
@@ -1274,6 +1276,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
