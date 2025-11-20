@@ -1,6 +1,6 @@
 <InternetArcadeApp>
 	<version>1.1​​​</version>
-	<urlactualizacion>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade​​​</urlactualizacion>
+	<urlactualizacion>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlactualizacion>
 	<urlacercade>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/acercade.html</urlacercade>
 	<urlopiniones>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade​​​</urlopiniones>
 	<urlinformacionlegalterminos>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/informacionlegalterminos.html</urlinformacionlegalterminos>
@@ -1276,6 +1276,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
