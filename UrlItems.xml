@@ -21,7 +21,7 @@
 	<urldonateinternetarchive>https://archive.org/donate?origin=aurelisoft@gmail.com</urldonateinternetarchive>
 	<inicio>
 		<id></id>
-		<titulo>Inicio</titulo>
+		<titulo>Buscar Juegos Arcade y más</titulo>
 		<icono></icono>
 		<imgfondo>fondoinicio.jpg</imgfondo>
 		<descripcion></descripcion>
@@ -1288,6 +1288,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
