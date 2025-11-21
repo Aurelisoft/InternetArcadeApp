@@ -25,6 +25,7 @@
 		<icono></icono>
 		<imgfondo>fondoinicio.jpg</imgfondo>
 		<descripcion></descripcion>
+		<bannerhtml>acercade.html</bannerhtml>
 		
 		<carpeta>
 			<id></id>
@@ -1288,6 +1289,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
