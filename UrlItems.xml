@@ -9,11 +9,11 @@
 		<urlactualizacion>https://www.apple.com/es/app-store/</urlactualizacion>
 		<urlopiniones>https://www.apple.com/es/app-store/</urlopiniones>
 	</ios>
-	<windows>
+	<winui>
 		<version>1.0.0.1</version>
 		<urlactualizacion>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlactualizacion>
 		<urlopiniones>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlopiniones>
-	</windows>
+	</winui>
 	<urlacercade>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/acercade.html</urlacercade>
 	<urlinformacionlegalterminos>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/informacionlegalterminos.html</urlinformacionlegalterminos>
     <urlpoliticaprivacidad>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/politicaprivacidad.html</urlpoliticaprivacidad>
@@ -1288,6 +1288,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
