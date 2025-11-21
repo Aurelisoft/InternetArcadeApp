@@ -7,7 +7,7 @@
 	<ios>
 		<version>1.1</version>
 		<urlactualizacion>https://www.apple.com/es/app-store/</urlactualizacion>
-		<urlopinioneshttps://www.apple.com/es/app-store/</urlopiniones>
+		<urlopiniones>https://www.apple.com/es/app-store/</urlopiniones>
 	</ios>
 	<windows>
 		<version>1.0.0.1</version>
@@ -1288,6 +1288,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
