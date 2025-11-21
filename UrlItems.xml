@@ -19,13 +19,14 @@
     <urlpoliticaprivacidad>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/politicaprivacidad.html</urlpoliticaprivacidad>
 	<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
 	<urldonateinternetarchive>https://archive.org/donate?origin=aurelisoft@gmail.com</urldonateinternetarchive>
+	<bannerhtml>acercade.html</bannerhtml>
 	<inicio>
 		<id></id>
 		<titulo>Buscar Juegos Arcade y más</titulo>
 		<icono></icono>
 		<imgfondo>fondoinicio.jpg</imgfondo>
 		<descripcion></descripcion>
-		<bannerhtml>acercade.html</bannerhtml>
+		<bannerhtml></bannerhtml>
 		
 		<carpeta>
 			<id></id>
@@ -1289,6 +1290,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
