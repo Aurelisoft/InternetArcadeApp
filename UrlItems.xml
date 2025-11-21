@@ -30,7 +30,7 @@
 			<id></id>
 			<titulo>Arcade</titulo>
 			<icono>internet_arcade_logo.png</icono> 
-			<imgfondo></imgfondo>
+			<imgfondo>fondoinicio.jpg</imgfondo>
 			<descripcion></descripcion>
 		
 			<item>
@@ -1288,6 +1288,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
