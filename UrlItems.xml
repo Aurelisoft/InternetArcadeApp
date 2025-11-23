@@ -28,6 +28,17 @@
 		<imgfondo>fondoinicio.jpg</imgfondo>
 		<descripcion></descripcion>
 		<bannerhtml></bannerhtml>
+
+		<item>
+			<id></id>
+			<icono>iconoactualizar.png</icono>
+			<imgfondo>iconoactualizar.png</imgfondo>
+			<tipo>googleplay</tipo>
+			<capitulo>01</capitulo>
+			<titulo>*Actualiza a la última versión y reseña*</titulo>
+			<url>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</url>
+			<descripcion></descripcion>
+		</item>	
 		
 		<carpeta>
 			<id></id>
@@ -1291,6 +1302,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
