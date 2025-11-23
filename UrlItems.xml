@@ -1048,16 +1048,6 @@
 			<descripcion></descripcion>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/XMAS_TDY/XMAS_TDY_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/XMAS_TDY/XMAS_TDY_screenshot.gif</imgfondo>
-				<tipo>dosbox</tipo>
-				<capitulo>01</capitulo>
-				<titulo>Xmas Lemmings (Tandy Graphics and Sound)</titulo>
-				<url>https://archive.org/embed/XMAS_TDY</url>
-				<descripcion></descripcion>
-			</item>
-			<item>
-				<id></id>
 				<icono>https://archive.org/serve/doom-2-play/doom-2-play_screenshot.gif</icono>
 				<imgfondo>https://archive.org/serve/doom-2-play/doom-2-play_screenshot.gif</imgfondo>
 				<tipo>dosbox</tipo>
@@ -1198,14 +1188,14 @@
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/msdos_Golden_Axe_1990/Golden_Axe_1990_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/msdos_Golden_Axe_1990/Golden_Axe_1990_screenshot.gif</imgfondo>
+				<icono>https://archive.org/serve/XMAS_TDY/XMAS_TDY_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/XMAS_TDY/XMAS_TDY_screenshot.gif</imgfondo>
 				<tipo>dosbox</tipo>
 				<capitulo>01</capitulo>
-				<titulo>Golden Axe</titulo>
-				<url>https://archive.org/embed/msdos_Golden_Axe_1990</url>
+				<titulo>Xmas Lemmings (Tandy Graphics and Sound)</titulo>
+				<url>https://archive.org/embed/XMAS_TDY</url>
 				<descripcion></descripcion>
-			</item>
+			</item> 
 		
 		
 		</carpeta>
@@ -1301,6 +1291,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
