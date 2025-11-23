@@ -1038,7 +1038,7 @@
 			
 		</carpeta>
 		
-				<carpeta>
+		<carpeta>
 			<id></id>
 			<titulo>Game Boy Advance Gba</titulo>
 			<icono>game_boy_advance.jpg</icono> 
@@ -1291,6 +1291,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
