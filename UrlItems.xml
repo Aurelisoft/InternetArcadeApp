@@ -1114,16 +1114,28 @@
 				<titulo>Donkey Kong Country 2 (Gameboy Advance)</titulo>
 				<url>https://archive.org/embed/dk2_gba</url>
 				<descripcion></descripcion>
-			</item>
-
-
-
-
-
-
+			</item> 
 			
 		</carpeta>
 		
+
+		<carpeta>
+			<id></id>
+			<titulo>Game Gear</titulo>
+			<icono>gamegear.png</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Tom_and_Jerry_-_The_Movie_1993Sega/gg_Tom_and_Jerry_-_The_Movie_1993Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Tom_and_Jerry_-_The_Movie_1993Sega/gg_Tom_and_Jerry_-_The_Movie_1993Sega_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tom and Jerry - The Movie</titulo>
+				<url>https://archive.org/embed/gg_Tom_and_Jerry_-_The_Movie_1993Sega</url>
+				<descripcion></descripcion>
+			</item>
+		</carpeta>
 		
 		
 		<carpeta>
@@ -1291,6 +1303,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
