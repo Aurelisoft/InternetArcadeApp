@@ -58,6 +58,16 @@
 			</item>		
 			<item>
 				<id></id>
+				<icono>https://archive.org/serve/tmnt_mame/tmnt_mame_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/tmnt_mame/tmnt_mame_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Teenage Mutant Ninja Turtles (Arcade)</titulo>
+				<url>https://archive.org/embed/tmnt_mame</url>
+				<descripcion></descripcion>
+			</item>	
+			<item>
+				<id></id>
 				<icono>https://archive.org/serve/arcade_msh/arcade_msh_screenshot.png</icono>
 				<imgfondo>https://archive.org/serve/arcade_msh/arcade_msh_screenshot.png</imgfondo>
 				<tipo>arcade</tipo>
@@ -1353,6 +1363,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
