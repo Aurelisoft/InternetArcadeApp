@@ -1129,10 +1129,60 @@
 				<id></id>
 				<icono>https://archive.org/serve/gg_Tom_and_Jerry_-_The_Movie_1993Sega/gg_Tom_and_Jerry_-_The_Movie_1993Sega_screenshot.gif</icono>
 				<imgfondo>https://archive.org/serve/gg_Tom_and_Jerry_-_The_Movie_1993Sega/gg_Tom_and_Jerry_-_The_Movie_1993Sega_screenshot.gif</imgfondo>
-				<tipo>dosbox</tipo>
+				<tipo>gamegear</tipo>
 				<capitulo>01</capitulo>
 				<titulo>Tom and Jerry - The Movie</titulo>
 				<url>https://archive.org/embed/gg_Tom_and_Jerry_-_The_Movie_1993Sega</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Wonder_Boy_1990SegaJPen/Wonder_Boy_1990SegaJPen_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Wonder_Boy_1990SegaJPen/Wonder_Boy_1990SegaJPen_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Wonder Boy</titulo>
+				<url>https://archive.org/embed/gg_Wonder_Boy_1990SegaJPen</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Deep_Duck_Trouble_Starring_Donald_Duck_1993Disney_Sega/Deep_Duck_Trouble_Starring_Donald_Duck_1993Disney__Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Deep_Duck_Trouble_Starring_Donald_Duck_1993Disney_Sega/Deep_Duck_Trouble_Starring_Donald_Duck_1993Disney__Sega_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Deep Duck Trouble Starring Donald Duck</titulo>
+				<url>https://archive.org/embed/gg_Deep_Duck_Trouble_Starring_Donald_Duck_1993Disney_Sega</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Captain_America_and_The_Avengers_1993Data_East_Mindscape/Captain_America_and_The_Avengers_1993Data_East_Mindscape_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Captain_America_and_The_Avengers_1993Data_East_Mindscape/Captain_America_and_The_Avengers_1993Data_East_Mindscape_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Captain America and The Avengers</titulo>
+				<url>https://archive.org/embed/gg_Captain_America_and_The_Avengers_1993Data_East_Mindscape</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Prince_of_Persia_1992BroderbundEUen/Prince_of_Persia_1992BroderbundEUen_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Prince_of_Persia_1992BroderbundEUen/Prince_of_Persia_1992BroderbundEUen_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Prince of Persia</titulo>
+				<url>https://archive.org/embed/gg_Prince_of_Persia_1992BroderbundEUen</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Jurassic_Park_1993_Sega/Jurassic_Park_1993_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Jurassic_Park_1993_Sega/Jurassic_Park_1993_Sega_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Jurassic Park</titulo>
+				<url>https://archive.org/embed/gg_Jurassic_Park_1993_Sega</url>
 				<descripcion></descripcion>
 			</item>
 		</carpeta>
@@ -1303,6 +1353,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
