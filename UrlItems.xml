@@ -158,6 +158,16 @@
 			</item>
 			<item>
 				<id></id>
+				<icono>https://archive.org/serve/GNG_DOS/GNG_DOS_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/GNG_DOS/GNG_DOS_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>03</capitulo>
+				<titulo>Ghosts 'N Goblins (Arcade)</titulo>
+				<url>https://archive.org/embed/GNG_DOS</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
 				<icono>https://archive.org/serve/arcade_sfex2/arcade_sfex2_screenshot.png</icono>
 				<imgfondo>https://archive.org/serve/arcade_sfex2/arcade_sfex2_screenshot.png</imgfondo>
 				<tipo>arcade</tipo>
@@ -1363,6 +1373,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
