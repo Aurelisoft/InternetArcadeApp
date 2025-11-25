@@ -1087,6 +1087,16 @@
 			</item>
 			<item>
 				<id></id>
+				<icono>https://archive.org/serve/doom_gba/doom_gba_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/doom_gba/doom_gba_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>DOOM (Gameboy Advance)</titulo>
+				<url>https://archive.org/embed/doom_gba</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
 				<icono>https://archive.org/serve/pokemon_leaf_green-version-u-v-1.1/00_A.jpg</icono>
 				<imgfondo>https://archive.org/serve/pokemon_leaf_green-version-u-v-1.1/00_A.jpg</imgfondo>
 				<tipo>gba</tipo>
@@ -1373,6 +1383,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
