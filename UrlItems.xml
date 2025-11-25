@@ -986,7 +986,7 @@
 		<carpeta>
 			<id></id>
 			<titulo>Play Station Psx</titulo>
-			<icono>playstation.png</icono> 
+			<icono>playstation.png?2</icono> 
 			<imgfondo></imgfondo>
 			<descripcion></descripcion>
 		
@@ -1142,7 +1142,7 @@
 		<carpeta>
 			<id></id>
 			<titulo>Game Gear</titulo>
-			<icono>gamegear.jpg</icono> 
+			<icono>gamegear.jpg?2</icono> 
 			<imgfondo></imgfondo>
 			<descripcion></descripcion>
 			<item>
@@ -1373,6 +1373,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
