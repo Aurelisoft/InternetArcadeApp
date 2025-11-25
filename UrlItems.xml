@@ -1142,7 +1142,7 @@
 		<carpeta>
 			<id></id>
 			<titulo>Game Gear</titulo>
-			<icono>gamegear.png</icono> 
+			<icono>gamegear.jpg</icono> 
 			<imgfondo></imgfondo>
 			<descripcion></descripcion>
 			<item>
@@ -1373,6 +1373,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
