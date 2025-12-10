@@ -147,6 +147,7 @@
         	<teclabotonaccionizquierda></teclabotonaccionizquierda>
         	<teclabotonaccionarriba></teclabotonaccionarriba>
 		</itemtipo>
+		<itemtipo>
         	<tipo>psx</tipo>
         	<estilodivbotonesaccion></estilodivbotonesaccion>
         	<textobotoncoin></textobotoncoin>
@@ -1534,6 +1535,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
