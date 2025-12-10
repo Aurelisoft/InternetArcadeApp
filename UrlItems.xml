@@ -122,6 +122,31 @@
         	<teclabotonaccionizquierda></teclabotonaccionizquierda>
         	<teclabotonaccionarriba></teclabotonaccionarriba>
 		</itemtipo>
+		<itemtipo>
+        	<tipo>gba</tipo>
+        	<estilodivbotonesaccion></estilodivbotonesaccion>
+        	<textobotoncoin></textobotoncoin>
+        	<textobotonstart></textobotonstart>
+        	<textobotonpause></textobotonpause>
+        	<textobotonaccionderecha></textobotonaccionderecha>
+        	<textobotonaccionabajo></textobotonaccionabajo>
+        	<textobotonaccionizquierda></textobotonaccionizquierda>
+        	<textobotonaccionarriba></textobotonaccionarriba>
+        	<estilobotoncoin></estilobotoncoin>
+        	<estilobotonstart></estilobotonstart>
+        	<estilobotonpause></estilobotonpause>
+        	<estilobotonaccionderecha></estilobotonaccionderecha>
+        	<estilobotonaccionabajo></estilobotonaccionabajo>
+        	<estilobotonaccionizquierda></estilobotonaccionizquierda>
+        	<estilobotonaccionarriba></estilobotonaccionarriba>
+        	<teclabotoncoin></teclabotoncoin>
+        	<teclabotonstart></teclabotonstart>
+        	<teclabotonpause></teclabotonpause>
+        	<teclabotonaccionderecha></teclabotonaccionderecha>
+        	<teclabotonaccionabajo></teclabotonaccionabajo>
+        	<teclabotonaccionizquierda></teclabotonaccionizquierda>
+        	<teclabotonaccionarriba></teclabotonaccionarriba>
+		</itemtipo>
 	</tipos>
 	<inicio>
 		<id></id>
@@ -1485,6 +1510,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
