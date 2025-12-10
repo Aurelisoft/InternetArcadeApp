@@ -21,6 +21,32 @@
 	<urldonateinternetarchive>https://archive.org/donate?origin=aurelisoft@gmail.com</urldonateinternetarchive>
 	<imgfondo>fondoinicio.jpg</imgfondo>
 	<bannerhtml>acercade.html</bannerhtml>
+	<tipos>
+		<itemtipo>
+			<tipo>arcade</tipo>
+        	<estilodivbotonesaccion></estilodivbotonesaccion>
+        	<textobotonstart></textobotonstart>
+        	<textobotonpause></textobotonpause>
+        	<textobotonaccionderecha></textobotonaccionderecha>
+        	<textobotonaccionabajo></textobotonaccionabajo>
+        	<textobotonaccionizquierda></textobotonaccionizquierda>
+        	<textobotonaccionarriba></textobotonaccionarriba>
+            <estilobotoncoin></estilobotoncoin>
+            <estilobotonstart></estilobotonstart>
+            <estilobotonpause></estilobotonpause>
+            <estilobotonaccionderecha></estilobotonaccionderecha>
+            <estilobotonaccionabajo></estilobotonaccionabajo>
+            <estilobotonaccionizquierda></estilobotonaccionizquierda>
+            <estilobotonaccionarriba></estilobotonaccionarriba>
+            <teclabotoncoin></teclabotoncoin>
+            <teclabotonstart></teclabotonstart>
+            <teclabotonpause></teclabotonpause>
+            <teclabotonaccionderecha></teclabotonaccionderecha>
+            <teclabotonaccionabajo></teclabotonaccionabajo>
+            <teclabotonaccionizquierda></teclabotonaccionizquierda>
+            <teclabotonaccionarriba></teclabotonaccionarriba>
+		</itemtipo>
+	</tipos>
 	<inicio>
 		<id></id>
 		<titulo>Buscar Juegos Arcade y más</titulo>
@@ -1383,6 +1409,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
