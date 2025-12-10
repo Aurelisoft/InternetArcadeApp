@@ -74,6 +74,31 @@
 		</itemtipo>
 		<itemtipo>
         	<tipo>snes</tipo>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>A</textobotonaccionderecha>
+        	<textobotonaccionabajo>B</textobotonaccionabajo>
+        	<textobotonaccionizquierda>Y</textobotonaccionizquierda>
+        	<textobotonaccionarriba>X</textobotonaccionarriba>
+        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(red,black);z-index:9999;position:absolute;top:45px;right:5px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>background:radial-gradient(yellow,black);z-index:9999;position:absolute;top:85px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(green,black);z-index:9999;position:absolute;top:45px;right:85px;height:50px;width:50px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>background:radial-gradient(blue,black);z-index:9999;position:absolute;top:5px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>' ','Space',32</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Alt','AltLeft',18</teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba>'Shift','ShiftLeft',16</teclabotonaccionarriba>
+		</itemtipo>
+		<itemtipo>
+        	<tipo>genesis</tipo>
         	<estilodivbotonesaccion></estilodivbotonesaccion>
         	<textobotoncoin></textobotoncoin>
         	<textobotonstart></textobotonstart>
@@ -1460,6 +1485,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
