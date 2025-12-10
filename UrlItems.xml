@@ -49,27 +49,27 @@
 		</itemtipo>
 		<itemtipo>
         	<tipo>nes</tipo>
-        	<estilodivbotonesaccion></estilodivbotonesaccion>
-        	<textobotoncoin></textobotoncoin>
-        	<textobotonstart></textobotonstart>
-        	<textobotonpause></textobotonpause>
-        	<textobotonaccionderecha></textobotonaccionderecha>
+        	<estilodivbotonesaccion>background:linear-gradient(transparent,black,transparent);position:absolute;top:120px;right:15px;width:140px;height:100px;border-radius:10px;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>A</textobotonaccionderecha>
         	<textobotonaccionabajo></textobotonaccionabajo>
-        	<textobotonaccionizquierda></textobotonaccionizquierda>
+        	<textobotonaccionizquierda>B</textobotonaccionizquierda>
         	<textobotonaccionarriba></textobotonaccionarriba>
-        	<estilobotoncoin></estilobotoncoin>
-        	<estilobotonstart></estilobotonstart>
-        	<estilobotonpause></estilobotonpause>
-        	<estilobotonaccionderecha></estilobotonaccionderecha>
-        	<estilobotonaccionabajo></estilobotonaccionabajo>
-        	<estilobotonaccionizquierda></estilobotonaccionizquierda>
-        	<estilobotonaccionarriba></estilobotonaccionarriba>
-        	<teclabotoncoin></teclabotoncoin>
-        	<teclabotonstart></teclabotonstart>
-        	<teclabotonpause></teclabotonpause>
-        	<teclabotonaccionderecha></teclabotonaccionderecha>
+        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:65px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:10px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(red,black);z-index:9999;position:absolute;top:25px;right:10px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>display:none;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(red,black);z-index:9999;position:absolute;top:25px;right:80px;height:50px;width:50px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>'Alt','AltLeft',18</teclabotonaccionderecha>
         	<teclabotonaccionabajo></teclabotonaccionabajo>
-        	<teclabotonaccionizquierda></teclabotonaccionizquierda>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
         	<teclabotonaccionarriba></teclabotonaccionarriba>
 		</itemtipo>
 		<itemtipo>
@@ -1460,6 +1460,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
