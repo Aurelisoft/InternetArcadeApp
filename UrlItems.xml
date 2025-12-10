@@ -25,6 +25,7 @@
 		<itemtipo>
 			<tipo>arcade</tipo>
         	<estilodivbotonesaccion></estilodivbotonesaccion>
+        	<textobotoncoin></textobotoncoin>
         	<textobotonstart></textobotonstart>
         	<textobotonpause></textobotonpause>
         	<textobotonaccionderecha></textobotonaccionderecha>
@@ -1409,6 +1410,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
