@@ -39,13 +39,17 @@
             <estilobotonaccionabajo>background:radial-gradient(red,black);z-index:9999;position:absolute;top:85px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionabajo>
             <estilobotonaccionizquierda>background:radial-gradient(yellow,black);z-index:9999;position:absolute;top:45px;right:85px;height:50px;width:50px;border-radius:50%;</estilobotonaccionizquierda>
             <estilobotonaccionarriba>background:radial-gradient(yellow,black);z-index:9999;position:absolute;top:5px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionarriba>
-            <teclabotoncoin>'5','Digit5',53</teclabotoncoin>
-            <teclabotonstart>'1','Digit1',49</teclabotonstart>
-            <teclabotonpause>'p','KeyP',80</teclabotonpause>
-            <teclabotonaccionderecha>'Shift','ShiftLeft',16</teclabotonaccionderecha>
-            <teclabotonaccionabajo>' ','Space',32</teclabotonaccionabajo>
-            <teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
-            <teclabotonaccionarriba>'Alt','AltLeft',18</teclabotonaccionarriba>
+            <teclabotoncoin>'5','Digit5',53,null,null,null,null</teclabotoncoin>
+            <teclabotonstart>'1','Digit1',49,null,null,null,null</teclabotonstart>
+            <teclabotonpause>'p','KeyP',80,null,null,null,null</teclabotonpause>
+            <teclabotonaccionderecha>'Shift','ShiftLeft',16,null,null,null,null</teclabotonaccionderecha>
+            <teclabotonaccionabajo>' ','Space',32,null,null,null,null</teclabotonaccionabajo>
+            <teclabotonaccionizquierda>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionizquierda>
+            <teclabotonaccionarriba>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>nes</tipo>
@@ -64,13 +68,17 @@
         	<estilobotonaccionabajo>display:none;</estilobotonaccionabajo>
         	<estilobotonaccionizquierda>background:radial-gradient(red,black);z-index:9999;position:absolute;top:25px;right:80px;height:50px;width:50px;border-radius:50%;</estilobotonaccionizquierda>
         	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
-        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
-        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
-        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
-        	<teclabotonaccionderecha>'Alt','AltLeft',18</teclabotonaccionderecha>
+        	<teclabotoncoin>'5','Digit5',53,null,null,null,null</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49,null,null,null,null</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80,null,null,null,null</teclabotonpause>
+        	<teclabotonaccionderecha>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionderecha>
         	<teclabotonaccionabajo></teclabotonaccionabajo>
-        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionizquierda>
         	<teclabotonaccionarriba></teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>snes</tipo>
@@ -89,13 +97,17 @@
         	<estilobotonaccionabajo>background:radial-gradient(yellow,black);z-index:9999;position:absolute;top:85px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionabajo>
         	<estilobotonaccionizquierda>background:radial-gradient(green,black);z-index:9999;position:absolute;top:45px;right:85px;height:50px;width:50px;border-radius:50%;</estilobotonaccionizquierda>
         	<estilobotonaccionarriba>background:radial-gradient(blue,black);z-index:9999;position:absolute;top:5px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionarriba>
-        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
-        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
-        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
-        	<teclabotonaccionderecha>' ','Space',32</teclabotonaccionderecha>
-        	<teclabotonaccionabajo>'Alt','AltLeft',18</teclabotonaccionabajo>
-        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
-        	<teclabotonaccionarriba>'Shift','ShiftLeft',16</teclabotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53,null,null,null,null</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49,null,null,null,null</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80,null,null,null,null</teclabotonpause>
+        	<teclabotonaccionderecha>' ','Space',32,null,null,null,null</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba>'Shift','ShiftLeft',16,null,null,null,null</teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>genesis</tipo>
@@ -114,13 +126,17 @@
         	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:85px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionabajo>
         	<estilobotonaccionizquierda>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:45px;right:85px;height:50px;width:50px;border-radius:50%;</estilobotonaccionizquierda>
         	<estilobotonaccionarriba>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:5px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionarriba>
-        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
-        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
-        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
-        	<teclabotonaccionderecha>'Control','ControlLeft',17</teclabotonaccionderecha>
-        	<teclabotonaccionabajo>'Alt','AltLeft',18</teclabotonaccionabajo>
-        	<teclabotonaccionizquierda>' ','Space',32</teclabotonaccionizquierda>
-        	<teclabotonaccionarriba>'Shift','ShiftLeft',16</teclabotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53,null,null,null,null</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49,null,null,null,null</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80,null,null,null,null</teclabotonpause>
+        	<teclabotonaccionderecha>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>' ','Space',32,null,null,null,null</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba>'Shift','ShiftLeft',16,null,null,null,null</teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>gba</tipo>
@@ -139,13 +155,17 @@
         	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:85px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionabajo>
         	<estilobotonaccionizquierda>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:45px;right:85px;height:50px;width:50px;border-radius:50%;</estilobotonaccionizquierda>
         	<estilobotonaccionarriba>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:5px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionarriba>
-        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
-        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
-        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
-        	<teclabotonaccionderecha>'Alt','AltLeft',18</teclabotonaccionderecha>
-        	<teclabotonaccionabajo>'Control','ControlLeft',17</teclabotonaccionabajo>
-        	<teclabotonaccionizquierda>' ','Space',32</teclabotonaccionizquierda>
-        	<teclabotonaccionarriba>'Shift','ShiftLeft',16</teclabotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53,null,null,null,null</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49,null,null,null,null</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80,null,null,null,null</teclabotonpause>
+        	<teclabotonaccionderecha>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>' ','Space',32,null,null,null,null</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba>'Shift','ShiftLeft',16,null,null,null,null</teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>psx</tipo>
@@ -164,13 +184,17 @@
         	<estilobotonaccionabajo>background:radial-gradient(gray,black);font-size:30px;color:blue;z-index:9999;position:absolute;top:85px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionabajo>
         	<estilobotonaccionizquierda>background:radial-gradient(gray,black);font-size:30px;color:deeppink;z-index:9999;position:absolute;top:45px;right:85px;height:50px;width:50px;border-radius:50%;</estilobotonaccionizquierda>
         	<estilobotonaccionarriba>background:radial-gradient(gray,black);font-size:30px;color:green;z-index:9999;position:absolute;top:5px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionarriba>
-        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
-        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
-        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
-        	<teclabotonaccionderecha>' ','Space',32</teclabotonaccionderecha>
-        	<teclabotonaccionabajo>'Alt','AltLeft',18</teclabotonaccionabajo>
-        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
-        	<teclabotonaccionarriba>'Shift','ShiftLeft',16</teclabotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53,null,null,null,null</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49,null,null,null,null</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80,null,null,null,null</teclabotonpause>
+        	<teclabotonaccionderecha>' ','Space',32,null,null,null,null</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba>'Shift','ShiftLeft',16,null,null,null,null</teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>gamegear</tipo>
@@ -189,13 +213,17 @@
         	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:65px;right:75px;height:50px;width:50px;border-radius:50%;</estilobotonaccionabajo>
         	<estilobotonaccionizquierda>display:none;</estilobotonaccionizquierda>
         	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
-        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
-        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
-        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
-        	<teclabotonaccionderecha>'Control','ControlLeft',17</teclabotonaccionderecha>
-        	<teclabotonaccionabajo>'Alt','AltLeft',18</teclabotonaccionabajo>
+        	<teclabotoncoin>'5','Digit5',53,null,null,null,null</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49,null,null,null,null</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80,null,null,null,null</teclabotonpause>
+        	<teclabotonaccionderecha>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionabajo>
         	<teclabotonaccionizquierda></teclabotonaccionizquierda>
         	<teclabotonaccionarriba></teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
 		</itemtipo>
 	</tipos>
 	<inicio>
@@ -1560,6 +1588,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
