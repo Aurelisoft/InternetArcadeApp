@@ -50,6 +50,10 @@
             <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
             <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
             <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</touchabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>nes</tipo>
@@ -79,6 +83,10 @@
             <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
             <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
             <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</touchabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>snes</tipo>
@@ -108,6 +116,10 @@
             <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
             <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
             <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</touchabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>genesis</tipo>
@@ -137,6 +149,10 @@
             <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
             <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
             <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</touchabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>gba</tipo>
@@ -166,6 +182,10 @@
             <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
             <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
             <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</touchabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>psx</tipo>
@@ -195,6 +215,10 @@
             <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
             <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
             <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</touchabajo>
 		</itemtipo>
 		<itemtipo>
         	<tipo>gamegear</tipo>
@@ -224,6 +248,10 @@
             <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
             <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
             <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</touchabajo>
 		</itemtipo>
 	</tipos>
 	<inicio>
@@ -1588,6 +1616,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
