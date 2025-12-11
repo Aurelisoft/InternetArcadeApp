@@ -46,10 +46,10 @@
             <teclabotonaccionabajo>' ','Space',32,null,null,null,null</teclabotonaccionabajo>
             <teclabotonaccionizquierda>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionizquierda>
             <teclabotonaccionarriba>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionarriba>
-            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
-            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
-            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
-            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,'ArrowUp','ArrowUp',38</teclabotonabajo>
             <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
             <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
             <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
@@ -79,10 +79,10 @@
         	<teclabotonaccionabajo></teclabotonaccionabajo>
         	<teclabotonaccionizquierda>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionizquierda>
         	<teclabotonaccionarriba></teclabotonaccionarriba>
-            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
-            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
-            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
-            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,'ArrowUp','ArrowUp',38</teclabotonabajo>
             <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
             <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
             <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
@@ -112,10 +112,10 @@
         	<teclabotonaccionabajo>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionabajo>
         	<teclabotonaccionizquierda>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionizquierda>
         	<teclabotonaccionarriba>'Shift','ShiftLeft',16,null,null,null,null</teclabotonaccionarriba>
-            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
-            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
-            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
-            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,'ArrowUp','ArrowUp',38</teclabotonabajo>
             <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
             <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
             <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
@@ -145,10 +145,10 @@
         	<teclabotonaccionabajo>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionabajo>
         	<teclabotonaccionizquierda>' ','Space',32,null,null,null,null</teclabotonaccionizquierda>
         	<teclabotonaccionarriba>'Shift','ShiftLeft',16,null,null,null,null</teclabotonaccionarriba>
-            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
-            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
-            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
-            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,'ArrowUp','ArrowUp',38</teclabotonabajo>
             <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
             <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
             <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
@@ -178,10 +178,10 @@
         	<teclabotonaccionabajo>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionabajo>
         	<teclabotonaccionizquierda>' ','Space',32,null,null,null,null</teclabotonaccionizquierda>
         	<teclabotonaccionarriba>'Shift','ShiftLeft',16,null,null,null,null</teclabotonaccionarriba>
-            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
-            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
-            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
-            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,'ArrowUp','ArrowUp',38</teclabotonabajo>
             <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
             <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
             <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
@@ -211,10 +211,10 @@
         	<teclabotonaccionabajo>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionabajo>
         	<teclabotonaccionizquierda>'Control','ControlLeft',17,null,null,null,null</teclabotonaccionizquierda>
         	<teclabotonaccionarriba>'Shift','ShiftLeft',16,null,null,null,null</teclabotonaccionarriba>
-            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
-            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
-            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
-            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,'ArrowUp','ArrowUp',38</teclabotonabajo>
             <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
             <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
             <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
@@ -244,10 +244,10 @@
         	<teclabotonaccionabajo>'Alt','AltLeft',18,null,null,null,null</teclabotonaccionabajo>
         	<teclabotonaccionizquierda></teclabotonaccionizquierda>
         	<teclabotonaccionarriba></teclabotonaccionarriba>
-            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,newInputArrowRight,'ArrowRight','ArrowRight',39</teclabotonizquierda>
-            <teclabotonarriba>'ArrowUp','ArrowUp',38,newInputArrowDown,'ArrowDown','ArrowDown',40</teclabotonarriba>
-            <teclabotonderecha>'ArrowRight','ArrowRight',39,newInputArrowLeft,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
-            <teclabotonabajo>'ArrowDown','ArrowDown',40,newInputArrowUp,'ArrowUp','ArrowUp',38</teclabotonabajo>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37,'ArrowRight','ArrowRight',39</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38,'ArrowDown','ArrowDown',40</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39,'ArrowLeft','ArrowLeft',37</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40,'ArrowUp','ArrowUp',38</teclabotonabajo>
             <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
             <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
             <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
@@ -1616,6 +1616,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
