@@ -1594,7 +1594,39 @@
 				<capitulo>01</capitulo>
 				<titulo>Battle Chess</titulo>
 				<url>https://archive.org/embed/battle_chess_1988</url>
-				<descripcion></descripcion>
+				<descripcion></descripcion>				
+				<modificacionestipo>
+					<estilodivbotonesaccion>display:none;</estilodivbotonesaccion>
+		        	<textobotoncoin>Select</textobotoncoin>
+		        	<textobotonstart>Start</textobotonstart>
+		        	<textobotonpause>Pause</textobotonpause>
+		        	<textobotonaccionderecha></textobotonaccionderecha>
+		        	<textobotonaccionabajo></textobotonaccionabajo>
+		        	<textobotonaccionizquierda></textobotonaccionizquierda>
+		        	<textobotonaccionarriba></textobotonaccionarriba>
+		        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+		        	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
+		        	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
+		        	<estilobotonaccionderecha>display:none;</estilobotonaccionderecha>
+		        	<estilobotonaccionabajo>display:none;</estilobotonaccionabajo>
+		        	<estilobotonaccionizquierda>display:none;</estilobotonaccionizquierda>
+		        	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
+		        	<teclabotoncoin>'Enter','Enter',13</teclabotoncoin>
+		    		<teclabotonstart>'Escape','Escape',27</teclabotonstart>
+		    		<teclabotonpause>' ','Space',32</teclabotonpause>
+				    <teclabotonaccionderecha></teclabotonaccionderecha>
+				    <teclabotonaccionabajo></teclabotonaccionabajo>
+				    <teclabotonaccionizquierda></teclabotonaccionizquierda>
+				    <teclabotonaccionarriba></teclabotonaccionarriba>				
+		            <teclabotonizquierda>mouse</teclabotonizquierda>
+		            <teclabotonarriba>mouse</teclabotonarriba>
+		            <teclabotonderecha>mouse</teclabotonderecha>
+		            <teclabotonabajo>mouse</teclabotonabajo>
+		            <touchizquierda>mouse</touchizquierda>
+		            <toucharriba>mouse</toucharriba>
+		            <touchderecha>mouse</touchderecha>
+		            <touchabajo>mouse</touchabajo>
+				</modificacionestipo>
 			</item>
 			<item>
 				<id></id>
@@ -1667,6 +1699,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
