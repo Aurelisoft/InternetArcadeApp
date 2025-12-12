@@ -1539,16 +1539,6 @@
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/quake_dos/quake_dos_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/quake_dos/quake_dos_screenshot.gif</imgfondo>
-				<tipo>dosbox</tipo>
-				<capitulo>01</capitulo>
-				<titulo>Quake</titulo>
-				<url>https://archive.org/embed/quake_dos</url>
-				<descripcion></descripcion>
-			</item>
-			<item>
-				<id></id>
 				<icono>https://archive.org/serve/die_siedler_2_151/die_siedler_2_151_screenshot.gif</icono>
 				<imgfondo>https://archive.org/serve/die_siedler_2_151/die_siedler_2_151_screenshot.gif</imgfondo>
 				<tipo>dosbox</tipo>
@@ -1616,6 +1606,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
