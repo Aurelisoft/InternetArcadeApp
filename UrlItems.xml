@@ -1495,6 +1495,10 @@
 				<icono>https://archive.org/serve/doom-2-play/doom-2-play_screenshot.gif</icono>
 				<imgfondo>https://archive.org/serve/doom-2-play/doom-2-play_screenshot.gif</imgfondo>
 				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>DOOM II: Hell on Earth</titulo>
+				<url>https://archive.org/embed/doom-2-play</url>
+				<descripcion></descripcion>
 				<modificacionestipo>
 					<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
 		        	<textobotoncoin>Select</textobotoncoin>
@@ -1527,16 +1531,16 @@
 		            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
 		            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
 				</modificacionestipo>
-				<capitulo>01</capitulo>
-				<titulo>DOOM II: Hell on Earth</titulo>
-				<url>https://archive.org/embed/doom-2-play</url>
-				<descripcion></descripcion>
 			</item>
 			<item>
 				<id></id>
 				<icono>https://archive.org/serve/quake_dos/quake_dos_screenshot.gif</icono>
 				<imgfondo>https://archive.org/serve/quake_dos/quake_dos_screenshot.gif</imgfondo>
-				<tipo>dosbox</tipo>				
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Quake</titulo>
+				<url>https://archive.org/embed/quake_dos</url>
+				<descripcion></descripcion>				
 				<modificacionestipo>
 					<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
 		        	<textobotoncoin>Select</textobotoncoin>
@@ -1569,10 +1573,6 @@
 		            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
 		            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
 				</modificacionestipo>
-				<capitulo>01</capitulo>
-				<titulo>Quake</titulo>
-				<url>https://archive.org/embed/quake_dos</url>
-				<descripcion></descripcion>
 			</item>
 			<item>
 				<id></id>
@@ -1703,6 +1703,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
