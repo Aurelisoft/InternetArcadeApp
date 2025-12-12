@@ -253,6 +253,39 @@
             <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
             <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
 		</itemtipo>
+		<itemtipo>
+        	<tipo>dosbox</tipo>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>1</textobotonaccionderecha>
+        	<textobotonaccionabajo>2</textobotonaccionabajo>
+        	<textobotonaccionizquierda>3</textobotonaccionizquierda>
+        	<textobotonaccionarriba>4</textobotonaccionarriba>
+        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:45px;right:5px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:85px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:45px;right:85px;height:50px;width:50px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:5px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionarriba>
+        	<teclabotoncoin>'Enter','Enter',13</teclabotoncoin>
+        	<teclabotonstart>'Enter','Enter',13</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>'Alt','AltLeft',18</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Control','ControlLeft',17</teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>' ','Space',32</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba>'Shift','ShiftLeft',16</teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
 	</tipos>
 	<inicio>
 		<id></id>
@@ -1606,6 +1639,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
