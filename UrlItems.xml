@@ -1495,6 +1495,38 @@
 				<icono>https://archive.org/serve/doom-2-play/doom-2-play_screenshot.gif</icono>
 				<imgfondo>https://archive.org/serve/doom-2-play/doom-2-play_screenshot.gif</imgfondo>
 				<tipo>dosbox</tipo>
+				<modificacionestipo>
+					<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+		        	<textobotoncoin>Select</textobotoncoin>
+		        	<textobotonstart>Esc</textobotonstart>
+		        	<textobotonpause>Pause</textobotonpause>
+		        	<textobotonaccionderecha>2</textobotonaccionderecha>
+		        	<textobotonaccionabajo>1</textobotonaccionabajo>
+		        	<textobotonaccionizquierda></textobotonaccionizquierda>
+		        	<textobotonaccionarriba></textobotonaccionarriba>
+		        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+		        	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
+		        	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
+		        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:25px;right:15px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
+		        	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:65px;right:75px;height:50px;width:50px;border-radius:50%;</estilobotonaccionabajo>
+		        	<estilobotonaccionizquierda>display:none;</estilobotonaccionizquierda>
+		        	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
+		        	<teclabotoncoin>'Enter','Enter',13</teclabotoncoin>
+		        	<teclabotonstart>'Escape','Escape',27</teclabotonstart>
+		        	<teclabotonpause>'Pause','Pause',19</teclabotonpause>
+		        	<teclabotonaccionderecha>'Control','ControlLeft',17</teclabotonaccionderecha>
+		        	<teclabotonaccionabajo>' ','Space',32</teclabotonaccionabajo>
+		        	<teclabotonaccionizquierda></teclabotonaccionizquierda>
+		        	<teclabotonaccionarriba></teclabotonaccionarriba>
+		            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+		            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+		            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+		            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+		            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+		            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+		            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+		            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+				</modificacionestipo>
 				<capitulo>01</capitulo>
 				<titulo>DOOM II: Hell on Earth</titulo>
 				<url>https://archive.org/embed/doom-2-play</url>
@@ -1639,6 +1671,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
