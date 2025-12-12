@@ -1486,7 +1486,7 @@
 		
 		<carpeta>
 			<id></id>
-			<titulo>PC Game DosBox (de momento experimental)</titulo>
+			<titulo>PC Game DosBox</titulo>
 			<icono>ms_dos.png</icono> 
 			<imgfondo></imgfondo>
 			<descripcion></descripcion>
@@ -1703,6 +1703,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
