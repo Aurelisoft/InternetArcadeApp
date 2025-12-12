@@ -1546,26 +1546,6 @@
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/msdos_Dragons_Lair_1993/Dragons_Lair_1993_screenshot.png</icono>
-				<imgfondo>https://archive.org/serve/msdos_Dragons_Lair_1993/Dragons_Lair_1993_screenshot.png</imgfondo>
-				<tipo>dosbox</tipo>
-				<capitulo>01</capitulo>
-				<titulo>Dragon's Lair</titulo>
-				<url>https://archive.org/embed/msdos_Dragons_Lair_1993</url>
-				<descripcion></descripcion>
-			</item>
-			<item>
-				<id></id>
-				<icono>https://archive.org/serve/fallout-1.1-update/fallout-1.1-update_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/fallout-1.1-update/fallout-1.1-update_screenshot.gif</imgfondo>
-				<tipo>dosbox</tipo>
-				<capitulo>01</capitulo>
-				<titulo>Fallout</titulo>
-				<url>https://archive.org/embed/fallout-1.1-update</url>
-				<descripcion></descripcion>
-			</item>
-			<item>
-				<id></id>
 				<icono>https://archive.org/serve/monkey_dos/bandicam%202020-12-13%2020-44-40-725.jpg</icono>
 				<imgfondo>https://archive.org/serve/monkey_dos/bandicam%202020-12-13%2020-44-40-725.jpg</imgfondo>
 				<tipo>dosbox</tipo>
@@ -1636,6 +1616,26 @@
 				<url>https://archive.org/embed/IndianaJones_Atlantis</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/msdos_Dragons_Lair_1993/Dragons_Lair_1993_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/msdos_Dragons_Lair_1993/Dragons_Lair_1993_screenshot.png</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dragon's Lair</titulo>
+				<url>https://archive.org/embed/msdos_Dragons_Lair_1993</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/fallout-1.1-update/fallout-1.1-update_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/fallout-1.1-update/fallout-1.1-update_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Fallout</titulo>
+				<url>https://archive.org/embed/fallout-1.1-update</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -1645,6 +1645,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
