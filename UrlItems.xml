@@ -1556,7 +1556,7 @@
 				<modificacionestipo>
 					<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
 		        	<textobotoncoin>Select</textobotoncoin>
-		        	<textobotonstart>Start</textobotonstart>
+		        	<textobotonstart>Esc</textobotonstart>
 		        	<textobotonpause>Pause</textobotonpause>
 		        	<textobotonaccionderecha>N</textobotonaccionderecha>
 		        	<textobotonaccionabajo>.</textobotonaccionabajo>
@@ -1598,7 +1598,7 @@
 				<modificacionestipo>
 					<estilodivbotonesaccion>display:none;</estilodivbotonesaccion>
 		        	<textobotoncoin>Select</textobotoncoin>
-		        	<textobotonstart>Start</textobotonstart>
+		        	<textobotonstart>Esc</textobotonstart>
 		        	<textobotonpause>Pause</textobotonpause>
 		        	<textobotonaccionderecha></textobotonaccionderecha>
 		        	<textobotonaccionabajo></textobotonaccionabajo>
@@ -1699,6 +1699,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
