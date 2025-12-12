@@ -1604,36 +1604,6 @@
 				<url>https://archive.org/embed/IndianaJones_Atlantis</url>
 				<descripcion></descripcion>
 			</item>
-			<item>
-				<id></id>
-				<icono>https://archive.org/serve/msdos_SimCity_1989/SimCity_1989_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/msdos_SimCity_1989/SimCity_1989_screenshot.gif</imgfondo>
-				<tipo>dosbox</tipo>
-				<capitulo>01</capitulo>
-				<titulo>SimCity</titulo>
-				<url>https://archive.org/embed/msdos_SimCity_1989</url>
-				<descripcion></descripcion>
-			</item>
-			<item>
-				<id></id>
-				<icono>https://archive.org/serve/SimCity-2/SimCity-2_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/SimCity-2/SimCity-2_screenshot.gif</imgfondo>
-				<tipo>dosbox</tipo>
-				<capitulo>01</capitulo>
-				<titulo>SimCity 2000</titulo>
-				<url>https://archive.org/embed/SimCity-2</url>
-				<descripcion></descripcion>
-			</item>
-			<item>
-				<id></id>
-				<icono>https://archive.org/serve/XMAS_TDY/XMAS_TDY_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/XMAS_TDY/XMAS_TDY_screenshot.gif</imgfondo>
-				<tipo>dosbox</tipo>
-				<capitulo>01</capitulo>
-				<titulo>Xmas Lemmings (Tandy Graphics and Sound)</titulo>
-				<url>https://archive.org/embed/XMAS_TDY</url>
-				<descripcion></descripcion>
-			</item> 
 		
 		
 		</carpeta>
@@ -1643,6 +1613,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
