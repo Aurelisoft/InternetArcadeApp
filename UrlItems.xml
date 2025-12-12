@@ -259,8 +259,8 @@
 		    <textobotoncoin>Select</textobotoncoin>
 		    <textobotonstart>Esc</textobotonstart>
 		    <textobotonpause>Pause</textobotonpause>
-		    <textobotonaccionderecha>2</textobotonaccionderecha>
-		    <textobotonaccionabajo>1</textobotonaccionabajo>
+		    <textobotonaccionderecha>A</textobotonaccionderecha>
+		    <textobotonaccionabajo>B</textobotonaccionabajo>
 		    <textobotonaccionizquierda></textobotonaccionizquierda>
 		    <textobotonaccionarriba></textobotonaccionarriba>
 		    <estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
@@ -1613,6 +1613,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
