@@ -1619,25 +1619,25 @@
 		        	<textobotoncoin>Esc</textobotoncoin>
 		        	<textobotonstart>Select</textobotonstart>
 		        	<textobotonpause>Pause</textobotonpause>
-		        	<textobotonaccionderecha></textobotonaccionderecha>
-		        	<textobotonaccionabajo></textobotonaccionabajo>
-		        	<textobotonaccionizquierda></textobotonaccionizquierda>
-		        	<textobotonaccionarriba></textobotonaccionarriba>
+		        	<textobotonaccionderecha>N</textobotonaccionderecha>
+		        	<textobotonaccionabajo>M2</textobotonaccionabajo>
+		        	<textobotonaccionizquierda>M1</textobotonaccionizquierda>
+		        	<textobotonaccionarriba>Y</textobotonaccionarriba>
 		        	<estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
             		<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
 		        	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
 		        	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
-		        	<estilobotonaccionderecha>display:none;</estilobotonaccionderecha>
-		        	<estilobotonaccionabajo>display:none;</estilobotonaccionabajo>
-		        	<estilobotonaccionizquierda>display:none;</estilobotonaccionizquierda>
-		        	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
+		        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:45px;right:5px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
+		        	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:85px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionabajo>
+		        	<estilobotonaccionizquierda>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:45px;right:85px;height:50px;width:50px;border-radius:50%;</estilobotonaccionizquierda>
+		        	<estilobotonaccionarriba>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:5px;right:45px;height:50px;width:50px;border-radius:50%;</estilobotonaccionarriba>
 		        	<teclabotoncoin>'Escape','Escape',27</teclabotoncoin>
 		    		<teclabotonstart>'Enter','Enter',13</teclabotonstart>
 		    		<teclabotonpause>' ','Space',32</teclabotonpause>
-				    <teclabotonaccionderecha></teclabotonaccionderecha>
-				    <teclabotonaccionabajo></teclabotonaccionabajo>
-				    <teclabotonaccionizquierda></teclabotonaccionizquierda>
-				    <teclabotonaccionarriba></teclabotonaccionarriba>				
+				    <teclabotonaccionderecha>'n','KeyN',78</teclabotonaccionderecha>
+				    <teclabotonaccionabajo>mouse2</teclabotonaccionabajo>
+				    <teclabotonaccionizquierda>mouse1</teclabotonaccionizquierda>
+				    <teclabotonaccionarriba>'y','KeyY',89</teclabotonaccionarriba>				
 		            <teclabotonizquierda>mouse</teclabotonizquierda>
 		            <teclabotonarriba>mouse</teclabotonarriba>
 		            <teclabotonderecha>mouse</teclabotonderecha>
@@ -1721,6 +1721,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
