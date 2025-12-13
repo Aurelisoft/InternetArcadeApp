@@ -24,6 +24,7 @@
 	<tipos>
 		<itemtipo>
 			<tipo>arcade</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
         	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Coin</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
@@ -32,6 +33,7 @@
         	<textobotonaccionabajo>4</textobotonaccionabajo>
         	<textobotonaccionizquierda>1</textobotonaccionizquierda>
         	<textobotonaccionarriba>2</textobotonaccionarriba>
+            <estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
             <estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
             <estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
             <estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
@@ -57,6 +59,7 @@
 		</itemtipo>
 		<itemtipo>
         	<tipo>nes</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
         	<estilodivbotonesaccion>background:linear-gradient(transparent,black,transparent);position:absolute;top:120px;right:15px;width:140px;height:100px;border-radius:10px;</estilodivbotonesaccion>
         	<textobotoncoin>Select</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
@@ -65,7 +68,8 @@
         	<textobotonaccionabajo></textobotonaccionabajo>
         	<textobotonaccionizquierda>B</textobotonaccionizquierda>
         	<textobotonaccionarriba></textobotonaccionarriba>
-        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+        	<estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
         	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:65px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
         	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:10px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
         	<estilobotonaccionderecha>background:radial-gradient(red,black);z-index:9999;position:absolute;top:25px;right:10px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
@@ -90,6 +94,7 @@
 		</itemtipo>
 		<itemtipo>
         	<tipo>snes</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
         	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Select</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
@@ -98,7 +103,8 @@
         	<textobotonaccionabajo>B</textobotonaccionabajo>
         	<textobotonaccionizquierda>Y</textobotonaccionizquierda>
         	<textobotonaccionarriba>X</textobotonaccionarriba>
-        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+        	<estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
         	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
         	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
         	<estilobotonaccionderecha>background:radial-gradient(red,black);z-index:9999;position:absolute;top:45px;right:5px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
@@ -123,6 +129,7 @@
 		</itemtipo>
 		<itemtipo>
         	<tipo>genesis</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
         	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Select</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
@@ -131,7 +138,8 @@
         	<textobotonaccionabajo>B</textobotonaccionabajo>
         	<textobotonaccionizquierda>C</textobotonaccionizquierda>
         	<textobotonaccionarriba>D</textobotonaccionarriba>
-        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+        	<estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
         	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
         	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
         	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:45px;right:5px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
@@ -156,6 +164,7 @@
 		</itemtipo>
 		<itemtipo>
         	<tipo>gba</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
         	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Select</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
@@ -164,7 +173,8 @@
         	<textobotonaccionabajo>B</textobotonaccionabajo>
         	<textobotonaccionizquierda>L</textobotonaccionizquierda>
         	<textobotonaccionarriba>R</textobotonaccionarriba>
-        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+        	<estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
         	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
         	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
         	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:45px;right:5px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
@@ -189,6 +199,7 @@
 		</itemtipo>
 		<itemtipo>
         	<tipo>psx</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
         	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Select</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
@@ -197,7 +208,8 @@
         	<textobotonaccionabajo>✕</textobotonaccionabajo>
         	<textobotonaccionizquierda>☐</textobotonaccionizquierda>
         	<textobotonaccionarriba>△</textobotonaccionarriba>
-        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+        	<estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
         	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
         	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
         	<estilobotonaccionderecha>background:radial-gradient(gray,black);font-size:30px;color:red;z-index:9999;position:absolute;top:45px;right:5px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
@@ -222,6 +234,7 @@
 		</itemtipo>
 		<itemtipo>
         	<tipo>gamegear</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
         	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Select</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
@@ -230,7 +243,8 @@
         	<textobotonaccionabajo>1</textobotonaccionabajo>
         	<textobotonaccionizquierda></textobotonaccionizquierda>
         	<textobotonaccionarriba></textobotonaccionarriba>
-        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+        	<estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
         	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
         	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
         	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:25px;right:15px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
@@ -255,6 +269,7 @@
 		</itemtipo>
 		<itemtipo>
         	<tipo>dosbox</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
         	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
 		    <textobotoncoin>Esc</textobotoncoin>
 		    <textobotonstart>Select</textobotonstart>
@@ -263,7 +278,8 @@
 		    <textobotonaccionabajo>B</textobotonaccionabajo>
 		    <textobotonaccionizquierda></textobotonaccionizquierda>
 		    <textobotonaccionarriba></textobotonaccionarriba>
-		    <estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+		    <estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
 		    <estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
 		    <estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
 		    <estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:25px;right:15px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
@@ -1554,7 +1570,8 @@
 				<url>https://archive.org/embed/monkey_dos</url>
 				<descripcion></descripcion>
 				<modificacionestipo>
-					<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+					<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
+        			<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
 		        	<textobotoncoin>Esc</textobotoncoin>
 		        	<textobotonstart>Select</textobotonstart>
 		        	<textobotonpause>Pause</textobotonpause>
@@ -1562,7 +1579,8 @@
 		        	<textobotonaccionabajo>.</textobotonaccionabajo>
 		        	<textobotonaccionizquierda>.</textobotonaccionizquierda>
 		        	<textobotonaccionarriba>Y</textobotonaccionarriba>
-		        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+		        	<estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
+            		<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
 		        	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
 		        	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
 		        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:45px;right:5px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
@@ -1596,7 +1614,8 @@
 				<url>https://archive.org/embed/battle_chess_1988</url>
 				<descripcion></descripcion>				
 				<modificacionestipo>
-					<estilodivbotonesaccion>display:none;</estilodivbotonesaccion>
+					<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
+        			<estilodivbotonesaccion>display:none;</estilodivbotonesaccion>
 		        	<textobotoncoin>Esc</textobotoncoin>
 		        	<textobotonstart>Select</textobotonstart>
 		        	<textobotonpause>Pause</textobotonpause>
@@ -1604,7 +1623,8 @@
 		        	<textobotonaccionabajo></textobotonaccionabajo>
 		        	<textobotonaccionizquierda></textobotonaccionizquierda>
 		        	<textobotonaccionarriba></textobotonaccionarriba>
-		        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+		        	<estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
+            		<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
 		        	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
 		        	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
 		        	<estilobotonaccionderecha>display:none;</estilobotonaccionderecha>
@@ -1638,7 +1658,8 @@
 				<url>https://archive.org/embed/IndianaJones_Atlantis</url>
 				<descripcion></descripcion>
 				<modificacionestipo>
-					<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+					<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
+        			<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
 		        	<textobotoncoin>Esc</textobotoncoin>
 		        	<textobotonstart>Select</textobotonstart>
 		        	<textobotonpause>Pause</textobotonpause>
@@ -1646,7 +1667,8 @@
 		        	<textobotonaccionabajo>.</textobotonaccionabajo>
 		        	<textobotonaccionizquierda>.</textobotonaccionizquierda>
 		        	<textobotonaccionarriba>Y</textobotonaccionarriba>
-		        	<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
+		        	<estilobotontipomovimiento>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:5px;height:30px;width:55px;border-radius:30px;</estilobotontipomovimiento>
+            		<estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
 		        	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
 		        	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
 		        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:45px;right:5px;height:50px;width:50px;border-radius:50%;</estilobotonaccionderecha>
@@ -1699,6 +1721,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
