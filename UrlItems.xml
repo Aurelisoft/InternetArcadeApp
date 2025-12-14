@@ -1635,17 +1635,17 @@
 		    		<teclabotonstart>'Enter','Enter',13</teclabotonstart>
 		    		<teclabotonpause>' ','Space',32</teclabotonpause>
 				    <teclabotonaccionderecha>'n','KeyN',78</teclabotonaccionderecha>
-				    <teclabotonaccionabajo>mouse2</teclabotonaccionabajo>
-				    <teclabotonaccionizquierda>mouse1</teclabotonaccionizquierda>
+				    <teclabotonaccionabajo>mouserightclick</teclabotonaccionabajo>
+				    <teclabotonaccionizquierda>mouseleftclick</teclabotonaccionizquierda>
 				    <teclabotonaccionarriba>'y','KeyY',89</teclabotonaccionarriba>				
-		            <teclabotonizquierda>mouse</teclabotonizquierda>
-		            <teclabotonarriba>mouse</teclabotonarriba>
-		            <teclabotonderecha>mouse</teclabotonderecha>
-		            <teclabotonabajo>mouse</teclabotonabajo>
-		            <touchizquierda>mouse</touchizquierda>
-		            <toucharriba>mouse</toucharriba>
-		            <touchderecha>mouse</touchderecha>
-		            <touchabajo>mouse</touchabajo>
+		            <teclabotonizquierda>mouseleft</teclabotonizquierda>
+		            <teclabotonarriba>mouseup</teclabotonarriba>
+		            <teclabotonderecha>mouseright</teclabotonderecha>
+		            <teclabotonabajo>mousedown</teclabotonabajo>
+		            <touchizquierda>mouseleft</touchizquierda>
+		            <toucharriba>mouseup</toucharriba>
+		            <touchderecha>mouseright</touchderecha>
+		            <touchabajo>mousedown</touchabajo>
 				</modificacionestipo>
 			</item>
 			<item>
@@ -1721,6 +1721,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
