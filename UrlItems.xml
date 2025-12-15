@@ -1677,9 +1677,17 @@
 				<titulo>NASCAR Racing 2</titulo>
 				<url>https://archive.org/embed/msdos_NASCAR_Racing_2_1996</url>
 				<descripcion></descripcion>
+			</item>		
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/msdos_Where_in_the_World_is_Carmen_Sandiego_Deluxe_1990/Where_in_the_World_is_Carmen_Sandiego_Deluxe_1990_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/msdos_Where_in_the_World_is_Carmen_Sandiego_Deluxe_1990/Where_in_the_World_is_Carmen_Sandiego_Deluxe_1990_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Where in the World is Carmen Sandiego Deluxe</titulo>
+				<url>https://archive.org/embed/msdos_Where_in_the_World_is_Carmen_Sandiego_Deluxe_1990</url>
+				<descripcion></descripcion>
 			</item>
-		
-		
 		</carpeta>
 
 
@@ -1687,3 +1695,4 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
