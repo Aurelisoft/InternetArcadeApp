@@ -1783,6 +1783,9 @@
 
 			
 		</carpeta>
+
+
+		
 		<carpeta>
 			<id></id>
 			<titulo>Sega Master System</titulo>
@@ -1852,8 +1855,81 @@
 
 			
 		</carpeta>
+
+
+		
+		<carpeta>
+			<id></id>
+			<titulo>Neo Geo Pocket/Pocket Color</titulo>
+			<icono>https://ia801200.us.archive.org/16/items/ngp_library/ngp_library_itemimage.jpg</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/ngpc_Metal_Slug_1st_Mission_1999_SNK_en-ja/ngpc_Metal_Slug_1st_Mission_1999_SNK_en-ja_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/ngpc_Metal_Slug_1st_Mission_1999_SNK_en-ja/ngpc_Metal_Slug_1st_Mission_1999_SNK_en-ja_screenshot.gif</imgfondo>
+				<tipo>ngpc</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Metal Slug   1st Mission (1999)(SNK)(en ja)</titulo>
+				<url>https://archive.org/embed/ngpc_Metal_Slug_1st_Mission_1999_SNK_en-ja</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja_tr_pt/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja_tr_pt_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja_tr_pt/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja_tr_pt_screenshot.gif</imgfondo>
+				<tipo>ngpc</tipo>
+				<capitulo>01</capitulo>
+				<titulo>SNK vs. Capcom   The Match of the Millennium (1999)(Capcom   SNK)</titulo>
+				<url>https://archive.org/embed/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja_tr_pt</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/ngpc_Sykowar_2001_Kasprzak_Mike_PD/ngpc_Sykowar_2001_Kasprzak_Mike_PD_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/ngpc_Sykowar_2001_Kasprzak_Mike_PD/ngpc_Sykowar_2001_Kasprzak_Mike_PD_screenshot.gif</imgfondo>
+				<tipo>ngpc</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Sykowar (2001)(Kasprzak, Mike)(PD)</titulo>
+				<url>https://archive.org/embed/ngpc_Sykowar_2001_Kasprzak_Mike_PD</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/ngpc_Sonic_the_Hedgehog_Pocket_Adventure_demo-kiosk_1999_Sega_JP_en-ja/ngpc_Sonic_the_Hedgehog_Pocket_Adventure_demo-kiosk_1999_Sega_JP_en-ja_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/ngpc_Sonic_the_Hedgehog_Pocket_Adventure_demo-kiosk_1999_Sega_JP_en-ja/ngpc_Sonic_the_Hedgehog_Pocket_Adventure_demo-kiosk_1999_Sega_JP_en-ja_screenshot.gif</imgfondo>
+				<tipo>ngpc</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Sonic the Hedgehog   Pocket Adventure</titulo>
+				<url>https://archive.org/embed/ngpc_Sonic_the_Hedgehog_Pocket_Adventure_demo-kiosk_1999_Sega_JP_en-ja</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/ngpc_Cotton_Fantastic_Night_Dreams_2000_Success_JP/ngpc_Cotton_Fantastic_Night_Dreams_2000_Success_JP_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/ngpc_Cotton_Fantastic_Night_Dreams_2000_Success_JP/ngpc_Cotton_Fantastic_Night_Dreams_2000_Success_JP_screenshot.gif</imgfondo>
+				<tipo>ngpc</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Cotton   Fantastic Night Dreams (2000)</titulo>
+				<url>https://archive.org/embed/ngpc_Cotton_Fantastic_Night_Dreams_2000_Success_JP</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+
+			
+		</carpeta>
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
