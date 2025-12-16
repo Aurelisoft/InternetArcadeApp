@@ -1783,8 +1783,77 @@
 
 			
 		</carpeta>
-		
+		<carpeta>
+			<id></id>
+			<titulo>Sega Master System</titulo>
+			<icono>https://ia600203.us.archive.org/5/items/sega_sms_library/sega_sms_library_itemimage.jpg</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Alex_Kidd_in_Miracle_World_1986_Sega_US/Alex_Kidd_in_Miracle_World_1986_Sega_US_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Alex_Kidd_in_Miracle_World_1986_Sega_US/Alex_Kidd_in_Miracle_World_1986_Sega_US_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Alex Kidd in Miracle World 1986 Sega US</titulo>
+				<url>https://archive.org/embed/segasms_Alex_Kidd_in_Miracle_World_1986_Sega_US</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Ghostbusters_1986_Sega/Ghostbusters_1986_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Ghostbusters_1986_Sega/Ghostbusters_1986_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Alex Kidd in Miracle World 1986 Sega US</titulo>
+				<url>https://archive.org/embed/segasms_Ghostbusters_1986_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Enduro_Racer_1987_Sega/Enduro_Racer_1987_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Enduro_Racer_1987_Sega/Enduro_Racer_1987_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Enduro Racer 1987 Sega</titulo>
+				<url>https://archive.org/embed/segasms_Enduro_Racer_1987_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Hang-On_1985_Sega/Hang-On_1985_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Hang-On_1985_Sega/Hang-On_1985_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Hang-On 1985 Sega</titulo>
+				<url>https://archive.org/embed/segasms_Hang-On_1985_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Hang-On_1985_Sega/Hang-On_1985_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Hang-On_1985_Sega/Hang-On_1985_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Hang-On 1985 Sega</titulo>
+				<url>https://archive.org/embed/segasms_Hang-On_1985_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+
+			
+		</carpeta>
 	</inicio>
 </InternetArcadeApp>
+
 
 
