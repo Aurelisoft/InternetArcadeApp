@@ -1690,9 +1690,101 @@
 			</item>
 		</carpeta>
 
+		<carpeta>
+			<id></id>
+			<titulo>Atari 7800</titulo>
+			<icono>https://ia802809.us.archive.org/25/items/atari_7800_library/atari_7800_library_itemimage.jpg</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Asteroids_1987_Atari_NTSC/Asteroids_1987_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Asteroids_1987_Atari_NTSC/Asteroids_1987_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Asteroids (1987)(Atari)(NTSC)</titulo>
+				<url>https://archive.org/embed/Asteroids_1987_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Galaga_1987_Atari_NTSC/Galaga_1987_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Galaga_1987_Atari_NTSC/Galaga_1987_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Galaga (1987)(Atari)(NTSC)</titulo>
+				<url>https://archive.org/embed/Galaga_1987_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Commando_1989_Atari_NTSC/Commando_1989_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Commando_1989_Atari_NTSC/Commando_1989_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Commando (1989)(Atari)(NTSC)</titulo>
+				<url>https://archive.org/embed/Commando_1989_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Pole_Position_II_1987_Atari_NTSC/Pole_Position_II_1987_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Pole_Position_II_1987_Atari_NTSC/Pole_Position_II_1987_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Pole Position II (1987)(Atari)(NTSC)</titulo>
+				<url>https://archive.org/embed/Pole_Position_II_1987_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Mario_Bros._1988_Atari_NTSC/Mario_Bros._1988_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Mario_Bros._1988_Atari_NTSC/Mario_Bros._1988_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Mario Bros. (1988)(Atari)(NTSC)</titulo>
+				<url>https://archive.org/embed/Mario_Bros._1988_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Food_Fight_1987_Atari_NTSC/Food_Fight_1987_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Food_Fight_1987_Atari_NTSC/Food_Fight_1987_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Food Fight</titulo>
+				<url>https://archive.org/embed/Food_Fight_1987_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Choplifter_Wings_Hack_20130921/Choplifter_Wings_Hack_20130921_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Choplifter_Wings_Hack_20130921/Choplifter_Wings_Hack_20130921_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Choplifter (Wings) (Hack) (20130921)</titulo>
+				<url>https://archive.org/embed/Choplifter_Wings_Hack_20130921</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
 
-
+			
+		</carpeta>
 		
 	</inicio>
 </InternetArcadeApp>
+
 
