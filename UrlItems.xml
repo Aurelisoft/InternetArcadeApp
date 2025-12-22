@@ -19,6 +19,7 @@
     <urlpoliticaprivacidad>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/politicaprivacidad.html</urlpoliticaprivacidad>
 	<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
 	<urldonateinternetarchive>https://archive.org/donate?origin=aurelisoft@gmail.com</urldonateinternetarchive>
+	<urlayuda>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/ayuda.html</urlayuda>
 	<imgfondo>fondoinicio.jpg</imgfondo>
 	<bannerhtml>acercade.html</bannerhtml>
 	<tipos>
@@ -1940,6 +1941,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
