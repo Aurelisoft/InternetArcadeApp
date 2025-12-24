@@ -1009,6 +1009,46 @@
 				<url>https://archive.org/embed/arcade_mysticri</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_digdug/digdug_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_digdug/digdug_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Internet Arcade: Dig Dug</titulo>
+				<url>https://archive.org/embed/arcade_digdug</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_ddsom/ddsom_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_ddsom/ddsom_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Dungeons & Dragons: Shadow over Mystara (Euro 960619)</titulo>
+				<url>https://archive.org/embed/arcade_ddsom</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_bagman/bagman_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_bagman/bagman_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Bagman</titulo>
+				<url>https://archive.org/embed/arcade_bagman</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_phoenix/arcade_phoenix_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/arcade_phoenix/arcade_phoenix_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Phoenix</titulo>
+				<url>https://archive.org/embed/arcade_phoenix</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		
@@ -1941,6 +1981,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
