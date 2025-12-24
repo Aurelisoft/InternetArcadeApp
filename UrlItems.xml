@@ -1059,6 +1059,16 @@
 				<url>https://archive.org/embed/arcade_pengo</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_qbert/arcade_qbert_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/arcade_qbert/arcade_qbert_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Q*Bert</titulo>
+				<url>https://archive.org/embed/arcade_qbert</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		
@@ -1991,6 +2001,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
