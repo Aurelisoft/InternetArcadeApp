@@ -1049,6 +1049,16 @@
 				<url>https://archive.org/embed/arcade_phoenix</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_pengo/arcade_pengo_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/arcade_pengo/arcade_pengo_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Pengo</titulo>
+				<url>https://archive.org/embed/arcade_pengo</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		
@@ -1981,6 +1991,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
