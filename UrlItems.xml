@@ -1025,7 +1025,7 @@
 				<imgfondo>https://archive.org/serve/arcade_ddsom/ddsom_screenshot.png</imgfondo>
 				<tipo>arcade</tipo>
 				<capitulo>30</capitulo>
-				<titulo>Dungeons & Dragons: Shadow over Mystara (Euro 960619)</titulo>
+				<titulo>Dungeons and Dragons: Shadow over Mystara (Euro 960619)</titulo>
 				<url>https://archive.org/embed/arcade_ddsom</url>
 				<descripcion></descripcion>
 			</item>
@@ -1921,7 +1921,7 @@
 				<imgfondo>https://archive.org/serve/segasms_Ghostbusters_1986_Sega/Ghostbusters_1986_Sega_screenshot.gif</imgfondo>
 				<tipo>sms</tipo>
 				<capitulo>01</capitulo>
-				<titulo>Alex Kidd in Miracle World 1986 Sega US</titulo>
+				<titulo>Ghostbusters 1986 Sega</titulo>
 				<url>https://archive.org/embed/segasms_Ghostbusters_1986_Sega</url>
 				<descripcion></descripcion>
 				<modificacionestipo>
@@ -1981,6 +1981,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
