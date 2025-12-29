@@ -1628,6 +1628,16 @@
 				<url>https://archive.org/embed/gg_Jurassic_Park_1993_Sega</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Dr._Robotnik_s_Mean_Bean_Machine_1993Compile_Sega/Dr._Robotnik_s_Mean_Bean_Machine_1993Compile__Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Dr._Robotnik_s_Mean_Bean_Machine_1993Compile_Sega/Dr._Robotnik_s_Mean_Bean_Machine_1993Compile__Sega_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dr. Robotnik's Mean Bean Machine</titulo>
+				<url>https://archive.org/embed/gg_Dr._Robotnik_s_Mean_Bean_Machine_1993Compile_Sega</url>
+				<descripcion></descripcion>
+			</item>
 		</carpeta>
 		
 		
@@ -2013,6 +2023,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
