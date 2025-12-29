@@ -1995,12 +1995,25 @@
 				<modificacionestipo>
 				</modificacionestipo>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/sonic-genesis-for-master-system/sonic-genesis-for-master-system_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/sonic-genesis-for-master-system/sonic-genesis-for-master-system_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Sonic Genesis For Master System</titulo>
+				<url>https://archive.org/embed/sonic-genesis-for-master-system</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
 
 			
 		</carpeta>	
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
