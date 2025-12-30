@@ -26,7 +26,7 @@
 		<itemtipo>
 			<tipo>arcade</tipo>
         	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
-        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Coin</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
         	<textobotonpause>Pause</textobotonpause>
@@ -96,7 +96,7 @@
 		<itemtipo>
         	<tipo>snes</tipo>
         	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
-        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Select</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
         	<textobotonpause>Pause</textobotonpause>
@@ -131,7 +131,7 @@
 		<itemtipo>
         	<tipo>genesis</tipo>
         	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
-        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Select</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
         	<textobotonpause>Pause</textobotonpause>
@@ -166,7 +166,7 @@
 		<itemtipo>
         	<tipo>gba</tipo>
         	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
-        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Select</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
         	<textobotonpause>Pause</textobotonpause>
@@ -201,7 +201,7 @@
 		<itemtipo>
         	<tipo>psx</tipo>
         	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
-        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Select</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
         	<textobotonpause>Pause</textobotonpause>
@@ -236,7 +236,7 @@
 		<itemtipo>
         	<tipo>gamegear</tipo>
         	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
-        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
         	<textobotoncoin>Select</textobotoncoin>
         	<textobotonstart>Start</textobotonstart>
         	<textobotonpause>Pause</textobotonpause>
@@ -271,7 +271,7 @@
 		<itemtipo>
         	<tipo>dosbox</tipo>
         	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
-        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
 		    <textobotoncoin>Esc</textobotoncoin>
 		    <textobotonstart>Select</textobotonstart>
 		    <textobotonpause>Pause</textobotonpause>
@@ -1712,7 +1712,7 @@
 				<descripcion></descripcion>
 				<modificacionestipo>
 					<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
-        			<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+        			<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
 		        	<textobotoncoin>Esc</textobotoncoin>
 		        	<textobotonstart>Select</textobotonstart>
 		        	<textobotonpause>Pause</textobotonpause>
@@ -1756,7 +1756,7 @@
 				<descripcion></descripcion>
 				<modificacionestipo>
 					<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesdireccion>
-        			<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:15px;width:140px;height:140px;border-radius:50%;</estilodivbotonesaccion>
+        			<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
 		        	<textobotoncoin>Esc</textobotoncoin>
 		        	<textobotonstart>Select</textobotonstart>
 		        	<textobotonpause>Pause</textobotonpause>
@@ -2023,6 +2023,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
