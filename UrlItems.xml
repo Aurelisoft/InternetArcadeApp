@@ -1,6 +1,6 @@
 <InternetArcadeApp>
 	<android>
-		<version>1.1</version>
+		<version>1.1.1</version>
 		<urlactualizacion>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlactualizacion>
 		<urlopiniones>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlopiniones>
 	</android>
@@ -2023,6 +2023,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
