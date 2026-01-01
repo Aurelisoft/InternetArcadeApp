@@ -248,8 +248,8 @@
             <estilobotoncoin>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:70px;height:30px;width:55px;border-radius:30px;</estilobotoncoin>
         	<estilobotonstart>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:70px;height:30px;width:55px;border-radius:30px;</estilobotonstart>
         	<estilobotonpause>transform:rotate(-45deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:5px;height:30px;width:55px;border-radius:30px;</estilobotonpause>
-        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:20px;right:10px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
-        	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:60px;right:70px;height:60px;width:60px;border-radius:50%;</estilobotonaccionabajo>
+        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:25px;right:15px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:70px;right:80px;height:60px;width:60px;border-radius:50%;</estilobotonaccionabajo>
         	<estilobotonaccionizquierda>display:none;</estilobotonaccionizquierda>
         	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
         	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
@@ -867,16 +867,6 @@
 				<capitulo>30</capitulo>
 				<titulo>Cadillacs and Dinosaurs (World 930201)</titulo>
 				<url>https://archive.org/embed/arcade_dino</url>
-				<descripcion></descripcion>
-			</item>
-			<item>
-				<id></id>
-				<icono>https://archive.org/serve/arcade_ddsom/ddsom_screenshot.png</icono>
-				<imgfondo>https://archive.org/serve/arcade_ddsom/ddsom_screenshot.png</imgfondo>
-				<tipo>arcade</tipo>
-				<capitulo>30</capitulo>
-				<titulo>Dungeons and Dragons: Shadow over Mystara (Euro 960619)</titulo>
-				<url>https://archive.org/embed/arcade_ddsom</url>
 				<descripcion></descripcion>
 			</item>
 			<item>
@@ -2032,6 +2022,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
