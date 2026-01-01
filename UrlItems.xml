@@ -1069,7 +1069,16 @@
 				<url>https://archive.org/embed/arcade_qbert</url>
 				<descripcion></descripcion>
 			</item>
-		
+		<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_godzilla/godzilla_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_godzilla/godzilla_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Godzilla (Japón)</titulo>
+				<url>https://archive.org/embed/arcade_godzilla</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -2023,6 +2032,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
