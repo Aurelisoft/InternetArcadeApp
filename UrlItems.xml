@@ -1,0 +1,2131 @@
+<InternetArcadeApp>
+	<android>
+		<version>1.1.1</version>
+		<urlactualizacion>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlactualizacion>
+		<urlopiniones>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlopiniones>
+	</android>
+	<ios>
+		<version>1.1</version>
+		<urlactualizacion>https://www.apple.com/es/app-store/</urlactualizacion>
+		<urlopiniones>https://www.apple.com/es/app-store/</urlopiniones>
+	</ios>
+	<winui>
+		<version>1.0.0.1</version>
+		<urlactualizacion>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlactualizacion>
+		<urlopiniones>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlopiniones>
+	</winui>
+	<urlacercade>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/acercade.html</urlacercade>
+	<urlinformacionlegalterminos>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/informacionlegalterminos.html</urlinformacionlegalterminos>
+    <urlpoliticaprivacidad>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/politicaprivacidad.html</urlpoliticaprivacidad>
+	<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
+	<urldonateinternetarchive>https://archive.org/donate?origin=aurelisoft@gmail.com</urldonateinternetarchive>
+	<urlayuda>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/ayuda.html</urlayuda>
+	<imgfondo>fondoinicio.jpg</imgfondo>
+	<bannerhtml>acercade.html</bannerhtml>
+	<tipos>
+		<itemtipo>
+			<tipo>arcade</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+        	<textobotoncoin>Coin</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>3</textobotonaccionderecha>
+        	<textobotonaccionabajo>4</textobotonaccionabajo>
+        	<textobotonaccionizquierda>1</textobotonaccionizquierda>
+        	<textobotonaccionarriba>2</textobotonaccionarriba>
+            <estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+            <estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+            <estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+            <estilobotonaccionderecha>background:radial-gradient(red,black);z-index:9999;position:absolute;top:50px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+            <estilobotonaccionabajo>background:radial-gradient(red,black);z-index:9999;position:absolute;top:95px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionabajo>
+            <estilobotonaccionizquierda>background:radial-gradient(yellow,black);z-index:9999;position:absolute;top:50px;right:95px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+            <estilobotonaccionarriba>background:radial-gradient(yellow,black);z-index:9999;position:absolute;top:5px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionarriba>
+            <teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+            <teclabotonstart>'1','Digit1',49</teclabotonstart>
+            <teclabotonpause>'p','KeyP',80</teclabotonpause>
+            <teclabotonaccionderecha>'Shift','ShiftLeft',16</teclabotonaccionderecha>
+            <teclabotonaccionabajo>' ','Space',32</teclabotonaccionabajo>
+            <teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
+            <teclabotonaccionarriba>'Alt','AltLeft',18</teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
+		<itemtipo>
+        	<tipo>nes</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>A</textobotonaccionderecha>
+        	<textobotonaccionabajo></textobotonaccionabajo>
+        	<textobotonaccionizquierda>B</textobotonaccionizquierda>
+        	<textobotonaccionarriba></textobotonaccionarriba>
+        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(red,black);z-index:9999;position:absolute;top:20px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>display:none;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(red,black);z-index:9999;position:absolute;top:20px;right:75px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>'Alt','AltLeft',18</teclabotonaccionderecha>
+        	<teclabotonaccionabajo></teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba></teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
+		<itemtipo>
+        	<tipo>snes</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>A</textobotonaccionderecha>
+        	<textobotonaccionabajo>B</textobotonaccionabajo>
+        	<textobotonaccionizquierda>Y</textobotonaccionizquierda>
+        	<textobotonaccionarriba>X</textobotonaccionarriba>
+        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(red,black);z-index:9999;position:absolute;top:50px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>background:radial-gradient(yellow,black);z-index:9999;position:absolute;top:95px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(green,black);z-index:9999;position:absolute;top:50px;right:95px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>background:radial-gradient(blue,black);z-index:9999;position:absolute;top:5px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>' ','Space',32</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Alt','AltLeft',18</teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba>'Shift','ShiftLeft',16</teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
+		<itemtipo>
+        	<tipo>genesis</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>A</textobotonaccionderecha>
+        	<textobotonaccionabajo>B</textobotonaccionabajo>
+        	<textobotonaccionizquierda>C</textobotonaccionizquierda>
+        	<textobotonaccionarriba>D</textobotonaccionarriba>
+        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:50px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:95px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:50px;right:95px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:5px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>'Control','ControlLeft',17</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Alt','AltLeft',18</teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>' ','Space',32</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba>'Shift','ShiftLeft',16</teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
+		<itemtipo>
+        	<tipo>gba</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>A</textobotonaccionderecha>
+        	<textobotonaccionabajo>B</textobotonaccionabajo>
+        	<textobotonaccionizquierda>L</textobotonaccionizquierda>
+        	<textobotonaccionarriba>R</textobotonaccionarriba>
+        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:50px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:95px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:50px;right:95px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:5px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>'Alt','AltLeft',18</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Control','ControlLeft',17</teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>' ','Space',32</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba>'Shift','ShiftLeft',16</teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
+		<itemtipo>
+        	<tipo>psx</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>◯</textobotonaccionderecha>
+        	<textobotonaccionabajo>✕</textobotonaccionabajo>
+        	<textobotonaccionizquierda>☐</textobotonaccionizquierda>
+        	<textobotonaccionarriba>△</textobotonaccionarriba>
+        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(gray,black);font-size:30px;color:red;z-index:9999;position:absolute;top:50px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>background:radial-gradient(gray,black);font-size:30px;color:blue;z-index:9999;position:absolute;top:95px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(gray,black);font-size:30px;color:deeppink;z-index:9999;position:absolute;top:50px;right:95px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>background:radial-gradient(gray,black);font-size:30px;color:green;z-index:9999;position:absolute;top:5px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>' ','Space',32</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Alt','AltLeft',18</teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba>'Shift','ShiftLeft',16</teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
+		<itemtipo>
+        	<tipo>gamegear</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>2</textobotonaccionderecha>
+        	<textobotonaccionabajo>1</textobotonaccionabajo>
+        	<textobotonaccionizquierda></textobotonaccionizquierda>
+        	<textobotonaccionarriba></textobotonaccionarriba>
+        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:25px;right:15px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:70px;right:80px;height:60px;width:60px;border-radius:50%;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>display:none;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>'Control','ControlLeft',17</teclabotonaccionderecha>
+        	<teclabotonaccionabajo>'Alt','AltLeft',18</teclabotonaccionabajo>
+        	<teclabotonaccionizquierda></teclabotonaccionizquierda>
+        	<teclabotonaccionarriba></teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
+		<itemtipo>
+        	<tipo>dosbox</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+		    <textobotoncoin>Esc</textobotoncoin>
+		    <textobotonstart>Select</textobotonstart>
+		    <textobotonpause>Pause</textobotonpause>
+			<textobotonaccionderecha>N</textobotonaccionderecha>
+		    <textobotonaccionabajo>.</textobotonaccionabajo>
+		    <textobotonaccionizquierda>.</textobotonaccionizquierda>
+		    <textobotonaccionarriba>Y</textobotonaccionarriba>
+		    <estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+		    <estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+		    <estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+			<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:50px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+		    <estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:95px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionabajo>
+		    <estilobotonaccionizquierda>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:50px;right:95px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+		    <estilobotonaccionarriba>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:5px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionarriba>
+		    <teclabotoncoin>'Escape','Escape',27</teclabotoncoin>
+		    <teclabotonstart>'Enter','Enter',13</teclabotonstart>
+		    <teclabotonpause>'Pause','Pause',19</teclabotonpause>
+		    <teclabotonaccionderecha>'n','KeyN',78</teclabotonaccionderecha>
+		    <teclabotonaccionabajo>'Control','ControlLeft',17</teclabotonaccionabajo>
+		    <teclabotonaccionizquierda>' ','Space',32</teclabotonaccionizquierda>
+		    <teclabotonaccionarriba>'y','KeyY',89</teclabotonaccionarriba>
+		    <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+		    <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+		    <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+		    <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+		    <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+		    <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+		    <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+		    <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
+		<itemtipo>
+        	<tipo>sms</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>A</textobotonaccionderecha>
+        	<textobotonaccionabajo></textobotonaccionabajo>
+        	<textobotonaccionizquierda>B</textobotonaccionizquierda>
+        	<textobotonaccionarriba></textobotonaccionarriba>
+        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(white,black);z-index:9999;position:absolute;top:20px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>display:none;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(white,black);z-index:9999;position:absolute;top:20px;right:75px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>'Alt','AltLeft',18</teclabotonaccionderecha>
+        	<teclabotonaccionabajo></teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba></teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
+		<itemtipo>
+        	<tipo>a7800</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>2</textobotonaccionderecha>
+        	<textobotonaccionabajo></textobotonaccionabajo>
+        	<textobotonaccionizquierda>1</textobotonaccionizquierda>
+        	<textobotonaccionarriba></textobotonaccionarriba>
+        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(red,black);z-index:9999;position:absolute;top:20px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>display:none;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(red,black);z-index:9999;position:absolute;top:20px;right:75px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
+        	<teclabotoncoin>'Control','ControlLeft',17</teclabotoncoin>
+        	<teclabotonstart>'Alt','AltLeft',18</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>'Alt','AltLeft',18</teclabotonaccionderecha>
+        	<teclabotonaccionabajo></teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba></teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
+	</tipos>
+	<inicio>
+		<id></id>
+		<titulo>Buscar Juegos Arcade y más</titulo>
+		<icono></icono>
+		<imgfondo>fondoinicio.jpg</imgfondo>
+		<descripcion></descripcion>
+		<bannerhtml></bannerhtml>
+ 
+		<carpeta>
+			<id></id>
+			<titulo>Arcade</titulo>
+			<icono>internet_arcade_logo.png</icono> 
+			<imgfondo>fondoinicio.jpg</imgfondo>
+			<descripcion></descripcion>
+		
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_hharry/hharry_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_hharry/hharry_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Hammerin' Harry (World M81)</titulo>
+				<url>https://archive.org/embed/arcade_hharry</url>
+				<descripcion></descripcion>
+			</item>	
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_clubpacm/arcade_clubpacm_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_clubpacm/arcade_clubpacm_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Pacman Club / Club Lambada (Argentina)</titulo>
+				<url>https://archive.org/embed/arcade_clubpacm</url>
+				<descripcion></descripcion>
+			</item>		
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/tmnt_mame/tmnt_mame_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/tmnt_mame/tmnt_mame_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Teenage Mutant Ninja Turtles (Arcade)</titulo>
+				<url>https://archive.org/embed/tmnt_mame</url>
+				<descripcion></descripcion>
+			</item>	
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_msh/arcade_msh_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_msh/arcade_msh_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Marvel Super Heroes (Euro 951024)</titulo>
+				<url>https://archive.org/embed/arcade_msh</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_batman/batman_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_batman/batman_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Batman</titulo>
+				<url>https://archive.org/embed/arcade_batman</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_parodius/parodius_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_parodius/parodius_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Parodius DA! (World set 1)</titulo>
+				<url>https://archive.org/embed/arcade_parodius</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Fantasy_Zone_USA/Fantasy_Zone_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Fantasy_Zone_USA/Fantasy_Zone_USA_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Fantasy Zone (USA)</titulo>
+				<url>https://archive.org/embed/Fantasy_Zone_USA</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/simpsons_mame/simpsons_mame_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/simpsons_mame/simpsons_mame_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>The Simpsons (Arcade)</titulo>
+				<url>https://archive.org/embed/simpsons_mame</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_tetris/tetris_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_tetris/tetris_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tetris</titulo>
+				<url>https://archive.org/embed/arcade_tetris</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/xmen_20250615_202506/xmen_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/xmen_20250615_202506/xmen_screenshot.jpg</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>X-Men [1992] - Arcade</titulo>
+				<url>https://archive.org/embed/xmen_20250615_202506</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gberet_nes/gberet_nes_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gberet_nes/gberet_nes_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Green Beret (Arcade)</titulo>
+				<url>https://archive.org/embed/gberet_nes</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_galaga88/galaga88_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_galaga88/galaga88_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>03</capitulo>
+				<titulo>Galaga '88</titulo>
+				<url>https://archive.org/embed/arcade_galaga88</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/GNG_DOS/GNG_DOS_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/GNG_DOS/GNG_DOS_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>03</capitulo>
+				<titulo>Ghosts 'N Goblins (Arcade)</titulo>
+				<url>https://archive.org/embed/GNG_DOS</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_sfex2/arcade_sfex2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_sfex2/arcade_sfex2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>02</capitulo>
+				<titulo>Street Fighter EX2 (Euro 980312)</titulo>
+				<url>https://archive.org/embed/arcade_sfex2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mslug3/arcade_mslug3_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mslug3/arcade_mslug3_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>03</capitulo>
+				<titulo>Metal Slug 3 (NGM-2560)</titulo>
+				<url>https://archive.org/embed/arcade_mslug3</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_aerofgt/arcade_aerofgt_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_aerofgt/arcade_aerofgt_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>04</capitulo>
+				<titulo>Aero Fighters (World - USA + Canada - Korea - Hong Kong - Taiwan) (newer hardware)</titulo>
+				<url>https://archive.org/embed/arcade_aerofgt</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_sonicwi2/sonicwi2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_sonicwi2/sonicwi2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>04</capitulo>
+				<titulo>Aero Fighters 2 - Sonic Wings 2</titulo>
+				<url>https://archive.org/embed/arcade_sonicwi2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_aerofgts/arcade_aerofgts_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_aerofgts/arcade_aerofgts_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>04</capitulo>
+				<titulo>Aero Fighters Special (Taiwan)</titulo>
+				<url>https://archive.org/embed/arcade_aerofgts</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_prehisle/prehisle_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_prehisle/prehisle_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>05</capitulo>
+				<titulo>Prehistoric Isle in 1930</titulo>
+				<url>https://archive.org/embed/arcade_prehisle</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_arkretrn/arcade_arkretrn_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_arkretrn/arcade_arkretrn_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>06</capitulo>
+				<titulo>Arkanoid Returns (Ver 2.02O 1997/02/10)</titulo>
+				<url>https://archive.org/embed/arcade_arkretrn</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_spang/spang_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_spang/spang_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>07</capitulo>
+				<titulo>Super Pang (World 900914)</titulo>
+				<url>https://archive.org/embed/arcade_spang</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_1942/arcade_1942_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_1942/arcade_1942_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>08</capitulo>
+				<titulo>1942 (Revision B)</titulo>
+				<url>https://archive.org/embed/arcade_1942</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_snowbro3/arcade_snowbro3_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_snowbro3/arcade_snowbro3_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>09</capitulo>
+				<titulo>Snow Brothers 3 - Magical Adventure</titulo>
+				<url>https://archive.org/embed/arcade_snowbro3</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_pbobble4/arcade_pbobble4_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_pbobble4/arcade_pbobble4_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>10</capitulo>
+				<titulo>Puzzle Bobble 4 (Ver 2.04O 1997/12/19)</titulo>
+				<url>https://archive.org/embed/arcade_pbobble4</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_cabalus/cabalus_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_cabalus/cabalus_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>11</capitulo>
+				<titulo>Cabal</titulo>
+				<url>https://archive.org/embed/arcade_cabalus</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_realbrk/arcade_realbrk_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_realbrk/arcade_realbrk_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>12</capitulo>
+				<titulo>Billiard Academy Real Break (Europe)</titulo>
+				<url>https://archive.org/embed/arcade_realbrk</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_slipstrm/arcade_slipstrm_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_slipstrm/arcade_slipstrm_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>13</capitulo>
+				<titulo>Slip Stream (Brazil 950515)</titulo>
+				<url>https://archive.org/embed/arcade_slipstrm</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_spbactn/arcade_spbactn_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_spbactn/arcade_spbactn_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>14</capitulo>
+				<titulo>Super Pinball Action (US)</titulo>
+				<url>https://archive.org/embed/arcade_spbactn</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_dynablst/dynablst_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_dynablst/dynablst_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>15</capitulo>
+				<titulo>Dynablaster - Bomber Man</titulo>
+				<url>https://archive.org/embed/arcade_dynablst</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_ckongpt2/ckongpt2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_ckongpt2/ckongpt2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>16</capitulo>
+				<titulo>Crazy Kong Part II (set 1)</titulo>
+				<url>https://archive.org/embed/arcade_ckongpt2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_outrun/outrun_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_outrun/outrun_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>17</capitulo>
+				<titulo>Out Run</titulo>
+				<url>https://archive.org/embed/arcade_outrun</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_ldrun/ldrun_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_ldrun/ldrun_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>18</capitulo>
+				<titulo>Lode Runner</titulo>
+				<url>https://archive.org/embed/arcade_ldrun</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_pitfall2/pitfall2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_pitfall2/pitfall2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>19</capitulo>
+				<titulo>Pitfall II</titulo>
+				<url>https://archive.org/embed/arcade_pitfall2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_pacmania/pacmania_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_pacmania/pacmania_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>20</capitulo>
+				<titulo>Pac-Mania</titulo>
+				<url>https://archive.org/embed/arcade_pacmania</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_rtype2/rtype2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_rtype2/rtype2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>21</capitulo>
+				<titulo>R-Type II</titulo>
+				<url>https://archive.org/embed/arcade_rtype2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_atetris/atetris_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_atetris/atetris_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>22</capitulo>
+				<titulo>Tetris</titulo>
+				<url>https://archive.org/embed/arcade_atetris</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_sfa2/sfa2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_sfa2/sfa2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>23</capitulo>
+				<titulo>Street Fighter Alpha 2 (Euro 960229)</titulo>
+				<url>https://archive.org/embed/arcade_sfa2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_fourplay/arcade_fourplay_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_fourplay/arcade_fourplay_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>24</capitulo>
+				<titulo>Four Play</titulo>
+				<url>https://archive.org/embed/arcade_fourplay</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_rampage/rampage_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_rampage/rampage_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>25</capitulo>
+				<titulo>Rampage (Rev 3 8-27-86)</titulo>
+				<url>https://archive.org/embed/arcade_rampage</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mspactwin/arcade_mspactwin_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mspactwin/arcade_mspactwin_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>26</capitulo>
+				<titulo>Ms Pac Man Twin (Argentina)</titulo>
+				<url>https://archive.org/embed/arcade_mspactwin</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_ncv1/arcade_ncv1_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_ncv1/arcade_ncv1_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>27</capitulo>
+				<titulo>Namco Classic Collection Vol.1</titulo>
+				<url>https://archive.org/embed/arcade_ncv1</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_alexkidd/alexkidd_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_alexkidd/alexkidd_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>28</capitulo>
+				<titulo>Alex Kidd: The Lost Stars</titulo>
+				<url>https://archive.org/embed/arcade_alexkidd</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_cninja/cninja_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_cninja/cninja_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>29</capitulo>
+				<titulo>Caveman Ninja (World ver 4)</titulo>
+				<url>https://archive.org/embed/arcade_cninja</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mp_gaxe2/arcade_mp_gaxe2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mp_gaxe2/arcade_mp_gaxe2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Golden Axe II (Mega Play) (Rev B)</titulo>
+				<url>https://archive.org/embed/arcade_mp_gaxe2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mslug2/mslug2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mslug2/mslug2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Metal Slug 2 - Super Vehicle-001-II (NGM-2410 - NGH-2410)</titulo>
+				<url>https://archive.org/embed/arcade_mslug2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mslugx/mslugx_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mslugx/mslugx_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Metal Slug X - Super Vehicle-001 (NGM-2500 - NGH-2500)</titulo>
+				<url>https://archive.org/embed/arcade_mslugx</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_speedup/arcade_speedup_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_speedup/arcade_speedup_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Speed Up (Version 2.20)</titulo>
+				<url>https://archive.org/embed/arcade_speedup</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_dino/dino_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_dino/dino_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Cadillacs and Dinosaurs (World 930201)</titulo>
+				<url>https://archive.org/embed/arcade_dino</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_pwrgoal/arcade_pwrgoal_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_pwrgoal/arcade_pwrgoal_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Taito Power Goal (Ver 2.5O 1994/11/03)</titulo>
+				<url>https://archive.org/embed/arcade_pwrgoal</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_gauntlet/gauntlet_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_gauntlet/gauntlet_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Gauntlet</titulo>
+				<url>https://archive.org/embed/arcade_gauntlet</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_ppking/arcade_ppking_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_ppking/arcade_ppking_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Ping-Pong King</titulo>
+				<url>https://archive.org/embed/arcade_ppking</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_marble/marble_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_marble/marble_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Marble Madness</titulo>
+				<url>https://archive.org/embed/arcade_marble</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mpatrol/arcade_mpatrol_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/arcade_mpatrol/arcade_mpatrol_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Moon Patrol</titulo>
+				<url>https://archive.org/embed/arcade_mpatrol</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_ddtod/ddtod_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_ddtod/ddtod_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Dungeons and Dragons: Tower of Doom (Euro 940412)</titulo>
+				<url>https://archive.org/embed/arcade_ddtod</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_tehkanwc/tehkanwc_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_tehkanwc/tehkanwc_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Tehkan World Cup</titulo>
+				<url>https://archive.org/embed/arcade_tehkanwc</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_bloodbro/bloodbro_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_bloodbro/bloodbro_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Blood Bros. (World?)</titulo>
+				<url>https://archive.org/embed/arcade_bloodbro</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mazinger/mazinger_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mazinger/mazinger_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Mazinger Z (World)</titulo>
+				<url>https://archive.org/embed/arcade_mazinger</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mp_gunhe/arcade_mp_gunhe_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mp_gunhe/arcade_mp_gunhe_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Gunstar Heroes (Mega Play)</titulo>
+				<url>https://archive.org/embed/arcade_mp_gunhe</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_cawing/cawing_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_cawing/cawing_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Carrier Air Wing (World 901012)</titulo>
+				<url>https://archive.org/embed/arcade_cawing</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_maglord/maglord_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_maglord/maglord_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Magician Lord (NGM-005)</titulo>
+				<url>https://archive.org/embed/arcade_maglord</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mysticri/mysticri_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mysticri/mysticri_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Mystic Riders (World)</titulo>
+				<url>https://archive.org/embed/arcade_mysticri</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_digdug/digdug_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_digdug/digdug_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Internet Arcade: Dig Dug</titulo>
+				<url>https://archive.org/embed/arcade_digdug</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_ddsom/ddsom_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_ddsom/ddsom_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Dungeons and Dragons: Shadow over Mystara (Euro 960619)</titulo>
+				<url>https://archive.org/embed/arcade_ddsom</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_bagman/bagman_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_bagman/bagman_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Bagman</titulo>
+				<url>https://archive.org/embed/arcade_bagman</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_phoenix/arcade_phoenix_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/arcade_phoenix/arcade_phoenix_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Phoenix</titulo>
+				<url>https://archive.org/embed/arcade_phoenix</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_pengo/arcade_pengo_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/arcade_pengo/arcade_pengo_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Pengo</titulo>
+				<url>https://archive.org/embed/arcade_pengo</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_qbert/arcade_qbert_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/arcade_qbert/arcade_qbert_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Q*Bert</titulo>
+				<url>https://archive.org/embed/arcade_qbert</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_godzilla/godzilla_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_godzilla/godzilla_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Godzilla (Japón)</titulo>
+				<url>https://archive.org/embed/arcade_godzilla</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/bombjack_mame/bombjack_mame_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/bombjack_mame/bombjack_mame_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Bomb Jack (Arcade)</titulo>
+				<url>https://archive.org/embed/bombjack_mame</url>
+				<descripcion></descripcion>
+			</item>
+		
+		
+		</carpeta>
+		
+		<carpeta>
+			<id></id>
+			<titulo>Nintendo NES</titulo>
+			<icono>nintendo.png</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arkanoid_nes/arkanoid_nes_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/arkanoid_nes/arkanoid_nes_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Arkanoid (NES)</titulo>
+				<url>https://archive.org/embed/arkanoid_nes</url>
+				<descripcion></descripcion>
+			</item>		
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/donkey-kong-classics_202502/donkey-kong-classics_202502_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/donkey-kong-classics_202502/donkey-kong-classics_202502_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Donkey Kong Classics NES</titulo>
+				<url>https://archive.org/embed/donkey-kong-classics_202502</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/super-mario-bros-nes/super_mario-bros-nes_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/super-mario-bros-nes/super_mario-bros-nes_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario Bros.</titulo>
+				<url>https://archive.org/embed/super-mario-bros-nes</url>
+				<descripcion></descripcion>
+			</item>
+
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/super-mario-bros-3-nes/super-mario-bros-3-nes_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/super-mario-bros-3-nes/super-mario-bros-3-nes_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario Bros. 3</titulo>
+				<url>https://archive.org/embed/super-mario-bros-3-nes</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/simpsons_nes_2/simpsons_nes_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/simpsons_nes_2/simpsons_nes_2_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Bart vs. the Space Mutants (NES)</titulo>
+				<url>https://archive.org/embed/simpsons_nes_2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/ducktales_nes_2/ducktales_nes_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/ducktales_nes_2/ducktales_nes_2_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>DuckTales (NES)</titulo>
+				<url>https://archive.org/embed/ducktales_nes_2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/tiny-toon-adventures_202302/tiny-toon-adventures_202302_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/tiny-toon-adventures_202302/tiny-toon-adventures_202302_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tiny Toon Adventures</titulo>
+				<url>https://archive.org/embed/tiny-toon-adventures_202302</url>
+				<descripcion></descripcion>
+			</item>
+
+
+			
+		
+		</carpeta>
+		
+		<carpeta>
+			<id></id>
+			<titulo>Super Nintendo SNES</titulo>
+			<icono>super_nintento.jpg</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/super-mario-all-stars-usa_202504/super-mario-all-stars-usa_202504_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/super-mario-all-stars-usa_202504/super-mario-all-stars-usa_202504_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario All-Stars</titulo>
+				<url>https://archive.org/embed/super-mario-all-stars-usa_202504</url>
+				<descripcion></descripcion>
+			</item>
+		    <item>
+				<id></id>
+				<icono>https://archive.org/serve/super-mario-world-usa_202406/Screenshot%202024-06-01%20235151.png</icono>
+				<imgfondo>https://archive.org/serve/super-mario-world-usa_202406/Screenshot%202024-06-01%20235151.png</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario World</titulo>
+				<url>https://archive.org/embed/super-mario-world-usa_202406</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/dkc_snes_2/dkc_snes_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/dkc_snes_2/dkc_snes_2_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Donkey Kong Country (SNES)</titulo>
+				<url>https://archive.org/embed/dkc_snes_2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/super-mario-world-2-yoshis-island-usa-rev-a/super-mario-world-2-yoshis-island-usa-rev-a_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/super-mario-world-2-yoshis-island-usa-rev-a/super-mario-world-2-yoshis-island-usa-rev-a_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario World 2: Yoshi's Island</titulo>
+				<url>https://archive.org/embed/super-mario-world-2-yoshis-island-usa-rev-a</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/super-mario-kart-usa_202302/super-mario-kart-usa_202302_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/super-mario-kart-usa_202302/super-mario-kart-usa_202302_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario Kart</titulo>
+				<url>https://archive.org/embed/super-mario-kart-usa_202302</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_ffight2b/arcade_ffight2b_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_ffight2b/arcade_ffight2b_screenshot.png</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Final Fight 2 (SNES bootleg)</titulo>
+				<url>https://archive.org/embed/arcade_ffight2b</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/magical3/magical3_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/magical3/magical3_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Disney's Magical Quest 3 starring Mickey and Donald</titulo>
+				<url>https://archive.org/embed/magical3</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/super-street-fighter-ii-usa_202301/Super+Street+Fighter+II+(USA)-image.jpg</icono>
+				<imgfondo>https://archive.org/serve/super-street-fighter-ii-usa_202301/Super+Street+Fighter+II+(USA)-image.jpg</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Street Fighter II SNES (USA)</titulo>
+				<url>https://archive.org/embed/super-street-fighter-ii-usa_202301</url>
+				<descripcion></descripcion>
+			</item>
+			
+			
+		
+		</carpeta>
+		
+		
+		
+		
+		
+		<carpeta>
+			<id></id>
+			<titulo>Sega Megadrive Genesis</titulo>
+			<icono>megadrive.png</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+		
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/sg_Toki_1991_Sega_TAD_Corporation_EU-US_en/Toki_1991_Sega_TAD_Corporation_EU-US_en_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/sg_Toki_1991_Sega_TAD_Corporation_EU-US_en/Toki_1991_Sega_TAD_Corporation_EU-US_en_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Toki</titulo>
+				<url>https://archive.org/embed/sg_Toki_1991_Sega_TAD_Corporation_EU-US_en</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Super_Street_Fighter_II_The_New_Challengers_U_c_GG/Super_Street_Fighter_II_The_New_Challengers_U_c_GG_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Super_Street_Fighter_II_The_New_Challengers_U_c_GG/Super_Street_Fighter_II_The_New_Challengers_U_c_GG_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Street Fighter II   The New Challengers (U) [c]</titulo>
+				<url>https://archive.org/embed/Super_Street_Fighter_II_The_New_Challengers_U_c_GG</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/scheroes_bin/bandicam%202021-02-25%2009-06-44-942.jpg</icono>
+				<imgfondo>https://archive.org/serve/scheroes_bin/bandicam%202021-02-25%2009-06-44-942.jpg</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Sonic Classic Heroes</titulo>
+				<url>https://archive.org/embed/scheroes_bin</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Super_Mario_Bros_OK/Super_Mario_Bros_OK_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Super_Mario_Bros_OK/Super_Mario_Bros_OK_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario Bros OK</titulo>
+				<url>https://archive.org/embed/Super_Mario_Bros_OK</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Mario_3_Around_The_World_R_a1_t1/Mario_3_Around_The_World_R_a1_t1_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Mario_3_Around_The_World_R_a1_t1/Mario_3_Around_The_World_R_a1_t1_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Mario 3 Around The World (R) [a1][t1]</titulo>
+				<url>https://archive.org/embed/Mario_3_Around_The_World_R_a1_t1</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/daimakaimura-ghoulsn-ghosts-japan-usa-en/daimakaimura-ghoulsn-ghosts-japan-usa-en_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/daimakaimura-ghoulsn-ghosts-japan-usa-en/daimakaimura-ghoulsn-ghosts-japan-usa-en_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Ghouls'n Ghosts Genesis (USA)</titulo>
+				<url>https://archive.org/embed/daimakaimura-ghoulsn-ghosts-japan-usa-en</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Angry_Birds_Unl/Angry_Birds_Unl_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Angry_Birds_Unl/Angry_Birds_Unl_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Angry Birds (Unl)</titulo>
+				<url>https://archive.org/embed/Angry_Birds_Unl</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Crash_Bandicoot_R/Crash_Bandicoot_R_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Crash_Bandicoot_R/Crash_Bandicoot_R_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Crash Bandicoot (R)</titulo>
+				<url>https://archive.org/embed/Crash_Bandicoot_R</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Sonic_1_Super_sonic_unlimite_hack/Sonic_1_Super_sonic_unlimite_hack_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Sonic_1_Super_sonic_unlimite_hack/Sonic_1_Super_sonic_unlimite_hack_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Sonic 1 Super sonic unlimite hack</titulo>
+				<url>https://archive.org/embed/Sonic_1_Super_sonic_unlimite_hack</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Sonic_2_XL_20100712232031/Sonic_2_XL_20100712232031_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Sonic_2_XL_20100712232031/Sonic_2_XL_20100712232031_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Sonic 2 XL (20100712232031)</titulo>
+				<url>https://archive.org/embed/Sonic_2_XL_20100712232031</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Super_Mario_World_64_Unl_f2/Super_Mario_World_64_Unl_f2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Super_Mario_World_64_Unl_f2/Super_Mario_World_64_Unl_f2_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario World 64 (Unl) [f2]</titulo>
+				<url>https://archive.org/embed/Super_Mario_World_64_Unl_f2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Snow_Bros._Nick_Tom_J_h2C/Snow_Bros._Nick_Tom_J_h2C_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Snow_Bros._Nick_Tom_J_h2C/Snow_Bros._Nick_Tom_J_h2C_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Snow Bros. Nick and Tom (J) [h2C]</titulo>
+				<url>https://archive.org/embed/Snow_Bros._Nick_Tom_J_h2C</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Super_Mario_2_1998_Unl_f1/Super_Mario_2_1998_Unl_f1_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Super_Mario_2_1998_Unl_f1/Super_Mario_2_1998_Unl_f1_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario 2 1998 (Unl) [f1]</titulo>
+				<url>https://archive.org/embed/Super_Mario_2_1998_Unl_f1</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Somari_the_Adventurer/Somari_the_Adventurer_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Somari_the_Adventurer/Somari_the_Adventurer_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Somari the Adventurer</titulo>
+				<url>https://archive.org/embed/Somari_the_Adventurer</url>
+				<descripcion></descripcion>
+			</item>
+			
+			
+		
+		</carpeta>
+		
+		
+		<carpeta>
+			<id></id>
+			<titulo>Play Station Psx</titulo>
+			<icono>playstation.png?2</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+		
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_crash3/psx_crash3_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_crash3/psx_crash3_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Crash Bandicoot - Warped (USA)</titulo>
+				<url>https://archive.org/embed/psx_crash3</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_crash/psx_crash_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_crash/psx_crash_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Crash Bandicoot (USA)</titulo>
+				<url>https://archive.org/embed/psx_crash</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_ctr/psx_ctr_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_ctr/psx_ctr_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Ctr - Crash Team Racing (USA)</titulo>
+				<url>https://archive.org/embed/psx_ctr</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_nfs3/psx_nfs3_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_nfs3/psx_nfs3_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Need for Speed III - Hot Pursuit (USA)</titulo>
+				<url>https://archive.org/embed/psx_nfs3</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_fordrac/psx_fordrac_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_fordrac/psx_fordrac_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Ford Racing (USA)</titulo>
+				<url>https://archive.org/embed/psx_fordrac</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_arknoi2k/psx_arknoi2k_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_arknoi2k/psx_arknoi2k_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Arkanoid R 2000 (Jpn)</titulo>
+				<url>https://archive.org/embed/psx_arknoi2k</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_konamiac/psx_konamiac_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_konamiac/psx_konamiac_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Konami Arcade Classics (USA)</titulo>
+				<url>https://archive.org/embed/psx_konamiac</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_activcls/psx_activcls_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_activcls/psx_activcls_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Activision Classics (USA)</titulo>
+				<url>https://archive.org/embed/psx_activcls</url>
+				<descripcion></descripcion>
+			</item>
+
+
+
+
+
+			
+		</carpeta>
+		
+		<carpeta>
+			<id></id>
+			<titulo>Game Boy Advance Gba</titulo>
+			<icono>game_boy_advance.jpg</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/mario-kart-super-circuit_202503/mario-kart-super-circuit_202503_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/mario-kart-super-circuit_202503/mario-kart-super-circuit_202503_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Mario Kart Super Circuit</titulo>
+				<url>https://archive.org/embed/mario-kart-super-circuit_202503</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/pokemon-emerald-version-usa-europe_202501/pokemon-emerald-version-usa-europe_202501_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/pokemon-emerald-version-usa-europe_202501/pokemon-emerald-version-usa-europe_202501_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Pokemon Emerald Version ( USA, Europe)</titulo>
+				<url>https://archive.org/embed/pokemon-emerald-version-usa-europe_202501</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/doom_gba/doom_gba_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/doom_gba/doom_gba_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>DOOM (Gameboy Advance)</titulo>
+				<url>https://archive.org/embed/doom_gba</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/pokemon_leaf_green-version-u-v-1.1/00_A.jpg</icono>
+				<imgfondo>https://archive.org/serve/pokemon_leaf_green-version-u-v-1.1/00_A.jpg</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Pokémon - Leaf Green Version (V1.1)</titulo>
+				<url>https://archive.org/embed/pokemon_leaf_green-version-u-v-1.1</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/super-mario-advance-2-super-mario-world_gba/super-mario-advance-2-super-mario-world_gba_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/super-mario-advance-2-super-mario-world_gba/super-mario-advance-2-super-mario-world_gba_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario Advance 2: Super Mario World</titulo>
+				<url>https://archive.org/embed/super-mario-advance-2-super-mario-world_gba</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/kirby_gba/kirby_gba_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/kirby_gba/kirby_gba_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Kirby: Nightmare in Dreamland (Gameboy Advance)</titulo>
+				<url>https://archive.org/embed/kirby_gba</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/mariokong/mariokong_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/mariokong/mariokong_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Mario vs. Donkey Kong (Gameboy Advance)</titulo>
+				<url>https://archive.org/embed/mariokong</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/dk2_gba/dk2_gba_screenshot.gif</icono>
+				<imgfondo>>https://archive.org/serve/dk2_gba/dk2_gba_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Donkey Kong Country 2 (Gameboy Advance)</titulo>
+				<url>https://archive.org/embed/dk2_gba</url>
+				<descripcion></descripcion>
+			</item> 
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/wolfenstein_202312/wolfenstein_202312_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/wolfenstein_202312/wolfenstein_202312_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Wolfenstein 3D (Gameboy Advance)</titulo>
+				<url>https://archive.org/embed/wolfenstein_202312</url>
+				<descripcion></descripcion>
+			</item> 
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/curiousgeorge_gba/curiousgeorge_gba_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/curiousgeorge_gba/curiousgeorge_gba_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Curious George (Gameboy Advance)</titulo>
+				<url>https://archive.org/embed/curiousgeorge_gba</url>
+				<descripcion></descripcion>
+			</item> 
+			
+		</carpeta>
+		
+
+		<carpeta>
+			<id></id>
+			<titulo>Game Gear</titulo>
+			<icono>gamegear.jpg?2</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Tom_and_Jerry_-_The_Movie_1993Sega/gg_Tom_and_Jerry_-_The_Movie_1993Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Tom_and_Jerry_-_The_Movie_1993Sega/gg_Tom_and_Jerry_-_The_Movie_1993Sega_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tom and Jerry - The Movie</titulo>
+				<url>https://archive.org/embed/gg_Tom_and_Jerry_-_The_Movie_1993Sega</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Wonder_Boy_1990SegaJPen/Wonder_Boy_1990SegaJPen_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Wonder_Boy_1990SegaJPen/Wonder_Boy_1990SegaJPen_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Wonder Boy</titulo>
+				<url>https://archive.org/embed/gg_Wonder_Boy_1990SegaJPen</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Deep_Duck_Trouble_Starring_Donald_Duck_1993Disney_Sega/Deep_Duck_Trouble_Starring_Donald_Duck_1993Disney__Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Deep_Duck_Trouble_Starring_Donald_Duck_1993Disney_Sega/Deep_Duck_Trouble_Starring_Donald_Duck_1993Disney__Sega_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Deep Duck Trouble Starring Donald Duck</titulo>
+				<url>https://archive.org/embed/gg_Deep_Duck_Trouble_Starring_Donald_Duck_1993Disney_Sega</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Captain_America_and_The_Avengers_1993Data_East_Mindscape/Captain_America_and_The_Avengers_1993Data_East_Mindscape_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Captain_America_and_The_Avengers_1993Data_East_Mindscape/Captain_America_and_The_Avengers_1993Data_East_Mindscape_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Captain America and The Avengers</titulo>
+				<url>https://archive.org/embed/gg_Captain_America_and_The_Avengers_1993Data_East_Mindscape</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Prince_of_Persia_1992BroderbundEUen/Prince_of_Persia_1992BroderbundEUen_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Prince_of_Persia_1992BroderbundEUen/Prince_of_Persia_1992BroderbundEUen_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Prince of Persia</titulo>
+				<url>https://archive.org/embed/gg_Prince_of_Persia_1992BroderbundEUen</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Jurassic_Park_1993_Sega/Jurassic_Park_1993_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Jurassic_Park_1993_Sega/Jurassic_Park_1993_Sega_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Jurassic Park</titulo>
+				<url>https://archive.org/embed/gg_Jurassic_Park_1993_Sega</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Dr._Robotnik_s_Mean_Bean_Machine_1993Compile_Sega/Dr._Robotnik_s_Mean_Bean_Machine_1993Compile__Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Dr._Robotnik_s_Mean_Bean_Machine_1993Compile_Sega/Dr._Robotnik_s_Mean_Bean_Machine_1993Compile__Sega_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dr. Robotnik's Mean Bean Machine</titulo>
+				<url>https://archive.org/embed/gg_Dr._Robotnik_s_Mean_Bean_Machine_1993Compile_Sega</url>
+				<descripcion></descripcion>
+			</item>
+		</carpeta>
+		
+		
+		<carpeta>
+			<id></id>
+			<titulo>PC Game DosBox</titulo>
+			<icono>ms_dos.png</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/doom-2-play/doom-2-play_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/doom-2-play/doom-2-play_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>DOOM II: Hell on Earth</titulo>
+				<url>https://archive.org/embed/doom-2-play</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/quake_dos/quake_dos_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/quake_dos/quake_dos_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Quake</titulo>
+				<url>https://archive.org/embed/quake_dos</url>
+				<descripcion></descripcion>				
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/the_incredible_machine_1992/the_incredible_machine_1992_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/the_incredible_machine_1992/the_incredible_machine_1992_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>The Incredible Machine</titulo>
+				<url>https://archive.org/embed/the_incredible_machine_1992</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/msdos_Prehistorik_2_1993/Prehistorik_2_1993_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/msdos_Prehistorik_2_1993/Prehistorik_2_1993_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Prehistorik 2</titulo>
+				<url>https://archive.org/embed/msdos_Prehistorik_2_1993</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/PERSIA_VGA/PERSIA_VGA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/PERSIA_VGA/PERSIA_VGA_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>MS-DOS: Prince of Persia (VGA Graphics and SoundBlaster)</titulo>
+				<url>https://archive.org/embed/PERSIA_VGA</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/monkey_dos/bandicam%202020-12-13%2020-44-40-725.jpg</icono>
+				<imgfondo>https://archive.org/serve/monkey_dos/bandicam%202020-12-13%2020-44-40-725.jpg</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>The Secret of Monkey Island (MS-DOS)</titulo>
+				<url>https://archive.org/embed/monkey_dos</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+					<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        			<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+		        	<textobotoncoin>Esc</textobotoncoin>
+		        	<textobotonstart>Select</textobotonstart>
+		        	<textobotonpause>Pause</textobotonpause>
+		        	<textobotonaccionderecha>N</textobotonaccionderecha>
+		        	<textobotonaccionabajo>.</textobotonaccionabajo>
+		        	<textobotonaccionizquierda>.</textobotonaccionizquierda>
+		        	<textobotonaccionarriba>Y</textobotonaccionarriba>
+		        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            		<estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+					<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+					<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+		        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+		        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+		        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:50px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+		        	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:95px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionabajo>
+		        	<estilobotonaccionizquierda>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:50px;right:95px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+		        	<estilobotonaccionarriba>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:5px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionarriba>
+		        	<teclabotoncoin>'Escape','Escape',27</teclabotoncoin>
+		    		<teclabotonstart>'Enter','Enter',13</teclabotonstart>
+		    		<teclabotonpause>' ','Space',32</teclabotonpause>
+				    <teclabotonaccionderecha>'n','KeyN',78</teclabotonaccionderecha>
+				    <teclabotonaccionabajo>'5','Numpad5',101</teclabotonaccionabajo>
+				    <teclabotonaccionizquierda>'F5','F5',116</teclabotonaccionizquierda>
+				    <teclabotonaccionarriba>'y','KeyY',89</teclabotonaccionarriba>				
+		            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+		            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+		            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+		            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+		            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+		            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+		            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+		            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/IndianaJones_Atlantis/IndianaJones_Atlantis_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/IndianaJones_Atlantis/IndianaJones_Atlantis_screenshot.png</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Indiana Jones and the Fate of Atlantis</titulo>
+				<url>https://archive.org/embed/IndianaJones_Atlantis</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+					<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        			<estilodivbotonesaccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;right:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesaccion>
+		        	<textobotoncoin>Esc</textobotoncoin>
+		        	<textobotonstart>Select</textobotonstart>
+		        	<textobotonpause>Pause</textobotonpause>
+		        	<textobotonaccionderecha>N</textobotonaccionderecha>
+		        	<textobotonaccionabajo>.</textobotonaccionabajo>
+		        	<textobotonaccionizquierda>.</textobotonaccionizquierda>
+		        	<textobotonaccionarriba>Y</textobotonaccionarriba>
+		        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            		<estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+					<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+					<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+		        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+		        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+		        	<estilobotonaccionderecha>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:50px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+		        	<estilobotonaccionabajo>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:95px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionabajo>
+		        	<estilobotonaccionizquierda>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:50px;right:95px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+		        	<estilobotonaccionarriba>background:radial-gradient(gray,black);z-index:9999;position:absolute;top:5px;right:50px;height:60px;width:60px;border-radius:50%;</estilobotonaccionarriba>
+		        	<teclabotoncoin>'Escape','Escape',27</teclabotoncoin>
+		    		<teclabotonstart>'Enter','Enter',13</teclabotonstart>
+		    		<teclabotonpause>' ','Space',32</teclabotonpause>
+				    <teclabotonaccionderecha>'n','KeyN',78</teclabotonaccionderecha>
+				    <teclabotonaccionabajo>'5','Numpad5',101</teclabotonaccionabajo>
+				    <teclabotonaccionizquierda>'F1','F1',112</teclabotonaccionizquierda>
+				    <teclabotonaccionarriba>'y','KeyY',89</teclabotonaccionarriba>				
+		            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+		            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+		            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+		            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+		            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+		            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+		            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+		            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/msdos_Dragons_Lair_1993/Dragons_Lair_1993_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/msdos_Dragons_Lair_1993/Dragons_Lair_1993_screenshot.png</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dragon's Lair</titulo>
+				<url>https://archive.org/embed/msdos_Dragons_Lair_1993</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/chenall_dyna/dyna_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/chenall_dyna/dyna_screenshot.png</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dyna Blaster (Bomberman) - DOS</titulo>
+				<url>https://archive.org/embed/chenall_dyna</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/msdos_NASCAR_Racing_2_1996/NASCAR_Racing_2_1996_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/msdos_NASCAR_Racing_2_1996/NASCAR_Racing_2_1996_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>NASCAR Racing 2</titulo>
+				<url>https://archive.org/embed/msdos_NASCAR_Racing_2_1996</url>
+				<descripcion></descripcion>
+			</item>		
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/msdos_Where_in_the_World_is_Carmen_Sandiego_Deluxe_1990/Where_in_the_World_is_Carmen_Sandiego_Deluxe_1990_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/msdos_Where_in_the_World_is_Carmen_Sandiego_Deluxe_1990/Where_in_the_World_is_Carmen_Sandiego_Deluxe_1990_screenshot.gif</imgfondo>
+				<tipo>dosbox</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Where in the World is Carmen Sandiego Deluxe</titulo>
+				<url>https://archive.org/embed/msdos_Where_in_the_World_is_Carmen_Sandiego_Deluxe_1990</url>
+				<descripcion></descripcion>
+			</item>
+		</carpeta>
+
+		<carpeta>
+			<id></id>
+			<titulo>Atari 7800</titulo>
+			<icono>https://ia802809.us.archive.org/25/items/atari_7800_library/atari_7800_library_itemimage.jpg</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Asteroids_1987_Atari_NTSC/Asteroids_1987_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Asteroids_1987_Atari_NTSC/Asteroids_1987_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Asteroids (1987)(Atari)(NTSC)</titulo>
+				<url>https://archive.org/embed/Asteroids_1987_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Galaga_1987_Atari_NTSC/Galaga_1987_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Galaga_1987_Atari_NTSC/Galaga_1987_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Galaga (1987)(Atari)(NTSC)</titulo>
+				<url>https://archive.org/embed/Galaga_1987_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Commando_1989_Atari_NTSC/Commando_1989_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Commando_1989_Atari_NTSC/Commando_1989_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Commando (1989)(Atari)(NTSC)</titulo>
+				<url>https://archive.org/embed/Commando_1989_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Pole_Position_II_1987_Atari_NTSC/Pole_Position_II_1987_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Pole_Position_II_1987_Atari_NTSC/Pole_Position_II_1987_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Pole Position II (1987)(Atari)(NTSC)</titulo>
+				<url>https://archive.org/embed/Pole_Position_II_1987_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Mario_Bros._1988_Atari_NTSC/Mario_Bros._1988_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Mario_Bros._1988_Atari_NTSC/Mario_Bros._1988_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Mario Bros. (1988)(Atari)(NTSC)</titulo>
+				<url>https://archive.org/embed/Mario_Bros._1988_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Food_Fight_1987_Atari_NTSC/Food_Fight_1987_Atari_NTSC_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Food_Fight_1987_Atari_NTSC/Food_Fight_1987_Atari_NTSC_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Food Fight</titulo>
+				<url>https://archive.org/embed/Food_Fight_1987_Atari_NTSC</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Choplifter_Wings_Hack_20130921/Choplifter_Wings_Hack_20130921_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Choplifter_Wings_Hack_20130921/Choplifter_Wings_Hack_20130921_screenshot.gif</imgfondo>
+				<tipo>a7800</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Choplifter (Wings) (Hack) (20130921)</titulo>
+				<url>https://archive.org/embed/Choplifter_Wings_Hack_20130921</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+
+			
+		</carpeta>
+
+
+		
+		<carpeta>
+			<id></id>
+			<titulo>Sega Master System</titulo>
+			<icono>https://ia600203.us.archive.org/5/items/sega_sms_library/sega_sms_library_itemimage.jpg</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Alex_Kidd_in_Miracle_World_1986_Sega_US/Alex_Kidd_in_Miracle_World_1986_Sega_US_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Alex_Kidd_in_Miracle_World_1986_Sega_US/Alex_Kidd_in_Miracle_World_1986_Sega_US_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Alex Kidd in Miracle World 1986 Sega US</titulo>
+				<url>https://archive.org/embed/segasms_Alex_Kidd_in_Miracle_World_1986_Sega_US</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Ghostbusters_1986_Sega/Ghostbusters_1986_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Ghostbusters_1986_Sega/Ghostbusters_1986_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Ghostbusters 1986 Sega</titulo>
+				<url>https://archive.org/embed/segasms_Ghostbusters_1986_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Enduro_Racer_1987_Sega/Enduro_Racer_1987_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Enduro_Racer_1987_Sega/Enduro_Racer_1987_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Enduro Racer 1987 Sega</titulo>
+				<url>https://archive.org/embed/segasms_Enduro_Racer_1987_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Hang-On_1985_Sega/Hang-On_1985_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Hang-On_1985_Sega/Hang-On_1985_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Hang-On 1985 Sega</titulo>
+				<url>https://archive.org/embed/segasms_Hang-On_1985_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Double_Dragon_1988_Sega_-_Technos/Double_Dragon_1988_Sega_-_Technos_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Double_Dragon_1988_Sega_-_Technos/Double_Dragon_1988_Sega_-_Technos_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Double Dragon 1988 Sega - Technos</titulo>
+				<url>https://archive.org/embed/segasms_Double_Dragon_1988_Sega_-_Technos</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Golden_Axe_1989_Sega/Golden_Axe_1989_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Golden_Axe_1989_Sega/Golden_Axe_1989_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Golden Axe 1989 Sega</titulo>
+				<url>https://archive.org/embed/segasms_Golden_Axe_1989_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/sonic-genesis-for-master-system/sonic-genesis-for-master-system_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/sonic-genesis-for-master-system/sonic-genesis-for-master-system_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Sonic Genesis For Master System</titulo>
+				<url>https://archive.org/embed/sonic-genesis-for-master-system</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+
+			
+		</carpeta>	
+		
+	</inicio>
+</InternetArcadeApp>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
