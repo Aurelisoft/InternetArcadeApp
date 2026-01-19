@@ -681,16 +681,6 @@
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/arcade_spbactn/arcade_spbactn_screenshot.png</icono>
-				<imgfondo>https://archive.org/serve/arcade_spbactn/arcade_spbactn_screenshot.png</imgfondo>
-				<tipo>arcade</tipo>
-				<capitulo>14</capitulo>
-				<titulo>Super Pinball Action (US)</titulo>
-				<url>https://archive.org/embed/arcade_spbactn</url>
-				<descripcion></descripcion>
-			</item>
-			<item>
-				<id></id>
 				<icono>https://archive.org/serve/arcade_dynablst/dynablst_screenshot.png</icono>
 				<imgfondo>https://archive.org/serve/arcade_dynablst/dynablst_screenshot.png</imgfondo>
 				<tipo>arcade</tipo>
@@ -2206,6 +2196,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
