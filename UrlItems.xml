@@ -1169,6 +1169,16 @@
 				<url>https://archive.org/embed/arcade_swa</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_gauntlet/gauntlet_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_gauntlet/gauntlet_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Gauntlet</titulo>
+				<url>https://archive.org/embed/arcade_gauntlet</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -2176,6 +2186,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
