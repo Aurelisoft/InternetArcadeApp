@@ -1129,6 +1129,46 @@
 				<url>https://archive.org/embed/arcade_speedbal</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_pbillian/pbillian_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_pbillian/pbillian_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Prebillian</titulo>
+				<url>https://archive.org/embed/arcade_pbillian</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_polepos/polepos_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_polepos/polepos_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Pole Position (World)</titulo>
+				<url>https://archive.org/embed/arcade_polepos</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_nrallyx/nrallyx_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_nrallyx/nrallyx_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>New Rally-X</titulo>
+				<url>https://archive.org/embed/arcade_nrallyx</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_swa/arcade_swa_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_swa/arcade_swa_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Star Wars Arcade (US)</titulo>
+				<url>https://archive.org/embed/arcade_swa</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -2136,6 +2176,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
