@@ -1171,12 +1171,32 @@
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/arcade_gauntlet/gauntlet_screenshot.png</icono>
-				<imgfondo>https://archive.org/serve/arcade_gauntlet/gauntlet_screenshot.png</imgfondo>
+				<icono>https://archive.org/serve/arcade_wwfwfest/wwfwfest_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_wwfwfest/wwfwfest_screenshot.png</imgfondo>
 				<tipo>arcade</tipo>
 				<capitulo>30</capitulo>
-				<titulo>Gauntlet</titulo>
-				<url>https://archive.org/embed/arcade_gauntlet</url>
+				<titulo>WWF WrestleFest (World)</titulo>
+				<url>https://archive.org/embed/arcade_wwfwfest</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_hangon/hangon_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_hangon/hangon_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Hang-On</titulo>
+				<url>https://archive.org/embed/arcade_hangon</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_shdancer/shdancer_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_shdancer/shdancer_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Shadow Dancer</titulo>
+				<url>https://archive.org/embed/arcade_shdancer</url>
 				<descripcion></descripcion>
 			</item>
 		
@@ -2186,6 +2206,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
