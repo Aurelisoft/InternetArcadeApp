@@ -1189,6 +1189,16 @@
 				<url>https://archive.org/embed/arcade_shdancer</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mrdo/arcade_mrdo_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/arcade_mrdo/arcade_mrdo_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Mr. Do!</titulo>
+				<url>https://archive.org/embed/arcade_mrdo</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -2196,6 +2206,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
