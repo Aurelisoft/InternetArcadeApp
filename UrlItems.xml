@@ -1091,12 +1091,12 @@
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/arcade_spbactn/arcade_spbactn_screenshot.png</icono>
-				<imgfondo>https://archive.org/serve/arcade_spbactn/arcade_spbactn_screenshot.png</imgfondo>
+				<icono>https://archive.org/serve/arcade_pwrflip/arcade_pwrflip_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_pwrflip/arcade_pwrflip_screenshot.png</imgfondo>
 				<tipo>arcade</tipo>
 				<capitulo>30</capitulo>
-				<titulo>Super Pinball Action (US)</titulo>
-				<url>https://archive.org/embed/arcade_spbactn</url>
+				<titulo>Power Flipper Pinball Shooting v1.33</titulo>
+				<url>https://archive.org/embed/arcade_pwrflip</url>
 				<descripcion></descripcion>
 			</item>
 			<item>
@@ -2196,6 +2196,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
