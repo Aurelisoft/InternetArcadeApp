@@ -1199,6 +1199,46 @@
 				<url>https://archive.org/embed/arcade_mrdo</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mslug/mslug_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mslug/mslug_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Metal Slug - Super Vehicle-001</titulo>
+				<url>https://archive.org/embed/arcade_mslug</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mslug4/mslug4_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mslug4/mslug4_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Metal Slug 4 (NGM-2630)</titulo>
+				<url>https://archive.org/embed/arcade_mslug4</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mslug5/mslug5_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mslug5/mslug5_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Metal Slug 5 (NGM-2680)</titulo>
+				<url>https://archive.org/embed/arcade_mslug5</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_dmnfrnt/arcade_dmnfrnt_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_dmnfrnt/arcade_dmnfrnt_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Demon Front / Moyu Zhanxian</titulo>
+				<url>https://archive.org/embed/arcade_dmnfrnt</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -2206,6 +2246,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
