@@ -1261,12 +1261,12 @@
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/arcade_mk3mdb/mk3mdb_screenshot.png</icono>
-				<imgfondo>https://archive.org/serve/arcade_mk3mdb/mk3mdb_screenshot.png</imgfondo>
+				<icono>https://archive.org/serve/arcade_umk3/arcade_umk3_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_umk3/arcade_umk3_screenshot.png</imgfondo>
 				<tipo>arcade</tipo>
 				<capitulo>30</capitulo>
-				<titulo>Mortal Kombat 3 (bootleg of Megadrive version)</titulo>
-				<url>https://archive.org/embed/arcade_mk3mdb</url>
+				<titulo>Ultimate Mortal Kombat 3 (rev 1.2)</titulo>
+				<url>https://archive.org/embed/arcade_umk3</url>
 				<descripcion></descripcion>
 			</item>
 			<item>
@@ -1307,6 +1307,56 @@
 				<capitulo>30</capitulo>
 				<titulo>Tron</titulo>
 				<url>https://archive.org/embed/arcade_tron</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_zaxxon/arcade_zaxxon_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/arcade_zaxxon/arcade_zaxxon_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Zaxxon</titulo>
+				<url>https://archive.org/embed/arcade_zaxxon</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_spyhunt/spyhunt_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_spyhunt/spyhunt_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Spy Hunter</titulo>
+				<url>https://archive.org/embed/arcade_spyhunt</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_gorf/gorf_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_gorf/gorf_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Gorf</titulo>
+				<url>https://archive.org/embed/arcade_gorf</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_indytemp/indytemp_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_indytemp/indytemp_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Indiana Jones and the Temple of Doom</titulo>
+				<url>https://archive.org/embed/arcade_indytemp</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_1943mii/1943mii_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_1943mii/1943mii_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>1943: The Battle of Midway Mark II (US)</titulo>
+				<url>https://archive.org/embed/arcade_1943mii</url>
 				<descripcion></descripcion>
 			</item>
 		
@@ -2316,6 +2366,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
