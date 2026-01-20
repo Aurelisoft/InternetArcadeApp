@@ -1239,6 +1239,76 @@
 				<url>https://archive.org/embed/arcade_dmnfrnt</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_gunforc2/gunforc2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_gunforc2/gunforc2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Gun Force II (US)</titulo>
+				<url>https://archive.org/embed/arcade_gunforc2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_invaders/arcade_invaders_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_invaders/arcade_invaders_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Space Invaders - Space Invaders M</titulo>
+				<url>https://archive.org/embed/arcade_invaders</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mk3mdb/mk3mdb_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mk3mdb/mk3mdb_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Mortal Kombat 3 (bootleg of Megadrive version)</titulo>
+				<url>https://archive.org/embed/arcade_mk3mdb</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_defender/defender_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_defender/defender_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Defender</titulo>
+				<url>https://archive.org/embed/arcade_defender</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_rbtapper/rbtapper_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_rbtapper/rbtapper_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Root Beer Tapper</titulo>
+				<url>https://archive.org/embed/arcade_rbtapper</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_shinobi/shinobi_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_shinobi/shinobi_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Shinobi</titulo>
+				<url>https://archive.org/embed/arcade_shinobi</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_tron/tron_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_tron/tron_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>30</capitulo>
+				<titulo>Tron</titulo>
+				<url>https://archive.org/embed/arcade_tron</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -2246,6 +2316,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
