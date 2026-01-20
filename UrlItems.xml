@@ -1359,6 +1359,106 @@
 				<url>https://archive.org/embed/arcade_1943mii</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_punisher/punisher_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_punisher/punisher_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>The Punisher (World 930422)</titulo>
+				<url>https://archive.org/embed/arcade_punisher</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_superman/superman_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_superman/superman_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Superman</titulo>
+				<url>https://archive.org/embed/arcade_superman</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_sharrier/sharrier_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_sharrier/sharrier_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Space Harrier</titulo>
+				<url>https://archive.org/embed/arcade_sharrier</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_foodf/foodf_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_foodf/foodf_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Food Fight</titulo>
+				<url>https://archive.org/embed/arcade_foodf</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_cbtime/cbtime_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_cbtime/cbtime_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Burger Time (DECO Cassette) (US)</titulo>
+				<url>https://archive.org/embed/arcade_cbtime</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_ddonpach/ddonpach_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_ddonpach/ddonpach_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>DoDonPachi (International Master Ver. 97-02-05)</titulo>
+				<url>https://archive.org/embed/arcade_ddonpach</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_esb/esb_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_esb/esb_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>The Empire Strikes Back</titulo>
+				<url>https://archive.org/embed/arcade_esb</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_willow/willow_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_willow/willow_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Willow</titulo>
+				<url>https://archive.org/embed/arcade_willow</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_dbz2/arcade_dbz2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_dbz2/arcade_dbz2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dragon Ball Z 2 - Super Battle</titulo>
+				<url>https://archive.org/embed/arcade_dbz2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_dbz/arcade_dbz_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_dbz/arcade_dbz_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dragon Ball Z (rev B)</titulo>
+				<url>https://archive.org/embed/arcade_dbz</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -2366,6 +2466,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
