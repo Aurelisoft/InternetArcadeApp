@@ -393,6 +393,43 @@
             <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
             <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
 		</itemtipo>
+		<itemtipo>
+        	<tipo>tg16</tipo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:linear-gradient(transparent,black,transparent);position:absolute;top:120px;right:15px;width:140px;height:100px;border-radius:10px;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>2</textobotonaccionderecha>
+        	<textobotonaccionabajo></textobotonaccionabajo>
+        	<textobotonaccionizquierda>1</textobotonaccionizquierda>
+        	<textobotonaccionarriba></textobotonaccionarriba>
+        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(red,black);z-index:9999;position:absolute;top:20px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>display:none;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(red,black);z-index:9999;position:absolute;top:20px;right:75px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
+        	<teclabotoncoin>'Control','ControlLeft',17</teclabotoncoin>
+        	<teclabotonstart>'Alt','AltLeft',18</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>'Alt','AltLeft',18</teclabotonaccionderecha>
+        	<teclabotonaccionabajo></teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba></teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <touchizquierda>'ArrowLeft','ArrowLeft',37</touchizquierda>
+            <toucharriba>'ArrowUp','ArrowUp',38</toucharriba>
+            <touchderecha>'ArrowRight','ArrowRight',39</touchderecha>
+            <touchabajo>'ArrowDown','ArrowDown',40</touchabajo>
+		</itemtipo>
 	</tipos>
 	<inicio>
 		<id></id>
@@ -2463,9 +2500,85 @@
 
 			
 		</carpeta>	
+
+
+
+
+		<carpeta>
+			<id></id>
+			<titulo>NEC Home Electronics TurboGrafx 16</titulo>
+			<icono>https://ia600203.us.archive.org/5/items/sega_sms_library/TurboGrafx16.jpg</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Doraemon_Nobita_no_Dorabian_Night_Japan/Doraemon_Nobita_no_Dorabian_Night_Japan_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Doraemon_Nobita_no_Dorabian_Night_Japan/Doraemon_Nobita_no_Dorabian_Night_Japan_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Doraemon   Nobita no Dorabian Night (Japan)</titulo>
+				<url>https://archive.org/embed/Doraemon_Nobita_no_Dorabian_Night_Japan</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Cratermaze_USA/Cratermaze_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Cratermaze_USA/Cratermaze_USA_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Cratermaze (USA)</titulo>
+				<url>https://archive.org/embed/Cratermaze_USA</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Bonks_Adventure_USA/Bonks_Adventure_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Bonks_Adventure_USA/Bonks_Adventure_USA_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Bonk's Adventure (USA)</titulo>
+				<url>https://archive.org/embed/Bonks_Adventure_USA</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Cadash_USA/Cadash_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Cadash_USA/Cadash_USA_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Cadash (USA)</titulo>
+				<url>https://archive.org/embed/Cadash_USA</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Splatterhouse_USA/Splatterhouse_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Splatterhouse_USA/Splatterhouse_USA_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Splatterhouse (USA)</titulo>
+				<url>https://archive.org/embed/Splatterhouse_USA</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			
+		</carpeta>	
+
+
+		
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
