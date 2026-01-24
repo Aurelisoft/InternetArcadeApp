@@ -414,8 +414,8 @@
         	<estilobotonaccionabajo>display:none;</estilobotonaccionabajo>
         	<estilobotonaccionizquierda>background:radial-gradient(red,black);z-index:9999;position:absolute;top:20px;right:75px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
         	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
-        	<teclabotoncoin>'Control','ControlLeft',17</teclabotoncoin>
-        	<teclabotonstart>'Alt','AltLeft',18</teclabotonstart>
+        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
         	<teclabotonpause>'p','KeyP',80</teclabotonpause>
         	<teclabotonaccionderecha>'Alt','AltLeft',18</teclabotonaccionderecha>
         	<teclabotonaccionabajo></teclabotonaccionabajo>
@@ -2590,6 +2590,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
