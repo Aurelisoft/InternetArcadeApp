@@ -2507,7 +2507,7 @@
 		<carpeta>
 			<id></id>
 			<titulo>NEC Home Electronics TurboGrafx 16</titulo>
-			<icono>https://ia600203.us.archive.org/5/items/sega_sms_library/TurboGrafx16.jpg</icono> 
+			<icono>turbografx16.jpg</icono> 
 			<imgfondo></imgfondo>
 			<descripcion></descripcion>
 			<item>
@@ -2590,6 +2590,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
