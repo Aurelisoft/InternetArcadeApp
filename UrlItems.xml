@@ -2570,6 +2570,18 @@
 				<modificacionestipo>
 				</modificacionestipo>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/City_Hunter_English/City_Hunter_English_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/City_Hunter_English/City_Hunter_English_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>City Hunter (English)</titulo>
+				<url>https://archive.org/embed/City_Hunter_English</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
 			
 		</carpeta>	
 
@@ -2578,6 +2590,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
