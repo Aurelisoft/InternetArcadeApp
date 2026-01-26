@@ -2666,6 +2666,30 @@
 				<modificacionestipo>
 				</modificacionestipo>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Nekketsu_Koukou_Dodgeball-bu_PC_Bangai_Hen_Japan/Nekketsu_Koukou_Dodgeball-bu_PC_Bangai_Hen_Japan_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Nekketsu_Koukou_Dodgeball-bu_PC_Bangai_Hen_Japan/Nekketsu_Koukou_Dodgeball-bu_PC_Bangai_Hen_Japan_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Nekketsu Koukou Dodgeball bu   PC Bangai Hen (Japan)</titulo>
+				<url>https://archive.org/embed/Nekketsu_Koukou_Dodgeball-bu_PC_Bangai_Hen_Japan</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Dragons_Curse_USA/Dragons_Curse_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Dragons_Curse_USA/Dragons_Curse_USA_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dragon's Curse (USA)</titulo>
+				<url>https://archive.org/embed/Dragons_Curse_USA</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
 			
 		</carpeta>	
 
@@ -2674,6 +2698,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
