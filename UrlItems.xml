@@ -1826,6 +1826,16 @@
 				<url>https://archive.org/embed/Somari_the_Adventurer</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/sg_Road_Rash_II_1993_Electronic_Arts_JP_en/Road_Rash_II_1993_Electronic_Arts_JP_en_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/sg_Road_Rash_II_1993_Electronic_Arts_JP_en/Road_Rash_II_1993_Electronic_Arts_JP_en_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Road Rash II</titulo>
+				<url>https://archive.org/embed/sg_Road_Rash_II_1993_Electronic_Arts_JP_en</url>
+				<descripcion></descripcion>
+			</item>
 			
 			
 		
@@ -1917,6 +1927,26 @@
 				<capitulo>01</capitulo>
 				<titulo>Activision Classics (USA)</titulo>
 				<url>https://archive.org/embed/psx_activcls</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_motorcr/psx_motorcr_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_motorcr/psx_motorcr_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Moto Racer (USA)</titulo>
+				<url>https://archive.org/embed/psx_motorcr</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_motorcr2/psx_motorcr2_screenshot.jpg</icono>
+				<imgfondohttps://archive.org/serve/psx_motorcr2/psx_motorcr2_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Moto Racer 2 (USA)</titulo>
+				<url>https://archive.org/embed/psx_motorcr2</url>
 				<descripcion></descripcion>
 			</item>
 
@@ -2112,6 +2142,16 @@
 				<capitulo>01</capitulo>
 				<titulo>Dr. Robotnik's Mean Bean Machine</titulo>
 				<url>https://archive.org/embed/gg_Dr._Robotnik_s_Mean_Bean_Machine_1993Compile_Sega</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Frogger_1991Segaproto/gg_Frogger_1991Segaproto_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Frogger_1991Segaproto/gg_Frogger_1991Segaproto_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Frogger</titulo>
+				<url>https://archive.org/embed/gg_Frogger_1991Segaproto</url>
 				<descripcion></descripcion>
 			</item>
 		</carpeta>
@@ -2698,6 +2738,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
