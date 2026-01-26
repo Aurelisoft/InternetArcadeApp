@@ -2582,6 +2582,90 @@
 				<modificacionestipo>
 				</modificacionestipo>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Alien_Crush_USA/Alien_Crush_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Alien_Crush_USA/Alien_Crush_USA_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Alien Crush (USA)</titulo>
+				<url>https://archive.org/embed/Alien_Crush_USA</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Super_Star_Soldier_USA/Super_Star_Soldier_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Super_Star_Soldier_USA/Super_Star_Soldier_USA_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Star Soldier (USA)</titulo>
+				<url>https://archive.org/embed/Super_Star_Soldier_USA</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Jackie_Chans_Action_Kung_Fu_USA/Jackie_Chans_Action_Kung_Fu_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Jackie_Chans_Action_Kung_Fu_USA/Jackie_Chans_Action_Kung_Fu_USA_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Jackie Chan's Action Kung Fu (USA)</titulo>
+				<url>https://archive.org/embed/Jackie_Chans_Action_Kung_Fu_USA</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<iconohttps://archive.org/serve/New_Adventure_Island_USA/New_Adventure_Island_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/New_Adventure_Island_USA/New_Adventure_Island_USA_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>New Adventure Island (USA)</titulo>
+				<url>https://archive.org/embed/New_Adventure_Island_USA</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Coryoon_Child_of_Dragon_Japan/Coryoon_Child_of_Dragon_Japan_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Coryoon_Child_of_Dragon_Japan/Coryoon_Child_of_Dragon_Japan_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Coryoon Child of Dragon (Japan)</titulo>
+				<url>https://archive.org/embed/Coryoon_Child_of_Dragon_Japan</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Ninja_Spirit_USA/Ninja_Spirit_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Ninja_Spirit_USA/Ninja_Spirit_USA_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Ninja Spirit (USA)</titulo>
+				<url>https://archive.org/embed/Ninja_Spirit_USA</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Legendary_Axe_The_USA/Legendary_Axe_The_USA_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Legendary_Axe_The_USA/Legendary_Axe_The_USA_screenshot.gif</imgfondo>
+				<tipo>tg16</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Legendary Axe, The (USA)</titulo>
+				<url>https://archive.org/embed/Legendary_Axe_The_USA</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
 			
 		</carpeta>	
 
@@ -2590,6 +2674,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
