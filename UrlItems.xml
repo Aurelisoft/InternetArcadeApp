@@ -2660,7 +2660,7 @@
 			</item>
 			<item>
 				<id></id>
-				<iconohttps://archive.org/serve/New_Adventure_Island_USA/New_Adventure_Island_USA_screenshot.gif</icono>
+				<icono>https://archive.org/serve/New_Adventure_Island_USA/New_Adventure_Island_USA_screenshot.gif</icono>
 				<imgfondo>https://archive.org/serve/New_Adventure_Island_USA/New_Adventure_Island_USA_screenshot.gif</imgfondo>
 				<tipo>tg16</tipo>
 				<capitulo>01</capitulo>
@@ -2738,6 +2738,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
