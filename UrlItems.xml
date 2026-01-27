@@ -1942,7 +1942,7 @@
 			<item>
 				<id></id>
 				<icono>https://archive.org/serve/psx_motorcr2/psx_motorcr2_screenshot.jpg</icono>
-				<imgfondohttps://archive.org/serve/psx_motorcr2/psx_motorcr2_screenshot.jpg</imgfondo>
+				<imgfondo>https://archive.org/serve/psx_motorcr2/psx_motorcr2_screenshot.jpg</imgfondo>
 				<tipo>psx</tipo>
 				<capitulo>01</capitulo>
 				<titulo>Moto Racer 2 (USA)</titulo>
@@ -2738,6 +2738,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
