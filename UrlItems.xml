@@ -1496,6 +1496,26 @@
 				<url>https://archive.org/embed/arcade_dbz</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_elvactr/arcade_elvactr_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_elvactr/arcade_elvactr_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Elevator Action Returns (Ver 2.2O 1995/02/20)</titulo>
+				<url>https://archive.org/embed/arcade_elvactr</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_intrepid/intrepid_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_intrepid/intrepid_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Intrepid</titulo>
+				<url>https://archive.org/embed/arcade_intrepid</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -1576,6 +1596,16 @@
 				<capitulo>01</capitulo>
 				<titulo>Tiny Toon Adventures</titulo>
 				<url>https://archive.org/embed/tiny-toon-adventures_202302</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/elevator_nes/elevator_nes_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/elevator_nes/elevator_nes_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Elevator Action (NES)</titulo>
+				<url>https://archive.org/embed/elevator_nes</url>
 				<descripcion></descripcion>
 			</item>
 
@@ -2825,6 +2855,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
