@@ -2154,6 +2154,9 @@
 				<url>https://archive.org/embed/gg_Frogger_1991Segaproto</url>
 				<descripcion></descripcion>
 			</item>
+
+
+			
 		</carpeta>
 		
 		
@@ -2537,6 +2540,90 @@
 				<modificacionestipo>
 				</modificacionestipo>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Kings_Quest_1989_Parker_Brothers_US/Kings_Quest_1989_Parker_Brothers_US_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Kings_Quest_1989_Parker_Brothers_US/Kings_Quest_1989_Parker_Brothers_US_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Kings Quest 1989 Parker Brothers US</titulo>
+				<url>https://archive.org/embed/segasms_Kings_Quest_1989_Parker_Brothers_US</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Phantasy_Star_Rev_3_1988_Sega/Phantasy_Star_Rev_3_1988_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Phantasy_Star_Rev_3_1988_Sega/Phantasy_Star_Rev_3_1988_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Phantasy Star Rev 3 1988 Sega</titulo>
+				<url>https://archive.org/embed/segasms_Phantasy_Star_Rev_3_1988_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Sonic_Chaos_1993_Sega/Sonic_Chaos_1993_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Sonic_Chaos_1993_Sega/Sonic_Chaos_1993_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Sonic Chaos 1993 Sega</titulo>
+				<url>https://archive.org/embed/segasms_Sonic_Chaos_1993_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Tom_and_Jerry_-_The_Movie_1992_Sega/Tom_and_Jerry_-_The_Movie_1992_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Tom_and_Jerry_-_The_Movie_1992_Sega/Tom_and_Jerry_-_The_Movie_1992_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tom and Jerry - The Movie 1992 Sega</titulo>
+				<url>https://archive.org/embed/segasms_Tom_and_Jerry_-_The_Movie_1992_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Tom_and_Jerry_-_The_Movie_1992_Sega/Tom_and_Jerry_-_The_Movie_1992_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Tom_and_Jerry_-_The_Movie_1992_Sega/Tom_and_Jerry_-_The_Movie_1992_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tom and Jerry - The Movie 1992 Sega</titulo>
+				<url>https://archive.org/embed/segasms_Tom_and_Jerry_-_The_Movie_1992_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_California_Games_1989_Epyx_-_Sega/California_Games_1989_Epyx_-_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_California_Games_1989_Epyx_-_Sega/California_Games_1989_Epyx_-_Sega_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>California Games 1989 Epyx - Sega</titulo>
+				<url>https://archive.org/embed/segasms_California_Games_1989_Epyx_-_Sega</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/segasms_Castle_of_Illusion_Starring_Mickey_Mouse_1990_Disney_-_Sega_US/Castle_of_Illusion_Starring_Mickey_Mouse_1990_Disney_-_Sega_US_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/segasms_Castle_of_Illusion_Starring_Mickey_Mouse_1990_Disney_-_Sega_US/Castle_of_Illusion_Starring_Mickey_Mouse_1990_Disney_-_Sega_US_screenshot.gif</imgfondo>
+				<tipo>sms</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Castle of Illusion Starring Mickey Mouse 1990 Disney - Sega US</titulo>
+				<url>https://archive.org/embed/segasms_Castle_of_Illusion_Starring_Mickey_Mouse_1990_Disney_-_Sega_US</url>
+				<descripcion></descripcion>
+				<modificacionestipo>
+				</modificacionestipo>
+			</item>
 
 			
 		</carpeta>	
@@ -2738,6 +2825,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
