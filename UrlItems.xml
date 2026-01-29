@@ -1536,6 +1536,16 @@
 				<url>https://archive.org/embed/arcade_captaven</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mag_exzi/arcade_mag_exzi_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mag_exzi/arcade_mag_exzi_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Exzisus (EX 1.0, Magnet System)</titulo>
+				<url>https://archive.org/embed/arcade_mag_exzi</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -2875,6 +2885,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
