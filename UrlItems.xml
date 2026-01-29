@@ -1546,6 +1546,46 @@
 				<url>https://archive.org/embed/arcade_mag_exzi</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_vf2/arcade_vf2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_vf2/arcade_vf2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Virtua Fighter 2 (Version 2.1)</titulo>
+				<url>https://archive.org/embed/arcade_vf2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_aburner2/aburner2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_aburner2/aburner2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>After Burner II</titulo>
+				<url>https://archive.org/embed/arcade_aburner2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_spf2t/spf2t_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_spf2t/spf2t_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Puzzle Fighter II Turbo (Euro 960529)</titulo>
+				<url>https://archive.org/embed/arcade_spf2t</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_bublbob2/arcade_bublbob2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_bublbob2/arcade_bublbob2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Bubble Bobble II (Ver 2.6O 1994/12/16)</titulo>
+				<url>https://archive.org/embed/arcade_bublbob2</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -2885,6 +2925,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
