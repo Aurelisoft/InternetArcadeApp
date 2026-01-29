@@ -1586,6 +1586,36 @@
 				<url>https://archive.org/embed/arcade_bublbob2</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_nbajam/nbajam_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_nbajam/nbajam_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>NBA Jam (rev 3.01 04-07-93)</titulo>
+				<url>https://archive.org/embed/arcade_nbajam</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_turfmast/turfmast_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_turfmast/turfmast_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Neo Turf Masters - Big Tournament Golf</titulo>
+				<url>https://archive.org/embed/arcade_turfmast</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_joust/joust_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_joust/joust_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Joust</titulo>
+				<url>https://archive.org/embed/arcade_joust</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -2925,6 +2955,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
