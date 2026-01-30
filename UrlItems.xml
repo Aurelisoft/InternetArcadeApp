@@ -1712,6 +1712,16 @@
 				<url>https://archive.org/embed/arcade_splatter</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_centiped/centiped_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_centiped/centiped_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Centipede</titulo>
+				<url>https://archive.org/embed/arcade_centiped</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -3051,6 +3061,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
