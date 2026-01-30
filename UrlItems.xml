@@ -1922,6 +1922,96 @@
 				<url>https://archive.org/embed/arcade_toobin</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_3stooges/3stooges_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_3stooges/3stooges_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>The Three Stooges In Brides Is Brides</titulo>
+				<url>https://archive.org/embed/arcade_3stooges</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_gladiatr/gladiatr_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_gladiatr/gladiatr_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Gladiator</titulo>
+				<url>https://archive.org/embed/arcade_gladiatr</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_msgundam/msgundam_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_msgundam/msgundam_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Mobile Suit Gundam</titulo>
+				<url>https://archive.org/embed/arcade_msgundam</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_720/720_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_720/720_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>720</titulo>
+				<url>https://archive.org/embed/arcade_720</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_svolley/svolley_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_svolley/svolley_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Volleyball</titulo>
+				<url>https://archive.org/embed/arcade_svolley</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_kod/kod_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_kod/kod_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>The King of Dragons (World 910805)</titulo>
+				<url>https://archive.org/embed/arcade_kod</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_cninja/cninja_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_cninja/cninja_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Caveman Ninja (World ver 4)</titulo>
+				<url>https://archive.org/embed/arcade_cninja</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_aliensyn/aliensyn_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_aliensyn/aliensyn_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Alien Syndrome</titulo>
+				<url>https://archive.org/embed/arcade_aliensyn</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_secretag/secretag_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_secretag/secretag_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Secret Agent (World revision 3)</titulo>
+				<url>https://archive.org/embed/arcade_secretag</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -3261,6 +3351,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
