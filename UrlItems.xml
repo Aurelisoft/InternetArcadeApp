@@ -1831,6 +1831,16 @@
 				<titulo>Berzerk</titulo>
 				<url>https://archive.org/embed/arcade_berzerk</url>
 				<descripcion></descripcion>
+			</item>>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_wwfsstar/wwfsstar_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_wwfsstar/wwfsstar_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>WWF Superstars</titulo>
+				<url>https://archive.org/embed/arcade_wwfsstar</url>
+				<descripcion></descripcion>
 			</item>
 		
 		
@@ -3171,6 +3181,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
