@@ -1692,6 +1692,26 @@
 				<url>https://archive.org/embed/arcade_vf2</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_stargate/stargate_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_stargate/stargate_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Stargate</titulo>
+				<url>https://archive.org/embed/arcade_stargate</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_splatter/splatter_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_splatter/splatter_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Splatter House (World new version (SH3))</titulo>
+				<url>https://archive.org/embed/arcade_splatter</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -3031,6 +3051,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
