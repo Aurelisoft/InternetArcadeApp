@@ -1742,6 +1742,26 @@
 				<url>https://archive.org/embed/arcade_lbowling</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_garou/garou_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_garou/garou_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Garou - Mark of the Wolves (NGM-2530)</titulo>
+				<url>https://archive.org/embed/arcade_garou</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_cyberbal2p/cyberbal2p_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_cyberbal2p/cyberbal2p_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Cyberball 2072</titulo>
+				<url>https://archive.org/embed/arcade_cyberbal2p</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -3081,6 +3101,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
