@@ -1722,6 +1722,26 @@
 				<url>https://archive.org/embed/arcade_centiped</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_wjammers/wjammers_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_wjammers/wjammers_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Windjammers - Flying Power Disc</titulo>
+				<url>https://archive.org/embed/arcade_wjammers</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_lbowling/lbowling_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_lbowling/lbowling_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>League Bowling (NGM-019 ~ NGH-019)</titulo>
+				<url>https://archive.org/embed/arcade_lbowling</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -3061,6 +3081,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
