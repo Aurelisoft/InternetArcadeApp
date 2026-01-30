@@ -2012,6 +2012,36 @@
 				<url>https://archive.org/embed/arcade_secretag</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_strhoop/strhoop_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_strhoop/strhoop_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Street Hoop - Street Slam - Dunk Dream (DEM-004 ~ DEH-004)</titulo>
+				<url>https://archive.org/embed/arcade_strhoop</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_galsnew/galsnew_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_galsnew/galsnew_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Gals Panic (US EXPRO-02 PCB)</titulo>
+				<url>https://archive.org/embed/arcade_galsnew</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mwalk/mwalk_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mwalk/mwalk_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Michael Jackson's Moonwalker (World) (FD1094-8751 317-0159)</titulo>
+				<url>https://archive.org/embed/arcade_mwalk</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -3351,6 +3381,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
