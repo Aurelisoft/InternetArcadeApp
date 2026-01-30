@@ -1762,6 +1762,76 @@
 				<url>https://archive.org/embed/arcade_cyberbal2p</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_robocop2/robocop2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_robocop2/robocop2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Robocop 2 (Euro-Asia v0.10)</titulo>
+				<url>https://archive.org/embed/arcade_robocop2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_robocop2/robocop2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_robocop2/robocop2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Robocop 2 (Euro-Asia v0.10)</titulo>
+				<url>https://archive.org/embed/arcade_robocop2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_robocop2/robocop2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_robocop2/robocop2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Terminator 2 - Judgment Day (rev LA4 08-03-92)</titulo>
+				<url>https://archive.org/embed/arcade_robocop2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_mastboy/arcade_mastboy_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_mastboy/arcade_mastboy_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Master Boy (Spanish, PCB Rev A)</titulo>
+				<url>https://archive.org/embed/arcade_mastboy</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_gridlee/gridlee_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_gridlee/gridlee_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Gridlee</titulo>
+				<url>https://archive.org/embed/arcade_gridlee</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_jungleh/jungleh_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_jungleh/jungleh_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Jungle Hunt</titulo>
+				<url>https://archive.org/embed/arcade_jungleh</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_berzerk/arcade_berzerk_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/arcade_berzerk/arcade_berzerk_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Berzerk</titulo>
+				<url>https://archive.org/embed/arcade_berzerk</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -3101,6 +3171,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
