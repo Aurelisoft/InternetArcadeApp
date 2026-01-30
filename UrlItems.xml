@@ -1842,6 +1842,86 @@
 				<url>https://archive.org/embed/arcade_wwfsstar</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_tail2nos/tail2nos_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_tail2nos/tail2nos_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tail to Nose - Great Championship</titulo>
+				<url>https://archive.org/embed/arcade_tail2nos</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_wbml/wbml_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_wbml/wbml_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Wonder Boy in Monster Land</titulo>
+				<url>https://archive.org/embed/arcade_wbml</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_avsp/avsp_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_avsp/avsp_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Alien vs. Predator (Euro 940520)</titulo>
+				<url>https://archive.org/embed/arcade_avsp</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_ssriders/arcade_ssriders_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_ssriders/arcade_ssriders_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Sunset Riders (4 Players ver EAC)</titulo>
+				<url>https://archive.org/embed/arcade_ssriders</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_wboy/wboy_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_wboy/wboy_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Wonder Boy</titulo>
+				<url>https://archive.org/embed/arcade_wboy</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_tekken/arcade_tekken_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_tekken/arcade_tekken_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tekken (World, TE2/VER.C)</titulo>
+				<url>https://archive.org/embed/arcade_tekken</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_offroad/offroad_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_offroad/offroad_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Ironman Ivan Stewart's Super Off-Road</titulo>
+				<url>https://archive.org/embed/arcade_offroad</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_toobin/toobin_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_toobin/toobin_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Toobin</titulo>
+				<url>https://archive.org/embed/arcade_toobin</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -3181,6 +3261,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
