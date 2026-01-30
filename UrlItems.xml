@@ -2042,6 +2042,36 @@
 				<url>https://archive.org/embed/arcade_mwalk</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_narc2/narc2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_narc2/narc2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Narc</titulo>
+				<url>https://archive.org/embed/arcade_narc2</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_enduror/enduror_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_enduror/enduror_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Enduro Racer</titulo>
+				<url>https://archive.org/embed/arcade_enduror</url>
+				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_sprcros2/sprcros2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_sprcros2/sprcros2_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Cross II</titulo>
+				<url>https://archive.org/embed/arcade_sprcros2</url>
+				<descripcion></descripcion>
+			</item>
 		
 		
 		</carpeta>
@@ -3381,6 +3411,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
