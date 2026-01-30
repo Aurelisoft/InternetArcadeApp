@@ -2545,6 +2545,16 @@
 				<url>https://archive.org/embed/psx_motorcr2</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_gt2/psx_gt2_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_gt2/psx_gt2_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Gran Turismo 2 (USA) (Simulation Mode) (V1.2)</titulo>
+				<url>https://archive.org/embed/psx_gt2</url>
+				<descripcion></descripcion>
+			</item>
 
 
 
@@ -3421,6 +3431,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
