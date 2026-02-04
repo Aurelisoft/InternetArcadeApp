@@ -1987,16 +1987,6 @@
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/arcade_cninja/cninja_screenshot.png</icono>
-				<imgfondo>https://archive.org/serve/arcade_cninja/cninja_screenshot.png</imgfondo>
-				<tipo>arcade</tipo>
-				<capitulo>01</capitulo>
-				<titulo>Caveman Ninja (World ver 4)</titulo>
-				<url>https://archive.org/embed/arcade_cninja</url>
-				<descripcion></descripcion>
-			</item>
-			<item>
-				<id></id>
 				<icono>https://archive.org/serve/arcade_aliensyn/aliensyn_screenshot.png</icono>
 				<imgfondo>https://archive.org/serve/arcade_aliensyn/aliensyn_screenshot.png</imgfondo>
 				<tipo>arcade</tipo>
@@ -3434,6 +3424,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
