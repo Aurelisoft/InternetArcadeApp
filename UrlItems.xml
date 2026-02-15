@@ -3325,7 +3325,7 @@
 			<icono>turbografx16.jpg</icono> 
 			<imgfondo></imgfondo>
 			<descripcion></descripcion>			
-	        <bannerhtml>bannergamepad.png</bannerhtml>
+	        <bannerhtml>bannergamepad.html</bannerhtml>
 			<item>
 				<id></id>
 				<icono>https://archive.org/serve/Doraemon_Nobita_no_Dorabian_Night_Japan/Doraemon_Nobita_no_Dorabian_Night_Japan_screenshot.gif</icono>
@@ -3514,6 +3514,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
