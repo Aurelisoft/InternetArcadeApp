@@ -2203,6 +2203,7 @@
 				<titulo>Super Mario Bros. 3</titulo>
 				<url>https://archive.org/embed/super-mario-bros-3-nes</url>
 				<descripcion></descripcion>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
 			<item>
 				<id></id>
@@ -2335,6 +2336,7 @@
 				<titulo>Super Street Fighter II SNES (USA)</titulo>
 				<url>https://archive.org/embed/super-street-fighter-ii-usa_202301</url>
 				<descripcion></descripcion>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
 			
 			
@@ -2361,6 +2363,7 @@
 				<titulo>Toki</titulo>
 				<url>https://archive.org/embed/sg_Toki_1991_Sega_TAD_Corporation_EU-US_en</url>
 				<descripcion></descripcion>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
 			<item>
 				<id></id>
@@ -2401,6 +2404,7 @@
 				<titulo>Mario 3 Around The World (R) [a1][t1]</titulo>
 				<url>https://archive.org/embed/Mario_3_Around_The_World_R_a1_t1</url>
 				<descripcion></descripcion>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
 			<item>
 				<id></id>
@@ -2604,6 +2608,7 @@
 				<titulo>Moto Racer (USA)</titulo>
 				<url>https://archive.org/embed/psx_motorcr</url>
 				<descripcion></descripcion>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
 			<item>
 				<id></id>
@@ -2719,6 +2724,7 @@
 				<titulo>Donkey Kong Country 2 (Gameboy Advance)</titulo>
 				<url>https://archive.org/embed/dk2_gba</url>
 				<descripcion></descripcion>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item> 
 			<item>
 				<id></id>
@@ -2769,6 +2775,7 @@
 				<titulo>Wonder Boy</titulo>
 				<url>https://archive.org/embed/gg_Wonder_Boy_1990SegaJPen</url>
 				<descripcion></descripcion>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
 			<item>
 				<id></id>
@@ -3119,6 +3126,7 @@
 				<descripcion></descripcion>
 				<modificacionestipo>
 				</modificacionestipo>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
 			<item>
 				<id></id>
@@ -3227,6 +3235,7 @@
 				<descripcion></descripcion>
 				<modificacionestipo>
 				</modificacionestipo>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
 			<item>
 				<id></id>
@@ -3275,19 +3284,7 @@
 				<descripcion></descripcion>
 				<modificacionestipo>
 				</modificacionestipo>
-			</item>
-			<item>
-				<id></id>
-				<icono>https://archive.org/serve/segasms_Tom_and_Jerry_-_The_Movie_1992_Sega/Tom_and_Jerry_-_The_Movie_1992_Sega_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/segasms_Tom_and_Jerry_-_The_Movie_1992_Sega/Tom_and_Jerry_-_The_Movie_1992_Sega_screenshot.gif</imgfondo>
-				<tipo>sms</tipo>
-				<capitulo>01</capitulo>
-				<titulo>Tom and Jerry - The Movie 1992 Sega</titulo>
-				<url>https://archive.org/embed/segasms_Tom_and_Jerry_-_The_Movie_1992_Sega</url>
-				<descripcion></descripcion>
-				<modificacionestipo>
-				</modificacionestipo>
-			</item>
+			</item> 
 			<item>
 				<id></id>
 				<icono>https://archive.org/serve/segasms_California_Games_1989_Epyx_-_Sega/California_Games_1989_Epyx_-_Sega_screenshot.gif</icono>
@@ -3360,6 +3357,7 @@
 				<descripcion></descripcion>
 				<modificacionestipo>
 				</modificacionestipo>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
 			<item>
 				<id></id>
@@ -3513,6 +3511,7 @@
 		
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
