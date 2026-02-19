@@ -2773,12 +2773,12 @@
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/psx_crash/psx_crash_screenshot.jpg</icono>
-				<imgfondo>https://archive.org/serve/psx_crash/psx_crash_screenshot.jpg</imgfondo>
+				<icono>https://archive.org/serve/psx_crashp1/psx_crashp1_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_crashp1/psx_crashp1_screenshot.jpg</imgfondo>
 				<tipo>psx</tipo>
 				<capitulo>01</capitulo>
-				<titulo>Crash Bandicoot (USA)</titulo>
-				<url>https://archive.org/embed/psx_crash</url>
+				<titulo>Crash Bandicoot</titulo>
+				<url>https://archive.org/embed/psx_crashp1</url>
 				<descripcion></descripcion>
 			</item>
 			<item>
@@ -3866,6 +3866,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
