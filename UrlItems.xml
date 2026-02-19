@@ -3851,10 +3851,22 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-18 12:37</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/toshinden/toshinden_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/toshinden/toshinden_screenshot.gif</imgfondo>
+				<tipo>Gameboy</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Battle Arena Toshinden (Gameboy)</titulo>
+				<url>https://archive.org/embed/toshinden</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-18 12:37</fechaentrada>
+			</item>
 		
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
