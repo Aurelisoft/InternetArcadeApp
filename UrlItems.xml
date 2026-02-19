@@ -2894,6 +2894,39 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 20:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_twistmtl/psx_twistmtl_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_twistmtl/psx_twistmtl_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Twisted Metal (USA)</titulo>
+				<url>https://archive.org/embed/psx_twistmtl</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 20:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_pandemon/psx_pandemon_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_pandemon/psx_pandemon_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Pandemonium! (USA)</titulo>
+				<url>https://archive.org/embed/psx_pandemon</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 20:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_kamenrid/psx_kamenrid_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_kamenrid/psx_kamenrid_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Kamen Rider (Jpn)</titulo>
+				<url>https://archive.org/embed/psx_kamenrid</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 20:00</fechaentrada>
+			</item>
 
 
 
@@ -3899,6 +3932,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
