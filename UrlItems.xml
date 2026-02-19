@@ -2284,6 +2284,28 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 15:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_sdodgeb/sdodgeb_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_sdodgeb/sdodgeb_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Dodge Ball - Kunio no Nekketsu Toukyuu Densetsu</titulo>
+				<url>https://archive.org/embed/arcade_sdodgeb</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 15:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_bnzabros/bnzabros_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_bnzabros/bnzabros_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Bonanza Bros</titulo>
+				<url>https://archive.org/embed/arcade_bnzabros</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 15:00</fechaentrada>
+			</item>
 		
 		
 		</carpeta>
@@ -3833,6 +3855,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
