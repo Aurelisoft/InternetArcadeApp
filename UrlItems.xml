@@ -2306,6 +2306,39 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 15:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_smgp/smgp_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_smgp/smgp_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Monaco GP (World Rev B) (FD1094 317-0126a)</titulo>
+				<url>https://archive.org/embed/arcade_smgp</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 22:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_arkatour/arkatour_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_arkatour/arkatour_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tournament Arkanoid (US)</titulo>
+				<url>https://archive.org/embed/arcade_arkatour</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 22:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_darktowr/darktowr_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_darktowr/darktowr_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dark Tower</titulo>
+				<url>https://archive.org/embed/arcade_darktowr</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 22:00</fechaentrada>
+			</item>
 		
 		
 		</carpeta>
@@ -2926,6 +2959,17 @@
 				<url>https://archive.org/embed/psx_kamenrid</url>
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 20:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_nfs3/psx_nfs3_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_nfs3/psx_nfs3_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Need for Speed III - Hot Pursuit (USA)</titulo>
+				<url>https://archive.org/embed/psx_nfs3</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 22:00</fechaentrada>
 			</item>
 
 
@@ -3932,6 +3976,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
