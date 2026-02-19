@@ -3642,10 +3642,22 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-18 12:37</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/dk_gb_2/dk_gb_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/dk_gb_2/dk_gb_2_screenshot.gif</imgfondo>
+				<tipo>Gameboy</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Donkey Kong Land (Gameboy)</titulo>
+				<url>https://archive.org/embed/dk_gb_2</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-18 12:37</fechaentrada>
+			</item>
 		
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
