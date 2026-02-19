@@ -2196,6 +2196,17 @@
 				<url>https://archive.org/embed/arcade_tumblep</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/dkong_mame/dkong_mame_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/dkong_mame/dkong_mame_screenshot.gif</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Donkey Kong (Arcade)</titulo>
+				<url>https://archive.org/embed/dkong_mame</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 14:00</fechaentrada>
+			</item>
 		
 		
 		</carpeta>
@@ -2382,6 +2393,17 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/earthworm-jim-usa_202301/earthworm-jim-usa_202301_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/earthworm-jim-usa_202301/earthworm-jim-usa_202301_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Earthworm Jim SNES ( USA)</titulo>
+				<url>https://archive.org/embed/earthworm-jim-usa_202301</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
+			</item>
 			
 			
 		
@@ -2558,6 +2580,61 @@
 				<capitulo>01</capitulo>
 				<titulo>Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)</titulo>
 				<url>https://archive.org/embed/Daffy_Duck_in_Hollywood_Europe_EnFrDeEsIt.md</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/sg_Toy_Story_1995_Disney_Psygnosis_Travellers_Tales_US/Toy_Story_1995_Disney_Psygnosis_Travellers_Tales_US_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/sg_Toy_Story_1995_Disney_Psygnosis_Travellers_Tales_US/Toy_Story_1995_Disney_Psygnosis_Travellers_Tales_US_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Toy Story</titulo>
+				<url>https://archive.org/embed/sg_Toy_Story_1995_Disney_Psygnosis_Travellers_Tales_US</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Jim_Power_The_Lost_Dimension_in_3D_World_Aftermarket_Unl.md/Jim_Power_The_Lost_Dimension_in_3D_World_Aftermarket_Unl.md_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Jim_Power_The_Lost_Dimension_in_3D_World_Aftermarket_Unl.md/Jim_Power_The_Lost_Dimension_in_3D_World_Aftermarket_Unl.md_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Jim Power The Lost Dimension in 3D (World) (Aftermarket) (Unl)</titulo>
+				<url>https://archive.org/embed/Jim_Power_The_Lost_Dimension_in_3D_World_Aftermarket_Unl.md</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/sg_Taz-Mania_1992_Sega/Taz-Mania_1992_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/sg_Taz-Mania_1992_Sega/Taz-Mania_1992_Sega_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Taz-Mania</titulo>
+				<url>https://archive.org/embed/sg_Taz-Mania_1992_Sega</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Earthworm_Jim_2_1995-08-24_Playmates_proto/Earthworm_Jim_2_1995-08-24_Playmates_proto_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Earthworm_Jim_2_1995-08-24_Playmates_proto/Earthworm_Jim_2_1995-08-24_Playmates_proto_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Earthworm Jim 2 (1995 08 24)(Playmates)(proto)</titulo>
+				<url>https://archive.org/embed/Earthworm_Jim_2_1995-08-24_Playmates_proto</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/sg_Tinhead_1994_MicroProse_Spectrum_HoloByte_US/Tinhead_1994_MicroProse_Spectrum_HoloByte_US_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/sg_Tinhead_1994_MicroProse_Spectrum_HoloByte_US/Tinhead_1994_MicroProse_Spectrum_HoloByte_US_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tinhead</titulo>
+				<url>https://archive.org/embed/sg_Tinhead_1994_MicroProse_Spectrum_HoloByte_US</url>
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 12:37</fechaentrada>
 			</item>
@@ -2911,6 +2988,17 @@
 				<titulo>Frogger</titulo>
 				<url>https://archive.org/embed/gg_Frogger_1991Segaproto</url>
 				<descripcion></descripcion>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Garfield_Caught_in_the_Act_1995Novotrade_SegaUS/Garfield_Caught_in_the_Act_1995Novotrade_SegaUS_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Garfield_Caught_in_the_Act_1995Novotrade_SegaUS/Garfield_Caught_in_the_Act_1995Novotrade_SegaUS_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Garfield: Caught in the Act</titulo>
+				<url>https://archive.org/embed/gg_Garfield_Caught_in_the_Act_1995Novotrade_SegaUS</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 12:37</fechaentrada>
 			</item>
 
 
@@ -3657,6 +3745,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
