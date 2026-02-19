@@ -2514,6 +2514,17 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/legend-of-zelda-the-a-link-to-the-past-usa_202501/legend-of-zelda-the-a-link-to-the-past-usa_202501_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/legend-of-zelda-the-a-link-to-the-past-usa_202501/legend-of-zelda-the-a-link-to-the-past-usa_202501_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Legend Of Zelda, The A Link To The Past ( USA) SNES ROM</titulo>
+				<url>https://archive.org/embed/legend-of-zelda-the-a-link-to-the-past-usa_202501</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
+			</item>
 			
 			
 		
@@ -2872,6 +2883,17 @@
 				<url>https://archive.org/embed/psx_gt2</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_crashbsh/psx_crashbsh_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_crashbsh/psx_crashbsh_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Crash Bash (USA)</titulo>
+				<url>https://archive.org/embed/psx_crashbsh</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 20:00</fechaentrada>
+			</item>
 
 
 
@@ -3007,6 +3029,17 @@
 				<titulo>Madagascar: Operation Penguin</titulo>
 				<url>https://archive.org/embed/madagascar-operation-penguin</url>
 				<descripcion></descripcion>
+			</item> 
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/legend-of-zelda-the-a-link-to-the-past-four-swords-u/00_coverscreenshot.png</icono>
+				<imgfondo>https://archive.org/serve/legend-of-zelda-the-a-link-to-the-past-four-swords-u/00_coverscreenshot.png</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Legend Of Zelda, The A Link To The Past Four Swords ( U)</titulo>
+				<url>https://archive.org/embed/legend-of-zelda-the-a-link-to-the-past-four-swords-u</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 20:00</fechaentrada>
 			</item> 
 			
 		</carpeta>
@@ -3866,6 +3899,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
