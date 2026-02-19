@@ -3573,7 +3573,7 @@
 				<imgfondo>https://archive.org/serve/gamewatch_gb/gamewatch_gb_screenshot.gif</imgfondo>
 				<tipo>Gameboy</tipo>
 				<capitulo>01</capitulo>
-				<titulo>Game & Watch Gallery (Gameboy)</titulo>
+				<titulo>Game and Watch Gallery (Gameboy)</titulo>
 				<url>https://archive.org/embed/gamewatch_gb</url>
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-18 12:37</fechaentrada>
@@ -3582,6 +3582,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
