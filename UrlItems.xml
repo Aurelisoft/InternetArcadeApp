@@ -2207,6 +2207,17 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 14:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/images/start.png</icono>
+				<imgfondo>https://archive.org/images/start.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Popeye (Arcade)</titulo>
+				<url>https://archive.org/embed/popeye_mame</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 14:00</fechaentrada>
+			</item>
 		
 		
 		</carpeta>
@@ -3756,6 +3767,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
