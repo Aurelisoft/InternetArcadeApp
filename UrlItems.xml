@@ -2801,6 +2801,26 @@
 				<url>https://archive.org/embed/curiousgeorge_gba</url>
 				<descripcion></descripcion>
 			</item> 
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/spongebob_gba/spongebob_gba_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/spongebob_gba/spongebob_gba_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>SpongeBob: Revenge of the Flying Dutchman (Gameboy Advance)</titulo>
+				<url>https://archive.org/embed/spongebob_gba</url>
+				<descripcion></descripcion>
+			</item>  
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/madagascar-operation-penguin/madagascar-operation-penguin_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/madagascar-operation-penguin/madagascar-operation-penguin_screenshot.gif</imgfondo>
+				<tipo>gba</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Madagascar: Operation Penguin</titulo>
+				<url>https://archive.org/embed/madagascar-operation-penguin</url>
+				<descripcion></descripcion>
+			</item> 
 			
 		</carpeta>
 		
@@ -3626,6 +3646,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
