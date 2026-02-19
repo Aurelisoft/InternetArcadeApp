@@ -2506,6 +2506,17 @@
 				<url>https://archive.org/embed/sg_Road_Rash_II_1993_Electronic_Arts_JP_en</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Daffy_Duck_in_Hollywood_Europe_EnFrDeEsIt.md/Daffy_Duck_in_Hollywood_Europe_EnFrDeEsIt.md_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Daffy_Duck_in_Hollywood_Europe_EnFrDeEsIt.md/Daffy_Duck_in_Hollywood_Europe_EnFrDeEsIt.md_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)</titulo>
+				<url>https://archive.org/embed/Daffy_Duck_in_Hollywood_Europe_EnFrDeEsIt.md</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 12:37</fechaentrada>
+			</item>
 			
 			
 		
@@ -3506,11 +3517,50 @@
 			
 		</carpeta>	
 
-
+        <carpeta>
+			<id></id>
+			<titulo>Neo Geo Pocket/Pocket Color</titulo>
+			<icono>neogeo.jpg</icono> 
+			<imgfondo></imgfondo>
+			<descripcion></descripcion>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>SNK vs. Capcom The Match of the Millennium (1999)(Capcom SNK)(en ja)</titulo>
+				<url>https://archive.org/embed/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/ngpc_NeoGeo_Cup_98_Plus_1999_SNK_en-ja/ngpc_NeoGeo_Cup_98_Plus_1999_SNK_en-ja_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/ngpc_NeoGeo_Cup_98_Plus_1999_SNK_en-ja/ngpc_NeoGeo_Cup_98_Plus_1999_SNK_en-ja_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>NeoGeo Cup '98 Plus (1999)(SNK)(en ja)</titulo>
+				<url>https://archive.org/embed/ngpc_NeoGeo_Cup_98_Plus_1999_SNK_en-ja</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-18 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/ngpc_Ganbare_Neo_Poke_Kun_2000_SNK_JP/ngpc_Ganbare_Neo_Poke_Kun_2000_SNK_JP_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/ngpc_Ganbare_Neo_Poke_Kun_2000_SNK_JP/ngpc_Ganbare_Neo_Poke_Kun_2000_SNK_JP_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Ganbare Neo Poke Kun (2000)(SNK)(JP)</titulo>
+				<url>https://archive.org/embed/ngpc_Ganbare_Neo_Poke_Kun_2000_SNK_JP</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-18 12:37</fechaentrada>
+			</item>
 		
-		
+		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
