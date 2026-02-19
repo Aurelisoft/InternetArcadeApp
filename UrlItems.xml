@@ -2404,6 +2404,17 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-13 00:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/1994_The_Lion_King_Nintendo_Super_Famicom_Super_Nintendo_Entertainment_System/1994_The_Lion_King_Nintendo_Super_Famicom_Super_Nintendo_Entertainment_System_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/1994_The_Lion_King_Nintendo_Super_Famicom_Super_Nintendo_Entertainment_System/1994_The_Lion_King_Nintendo_Super_Famicom_Super_Nintendo_Entertainment_System_screenshot.png</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>The Lion King</titulo>
+				<url>https://archive.org/embed/1994_The_Lion_King_Nintendo_Super_Famicom_Super_Nintendo_Entertainment_System</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-13 00:00</fechaentrada>
+			</item>
 			
 			
 		
@@ -3745,6 +3756,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
