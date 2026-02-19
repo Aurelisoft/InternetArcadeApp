@@ -2209,8 +2209,8 @@
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/images/start.png</icono>
-				<imgfondo>https://archive.org/images/start.png</imgfondo>
+				<icono>https://archive.org/serve/popeye_mame/popeye_mame_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/popeye_mame/popeye_mame_screenshot.gif</imgfondo>
 				<tipo>arcade</tipo>
 				<capitulo>01</capitulo>
 				<titulo>Popeye (Arcade)</titulo>
@@ -3855,6 +3855,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
