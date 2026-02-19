@@ -2218,6 +2218,61 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 14:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_strhoop/strhoop_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_strhoop/strhoop_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Street Hoop - Street Slam - Dunk Dream</titulo>
+				<url>https://archive.org/embed/arcade_strhoop</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 15:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_dstlk/dstlk_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_dstlk/dstlk_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Darkstalkers: The Night Warriors (Euro 940705)</titulo>
+				<url>https://archive.org/embed/arcade_dstlk</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 15:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_cybots/arcade_cybots_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_cybots/arcade_cybots_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Cyberbots: Fullmetal Madness (Euro 950424)</titulo>
+				<url>https://archive.org/embed/arcade_cybots</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 15:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_asterix/arcade_asterix_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_asterix/arcade_asterix_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Asterix (ver EAD)</titulo>
+				<url>https://archive.org/embed/arcade_asterix</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 15:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_gticlub/arcade_gticlub_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_gticlub/arcade_gticlub_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>GTI Club (ver EAA)</titulo>
+				<url>https://archive.org/embed/arcade_gticlub</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 15:00</fechaentrada>
+			</item>
 		
 		
 		</carpeta>
@@ -3767,6 +3822,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
