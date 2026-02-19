@@ -509,6 +509,50 @@
             <teclabotonaccionabajoplayer2>'q','KeyQ',81</teclabotonaccionabajoplayer2>
             <teclabotonaccionizquierdaplayer2>'a','KeyA',65</teclabotonaccionizquierdaplayer2>
             <teclabotonaccionarribaplayer2>'s','KeyS',83</teclabotonaccionarribaplayer2>
+		</itemtipo>		
+		<itemtipo>
+        	<tipo>gameboy</tipo>
+			<titulo>Game Boy</titulo>
+        	<estilodivbotonesdireccion>background:radial-gradient(black,transparent,black);position:absolute;top:120px;left:5px;width:160px;height:160px;border-radius:50%;</estilodivbotonesdireccion>
+        	<estilodivbotonesaccion>background:linear-gradient(transparent,black,transparent);position:absolute;top:120px;right:15px;width:140px;height:100px;border-radius:10px;</estilodivbotonesaccion>
+        	<textobotoncoin>Select</textobotoncoin>
+        	<textobotonstart>Start</textobotonstart>
+        	<textobotonpause>Pause</textobotonpause>
+        	<textobotonaccionderecha>A</textobotonaccionderecha>
+        	<textobotonaccionabajo></textobotonaccionabajo>
+        	<textobotonaccionizquierda>B</textobotonaccionizquierda>
+        	<textobotonaccionarriba></textobotonaccionarriba>
+        	<estilobotontipomovimiento>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:0px;height:30px;width:70px;border-radius:30px;</estilobotontipomovimiento>
+            <estilobotonsave>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:45px;height:30px;width:70px;border-radius:30px;</estilobotonsave>
+			<estilobotonload>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;left:90px;height:30px;width:70px;border-radius:30px;</estilobotonload>
+			<estilobotoncoin>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:90px;height:30px;width:70px;border-radius:30px;</estilobotoncoin>
+        	<estilobotonstart>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:45px;height:30px;width:70px;border-radius:30px;</estilobotonstart>
+        	<estilobotonpause>transform:rotate(-60deg);background:radial-gradient(white,black);z-index:9999;position:absolute;top:25px;right:0px;height:30px;width:70px;border-radius:30px;</estilobotonpause>
+        	<estilobotonaccionderecha>background:radial-gradient(red,black);z-index:9999;position:absolute;top:20px;right:5px;height:60px;width:60px;border-radius:50%;</estilobotonaccionderecha>
+        	<estilobotonaccionabajo>display:none;</estilobotonaccionabajo>
+        	<estilobotonaccionizquierda>background:radial-gradient(red,black);z-index:9999;position:absolute;top:20px;right:75px;height:60px;width:60px;border-radius:50%;</estilobotonaccionizquierda>
+        	<estilobotonaccionarriba>display:none;</estilobotonaccionarriba>
+        	<teclabotoncoin>'5','Digit5',53</teclabotoncoin>
+        	<teclabotonstart>'1','Digit1',49</teclabotonstart>
+        	<teclabotonpause>'p','KeyP',80</teclabotonpause>
+        	<teclabotonaccionderecha>'Alt','AltLeft',18</teclabotonaccionderecha>
+        	<teclabotonaccionabajo></teclabotonaccionabajo>
+        	<teclabotonaccionizquierda>'Control','ControlLeft',17</teclabotonaccionizquierda>
+        	<teclabotonaccionarriba></teclabotonaccionarriba>
+            <teclabotonizquierda>'ArrowLeft','ArrowLeft',37</teclabotonizquierda>
+            <teclabotonarriba>'ArrowUp','ArrowUp',38</teclabotonarriba>
+            <teclabotonderecha>'ArrowRight','ArrowRight',39</teclabotonderecha>
+            <teclabotonabajo>'ArrowDown','ArrowDown',40</teclabotonabajo>
+            <teclabotonizquierdaplayer2>'d','KeyD',68</teclabotonizquierdaplayer2>
+            <teclabotonarribaplayer2>'r','KeyR',82</teclabotonarribaplayer2>
+            <teclabotonderechaplayer2>'g','KeyG',71</teclabotonderechaplayer2>
+            <teclabotonabajoplayer2>'f','KeyF',70</teclabotonabajoplayer2>
+			<teclabotoncoinplayer2>'6','Digit6',54</teclabotoncoinplayer2>
+            <teclabotonstartplayer2>'2','Digit2',50</teclabotonstartplayer2>
+            <teclabotonaccionderechaplayer2>'w','KeyW',87</teclabotonaccionderechaplayer2>
+            <teclabotonaccionabajoplayer2>'q','KeyQ',81</teclabotonaccionabajoplayer2>
+            <teclabotonaccionizquierdaplayer2>'a','KeyA',65</teclabotonaccionizquierdaplayer2>
+            <teclabotonaccionarribaplayer2>'s','KeyS',83</teclabotonaccionarribaplayer2>
 		</itemtipo>
 	</tipos>
 	<inicio>
@@ -3582,6 +3626,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
