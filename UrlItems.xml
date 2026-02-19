@@ -3519,40 +3519,62 @@
 
         <carpeta>
 			<id></id>
-			<titulo>Neo Geo Pocket/Pocket Color</titulo>
-			<icono>neogeo.jpg</icono> 
+			<titulo>GameBoy Original</titulo>
+			<icono>gameboy.jpg</icono> 
 			<imgfondo></imgfondo>
 			<descripcion></descripcion>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja_screenshot.gif</imgfondo>
-				<tipo>genesis</tipo>
+				<icono>https://archive.org/serve/tetris_gb/tetris_gb_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/tetris_gb/tetris_gb_screenshot.gif</imgfondo>
+				<tipo>Gameboy</tipo>
 				<capitulo>01</capitulo>
-				<titulo>SNK vs. Capcom The Match of the Millennium (1999)(Capcom SNK)(en ja)</titulo>
-				<url>https://archive.org/embed/ngpc_SNK_vs._Capcom_The_Match_of_the_Millennium_1999_Capcom_SNK_en-ja</url>
+				<titulo>Tetris (Gameboy)</titulo>
+				<url>https://archive.org/embed/tetris_gb</url>
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 12:37</fechaentrada>
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/ngpc_NeoGeo_Cup_98_Plus_1999_SNK_en-ja/ngpc_NeoGeo_Cup_98_Plus_1999_SNK_en-ja_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/ngpc_NeoGeo_Cup_98_Plus_1999_SNK_en-ja/ngpc_NeoGeo_Cup_98_Plus_1999_SNK_en-ja_screenshot.gif</imgfondo>
-				<tipo>genesis</tipo>
+				<icono>https://archive.org/serve/sml_gb_2/sml_gb_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/sml_gb_2/sml_gb_2_screenshot.gif</imgfondo>
+				<tipo>Gameboy</tipo>
 				<capitulo>01</capitulo>
-				<titulo>NeoGeo Cup '98 Plus (1999)(SNK)(en ja)</titulo>
-				<url>https://archive.org/embed/ngpc_NeoGeo_Cup_98_Plus_1999_SNK_en-ja</url>
+				<titulo>Super Mario Land</titulo>
+				<url>https://archive.org/embed/sml_gb_2</url>
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-18 12:37</fechaentrada>
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/ngpc_Ganbare_Neo_Poke_Kun_2000_SNK_JP/ngpc_Ganbare_Neo_Poke_Kun_2000_SNK_JP_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/ngpc_Ganbare_Neo_Poke_Kun_2000_SNK_JP/ngpc_Ganbare_Neo_Poke_Kun_2000_SNK_JP_screenshot.gif</imgfondo>
-				<tipo>genesis</tipo>
+				<icono>https://archive.org/serve/megaman-ii-usa/megaman-ii-usa_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/megaman-ii-usa/megaman-ii-usa_screenshot.gif</imgfondo>
+				<tipo>Gameboy</tipo>
 				<capitulo>01</capitulo>
-				<titulo>Ganbare Neo Poke Kun (2000)(SNK)(JP)</titulo>
-				<url>https://archive.org/embed/ngpc_Ganbare_Neo_Poke_Kun_2000_SNK_JP</url>
+				<titulo>Mega Man II</titulo>
+				<url>https://archive.org/embed/megaman-ii-usa</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-18 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/warioland2/warioland2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/warioland2/warioland2_screenshot.gif</imgfondo>
+				<tipo>Gameboy</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Wario Land II (Gameboy)</titulo>
+				<url>https://archive.org/embed/warioland2</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-18 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gamewatch_gb/gamewatch_gb_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gamewatch_gb/gamewatch_gb_screenshot.gif</imgfondo>
+				<tipo>Gameboy</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Game & Watch Gallery (Gameboy)</titulo>
+				<url>https://archive.org/embed/gamewatch_gb</url>
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-18 12:37</fechaentrada>
 			</item>
@@ -3560,6 +3582,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
