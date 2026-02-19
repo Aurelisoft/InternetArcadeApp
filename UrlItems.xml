@@ -2273,6 +2273,17 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 15:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_klaxd/klaxd_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_klaxd/klaxd_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Klax</titulo>
+				<url>https://archive.org/embed/arcade_klaxd</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 15:00</fechaentrada>
+			</item>
 		
 		
 		</carpeta>
@@ -3822,6 +3833,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
