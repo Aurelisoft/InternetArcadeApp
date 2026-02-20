@@ -2329,6 +2329,17 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 22:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/arcade_ddragon3/ddragon3_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/arcade_ddragon3/ddragon3_screenshot.png</imgfondo>
+				<tipo>arcade</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Double Dragon 3 - The Rosetta Stone (US)</titulo>
+				<url>https://archive.org/embed/arcade_ddragon3</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 00:00</fechaentrada>
+			</item>
 		
 		
 		</carpeta>
@@ -2547,6 +2558,17 @@
 				<url>https://archive.org/embed/legend-of-zelda-the-a-link-to-the-past-usa_202501</url>
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-13 00:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/3-ninjas-kick-back-usa_202506/3-ninjas-kick-back-usa_202506_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/3-ninjas-kick-back-usa_202506/3-ninjas-kick-back-usa_202506_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>3 Ninjas Kick Back ( USA)</titulo>
+				<url>https://archive.org/embed/3-ninjas-kick-back-usa_202506</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 00:00</fechaentrada>
 			</item>
 			
 			
@@ -2782,6 +2804,17 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 12:37</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/sg_Prince_of_Persia_1993_Broderbund_Domark_EU_en_beta/Prince_of_Persia_1993_Broderbund_Domark_EU_en_beta_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/sg_Prince_of_Persia_1993_Broderbund_Domark_EU_en_beta/Prince_of_Persia_1993_Broderbund_Domark_EU_en_beta_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Prince of Persia</titulo>
+				<url>https://archive.org/embed/sg_Prince_of_Persia_1993_Broderbund_Domark_EU_en_beta</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-19 12:37</fechaentrada>
+			</item>
 			
 			
 		
@@ -2960,6 +2993,61 @@
 				<url>https://archive.org/embed/psx_nfs3</url>
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 22:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_dinocris/psx_dinocris_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_dinocris/psx_dinocris_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dino crisis</titulo>
+				<url>https://archive.org/embed/psx_dinocris</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 00:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/images/start.png</icono>
+				<imgfondo>https://archive.org/images/start.png</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Resident Evil (USA)</titulo>
+				<url>https://archive.org/embed/psx_revil</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 00:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_traida/psx_traida_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_traida/psx_traida_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tomb Raider (USA, v1.5)</titulo>
+				<url>https://archive.org/embed/psx_traida</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 00:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_sotn/psx_sotn_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_sotn/psx_sotn_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Castlevania - Symphony of the Night (USA)</titulo>
+				<url>https://archive.org/embed/psx_sotn</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 00:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_ffantact/psx_ffantact_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_ffantact/psx_ffantact_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Final Fantasy Tactics (USA)</titulo>
+				<url>https://archive.org/embed/psx_ffantact</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 00:00</fechaentrada>
 			</item>
 
 
