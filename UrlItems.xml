@@ -2433,6 +2433,50 @@
 				<url>https://archive.org/embed/elevator_nes</url>
 				<descripcion></descripcion>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/contra-nes/contra-nes_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/contra-nes/contra-nes_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Contra</titulo>
+				<url>https://archive.org/embed/contra-nes</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 22:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/1986-super-mario-bros.-2-the-lost-levels-japan/1986-super-mario-bros.-2-the-lost-levels-japan_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/1986-super-mario-bros.-2-the-lost-levels-japan/1986-super-mario-bros.-2-the-lost-levels-japan_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Mario Bros. 2: The Lost Levels</titulo>
+				<url>https://archive.org/embed/1986-super-mario-bros.-2-the-lost-levels-japan</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 22:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/digdug_nes_2/digdug_nes_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/digdug_nes_2/digdug_nes_2_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dig Dug (NES)</titulo>
+				<url>https://archive.org/embed/digdug_nes_2</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 22:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/metal-gear-usa/metal-gear-usa_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/metal-gear-usa/metal-gear-usa_screenshot.gif</imgfondo>
+				<tipo>nes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Metal Gear NES</titulo>
+				<url>https://archive.org/embed/metal-gear-usa</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 22:00</fechaentrada>
+			</item>
 
 
 			
@@ -3048,6 +3092,17 @@
 				<url>https://archive.org/embed/psx_ffantact</url>
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-20 00:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/psx_southprk/psx_southprk_screenshot.jpg</icono>
+				<imgfondo>https://archive.org/serve/psx_southprk/psx_southprk_screenshot.jpg</imgfondo>
+				<tipo>psx</tipo>
+				<capitulo>01</capitulo>
+				<titulo>South Park (USA)</titulo>
+				<url>https://archive.org/embed/psx_southprk</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 22:00</fechaentrada>
 			</item>
 
 
@@ -4050,10 +4105,22 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-18 12:37</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/kirby_gb_2/kirby_gb_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/kirby_gb_2/kirby_gb_2_screenshot.gif</imgfondo>
+				<tipo>Gameboy</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Kirby's Dream Land (Gameboy)</titulo>
+				<url>https://archive.org/embed/kirby_gb_2</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-20 22:37</fechaentrada>
+			</item>
 		
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
