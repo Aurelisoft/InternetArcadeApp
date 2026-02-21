@@ -2859,6 +2859,28 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 12:37</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Sparkster_E_f1C/Sparkster_E_f1C_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Sparkster_E_f1C/Sparkster_E_f1C_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Sparkster (E) [f1+C]</titulo>
+				<url>https://archive.org/embed/Sparkster_E_f1C</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-21 00:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/sg_Super_Hang-On_Rev_1_1989_Sega/Super_Hang-On_Rev_1_1989_Sega_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/sg_Super_Hang-On_Rev_1_1989_Sega/Super_Hang-On_Rev_1_1989_Sega_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Hang-On Rev 1</titulo>
+				<url>https://archive.org/embed/sg_Super_Hang-On_Rev_1_1989_Sega</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-21 00:37</fechaentrada>
+			</item>
 			
 			
 		
@@ -4120,6 +4142,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
