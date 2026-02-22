@@ -1,6 +1,6 @@
 <InternetArcadeApp>
 	<android>
-		<version>1.1.9</version>
+		<version>1.2.0</version>
 		<urlactualizacion>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlactualizacion>
 		<urlopiniones>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlopiniones>
 		<urlcompartir>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlcompartir>
@@ -4142,6 +4142,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
