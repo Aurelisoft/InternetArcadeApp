@@ -3375,6 +3375,61 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-19 12:37</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_NBA_Jam_Rev_1_1993Acclaim_Arena_Entertainment_Iguana_Entertainment_Midway/NBA_Jam_Rev_1_1993Acclaim_Arena_Entertainment_Iguana_Entertainment_Midway_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_NBA_Jam_Rev_1_1993Acclaim_Arena_Entertainment_Iguana_Entertainment_Midway/NBA_Jam_Rev_1_1993Acclaim_Arena_Entertainment_Iguana_Entertainment_Midway_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>NBA Jam</titulo>
+				<url>https://archive.org/embed/gg_NBA_Jam_Rev_1_1993Acclaim_Arena_Entertainment_Iguana_Entertainment_Midway</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-23 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Dynamite_Headdy_1994Sega_TreasureJPen/Dynamite_Headdy_1994Sega_TreasureJPen_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Dynamite_Headdy_1994Sega_TreasureJPen/Dynamite_Headdy_1994Sega_TreasureJPen_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Dynamite Headdy</titulo>
+				<url>https://archive.org/embed/gg_Dynamite_Headdy_1994Sega_TreasureJPen</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-23 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Super_Star_Wars_Return_of_the_Jedi_1995LucasArts_THQ/Super_Star_Wars_Return_of_the_Jedi_1995LucasArts_THQ_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Super_Star_Wars_Return_of_the_Jedi_1995LucasArts_THQ/Super_Star_Wars_Return_of_the_Jedi_1995LucasArts_THQ_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Star Wars: Return of the Jedi</titulo>
+				<url>https://archive.org/embed/gg_Super_Star_Wars_Return_of_the_Jedi_1995LucasArts_THQ</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-23 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Tails_Skyol_1995JSH_Sega_SimsJPen/Tails_Skypatrol_1995JSH_Sega_SimsJPen_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Tails_Skyol_1995JSH_Sega_SimsJPen/Tails_Skypatrol_1995JSH_Sega_SimsJPen_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tails Sky Patrol</titulo>
+				<url>https://archive.org/embed/gg_Tails_Skyol_1995JSH_Sega_SimsJPen</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-23 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/gg_Asterix_and_the_Secret_Mission_1993SegaM3/gg_Asterix_and_the_Secret_Mission_1993SegaM3_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/gg_Asterix_and_the_Secret_Mission_1993SegaM3/gg_Asterix_and_the_Secret_Mission_1993SegaM3_screenshot.gif</imgfondo>
+				<tipo>gamegear</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Asterix and the Secret Mission</titulo>
+				<url>https://archive.org/embed/gg_Asterix_and_the_Secret_Mission_1993SegaM3</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-23 12:37</fechaentrada>
+			</item>
 
 
 			
@@ -4138,10 +4193,44 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-20 22:37</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/tamagotchi_gb/tamagotchi_gb_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/tamagotchi_gb/tamagotchi_gb_screenshot.gif</imgfondo>
+				<tipo>Gameboy</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Tamagotchi (Gameboy)</titulo>
+				<url>https://archive.org/embed/tamagotchi_gb</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-23 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/pingu_gb_2/pingu_gb_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/pingu_gb_2/pingu_gb_2_screenshot.gif</imgfondo>
+				<tipo>Gameboy</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Pingu: Sekai de 1 Ban Genkina Penguin (Gameboy)</titulo>
+				<url>https://archive.org/embed/pingu_gb_2</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-23 12:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/bugs-life-a-usa-sgb-enhanced/bugs-life-a-usa-sgb-enhanced_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/bugs-life-a-usa-sgb-enhanced/bugs-life-a-usa-sgb-enhanced_screenshot.gif</imgfondo>
+				<tipo>Gameboy</tipo>
+				<capitulo>01</capitulo>
+				<titulo>A Bug’s Life (Original Game Boy Version)</titulo>
+				<url>https://archive.org/embed/bugs-life-a-usa-sgb-enhanced</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-02-23 12:37</fechaentrada>
+			</item>
 		
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
