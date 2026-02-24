@@ -558,6 +558,7 @@
 	<inicio>
 		<id></id>
 		<titulo>Buscar Juegos Arcade y más</titulo>
+		<titulo_en>Search Arcade Games and More</titulo_en>
 		<icono></icono>
 		<imgfondo>fondoinicio.jpg</imgfondo>
 		<descripcion></descripcion>			
@@ -4230,6 +4231,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
