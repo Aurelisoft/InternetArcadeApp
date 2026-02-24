@@ -17,14 +17,14 @@
 		<urlopiniones>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlopiniones>
 		<urlcompartir>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlcompartir>
 	</winui>
-	<urlacercade>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/acercade.html</urlacercade>
-	<urlinformacionlegalterminos>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/informacionlegalterminos.html</urlinformacionlegalterminos>
-    <urlpoliticaprivacidad>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/politicaprivacidad.html</urlpoliticaprivacidad>
+	<urlacercade>https://electrodiscovery.es/internetarcade/acercade.html</urlacercade>
+	<urlinformacionlegalterminos>https://electrodiscovery.es/internetarcade/informacionlegalterminos.html</urlinformacionlegalterminos>
+    <urlpoliticaprivacidad>https://electrodiscovery.es/internetarcade/politicaprivacidad.html</urlpoliticaprivacidad>
 	<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
 	<urldonateinternetarchive>https://archive.org/donate?origin=aurelisoft@gmail.com</urldonateinternetarchive>
-	<urlayuda>https://raw.githack.com/Aurelisoft/InternetArcadeApp/refs/heads/main/ayuda.html</urlayuda>
+	<urlayuda>https://electrodiscovery.es/internetarcade/ayuda.html</urlayuda>
 	<imgfondo>fondoinicio.jpg</imgfondo>
-	<bannerhtml>acercade.html</bannerhtml>
+	<bannerhtml>https://electrodiscovery.es/internetarcade/acercade.html</bannerhtml>
 	<tipos>
 		<itemtipo>
 			<tipo>arcade</tipo>
@@ -561,7 +561,7 @@
 		<icono></icono>
 		<imgfondo>fondoinicio.jpg</imgfondo>
 		<descripcion></descripcion>			
-	    <bannerhtml>bannergamepad.html</bannerhtml>
+	    <bannerhtml>https://electrodiscovery.es/internetarcade/bannergamepad.html</bannerhtml>
  
 		<carpeta>
 			<id></id>
@@ -4230,6 +4230,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
