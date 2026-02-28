@@ -20,9 +20,15 @@
 	<urlacercade>https://electrodiscovery.es/internetarcade/acercade.html</urlacercade>
 	<urlinformacionlegalterminos>https://electrodiscovery.es/internetarcade/informacionlegalterminos.html</urlinformacionlegalterminos>
     <urlpoliticaprivacidad>https://electrodiscovery.es/internetarcade/politicaprivacidad.html</urlpoliticaprivacidad>
+	<urlayuda>https://electrodiscovery.es/internetarcade/ayuda.html</urlayuda>
+	<urls_en>
+		<urlacercade>https://electrodiscovery.es/internetarcade/acercade_en.html</urlacercade>
+		<urlinformacionlegalterminos>https://electrodiscovery.es/internetarcade/informacionlegalterminos_en.html</urlinformacionlegalterminos>
+    	<urlpoliticaprivacidad>https://electrodiscovery.es/internetarcade/politicaprivacidad_en.html</urlpoliticaprivacidad>
+		<urlayuda>https://electrodiscovery.es/internetarcade/ayuda_en.html</urlayuda>
+	</urls_en>
 	<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
 	<urldonateinternetarchive>https://archive.org/donate?origin=aurelisoft@gmail.com</urldonateinternetarchive>
-	<urlayuda>https://electrodiscovery.es/internetarcade/ayuda.html</urlayuda>
 	<imgfondo>fondoinicio.jpg</imgfondo>
 	<bannerhtml>https://electrodiscovery.es/internetarcade/acercade.html</bannerhtml>
 	<tipos>
@@ -4231,6 +4237,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
