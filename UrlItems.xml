@@ -17,16 +17,18 @@
 		<urlopiniones>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlopiniones>
 		<urlcompartir>https://play.google.com/store/apps/details?id=com.aurelisoft.arcade</urlcompartir>
 	</winui>
-	<urlacercade>https://electrodiscovery.es/internetarcade/acercade.html</urlacercade>
-	<urlinformacionlegalterminos>https://electrodiscovery.es/internetarcade/informacionlegalterminos.html</urlinformacionlegalterminos>
-    <urlpoliticaprivacidad>https://electrodiscovery.es/internetarcade/politicaprivacidad.html</urlpoliticaprivacidad>
-	<urlayuda>https://electrodiscovery.es/internetarcade/ayuda.html</urlayuda>
-	<urls_en>
-		<urlacercade>https://electrodiscovery.es/internetarcade/acercade_en.html</urlacercade>
-		<urlinformacionlegalterminos>https://electrodiscovery.es/internetarcade/informacionlegalterminos_en.html</urlinformacionlegalterminos>
-    	<urlpoliticaprivacidad>https://electrodiscovery.es/internetarcade/politicaprivacidad_en.html</urlpoliticaprivacidad>
-		<urlayuda>https://electrodiscovery.es/internetarcade/ayuda_en.html</urlayuda>
-	</urls_en>
+	<!-- URLS EN ESPANOL -->
+		<urlacercade>https://electrodiscovery.es/internetarcade/acercade.html</urlacercade>
+		<urlinformacionlegalterminos>https://electrodiscovery.es/internetarcade/informacionlegalterminos.html</urlinformacionlegalterminos>
+    	<urlpoliticaprivacidad>https://electrodiscovery.es/internetarcade/politicaprivacidad.html</urlpoliticaprivacidad>
+		<urlayuda>https://electrodiscovery.es/internetarcade/ayuda.html</urlayuda>
+	<!-- FIN URLS EN ESPANOL -->
+	<!-- URLS IN ENGLISH -->
+		<urlacercade_en>https://electrodiscovery.es/internetarcade/acercade_en.html</urlacercade_en>
+		<urlinformacionlegalterminos_en>https://electrodiscovery.es/internetarcade/informacionlegalterminos_en.html</urlinformacionlegalterminos_en>
+    	<urlpoliticaprivacidad_en>https://electrodiscovery.es/internetarcade/politicaprivacidad_en.html</urlpoliticaprivacidad_en>
+		<urlayuda_en>https://electrodiscovery.es/internetarcade/ayuda_en.html</urlayuda_en>
+	<!-- END URLS IN ENGLISH -->
 	<urlacercadeinternetarchive>https://archive.org/about/</urlacercadeinternetarchive>
 	<urldonateinternetarchive>https://archive.org/donate?origin=aurelisoft@gmail.com</urldonateinternetarchive>
 	<imgfondo>fondoinicio.jpg</imgfondo>
@@ -4294,6 +4296,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
