@@ -2934,6 +2934,39 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-03-02 00:37</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Xeno_Crisis_World_EnJaFrDeEsItNlPt_Aftermarket_Unl.md/Xeno_Crisis_World_EnJaFrDeEsItNlPt_Aftermarket_Unl.md_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Xeno_Crisis_World_EnJaFrDeEsItNlPt_Aftermarket_Unl.md/Xeno_Crisis_World_EnJaFrDeEsItNlPt_Aftermarket_Unl.md_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Xeno Crisis (World)</titulo>
+				<url>https://archive.org/embed/Xeno_Crisis_World_EnJaFrDeEsItNlPt_Aftermarket_Unl.md</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-03 21:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Eyra_The_Crow_Maiden_World_Aftermarket_Unl.md/Eyra_The_Crow_Maiden_World_Aftermarket_Unl.md_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Eyra_The_Crow_Maiden_World_Aftermarket_Unl.md/Eyra_The_Crow_Maiden_World_Aftermarket_Unl.md_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Eyra The Crow Maiden (World)</titulo>
+				<url>https://archive.org/embed/Eyra_The_Crow_Maiden_World_Aftermarket_Unl.md</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-03 21:37</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/Legend_of_Wukong_World_Aftermarket_Unl.md/Legend_of_Wukong_World_Aftermarket_Unl.md_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/Legend_of_Wukong_World_Aftermarket_Unl.md/Legend_of_Wukong_World_Aftermarket_Unl.md_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Legend of Wukong (World)</titulo>
+				<url>https://archive.org/embed/Legend_of_Wukong_World_Aftermarket_Unl.md</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-03 21:37</fechaentrada>
+			</item>
 			
 			
 		
@@ -4296,6 +4329,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
