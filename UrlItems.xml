@@ -2656,6 +2656,50 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-02-20 00:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/missing_snes_2/missing_snes_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/missing_snes_2/missing_snes_2_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Mario is Missing! (SNES)</titulo>
+				<url>https://archive.org/embed/missing_snes_2</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-03 20:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/bubsy_snes_2/bubsy_snes_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/bubsy_snes_2/bubsy_snes_2_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Bubsy in: Claws Encounters of the Furred Kind (SNES)</titulo>
+				<url>https://archive.org/embed/bubsy_snes_2</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-03 20:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/aladdin_snes_2/aladdin_snes_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/aladdin_snes_2/aladdin_snes_2_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Aladdin (SNES)</titulo>
+				<url>https://archive.org/embed/aladdin_snes_2</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-03 20:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/kirby-super-star_202301/kirby-super-star_202301_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/kirby-super-star_202301/kirby-super-star_202301_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Kirby Super Star</titulo>
+				<url>https://archive.org/embed/kirby-super-star_202301</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-03 20:00</fechaentrada>
+			</item>
 			
 			
 		
@@ -2966,6 +3010,17 @@
 				<url>https://archive.org/embed/Legend_of_Wukong_World_Aftermarket_Unl.md</url>
 				<descripcion></descripcion>
 				<fechaentrada>2026-03-03 21:37</fechaentrada>
+			</item>			
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/sg_Teenage_Mutant_Ninja_Turtles_The_Hyperstone_Heist_1992_Konami_US/Teenage_Mutant_Ninja_Turtles_The_Hyperstone_Heist_1992_Konami_US_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/sg_Teenage_Mutant_Ninja_Turtles_The_Hyperstone_Heist_1992_Konami_US/Teenage_Mutant_Ninja_Turtles_The_Hyperstone_Heist_1992_Konami_US_screenshot.gif</imgfondo>
+				<tipo>genesis</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Teenage Mutant Ninja Turtles The Hyperstone Heist</titulo>
+				<url>https://archive.org/embed/sg_Teenage_Mutant_Ninja_Turtles_The_Hyperstone_Heist_1992_Konami_US</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-03 20:00</fechaentrada>
 			</item>
 			
 			
@@ -4329,6 +4384,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
