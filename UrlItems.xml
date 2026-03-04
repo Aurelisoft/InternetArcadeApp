@@ -2722,6 +2722,17 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-03-04 00:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/simcity_snes/simcity_snes_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/simcity_snes/simcity_snes_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>SimCity (SNES)</titulo>
+				<url>https://archive.org/embed/simcity_snes</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-04 00:00</fechaentrada>
+			</item>
 			
 			
 		
@@ -4406,6 +4417,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
