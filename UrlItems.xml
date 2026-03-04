@@ -3100,16 +3100,6 @@
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/psx_nfs3/psx_nfs3_screenshot.jpg</icono>
-				<imgfondo>https://archive.org/serve/psx_nfs3/psx_nfs3_screenshot.jpg</imgfondo>
-				<tipo>psx</tipo>
-				<capitulo>01</capitulo>
-				<titulo>Need for Speed III - Hot Pursuit (USA)</titulo>
-				<url>https://archive.org/embed/psx_nfs3</url>
-				<descripcion></descripcion>
-			</item>
-			<item>
-				<id></id>
 				<icono>https://archive.org/serve/psx_fordrac/psx_fordrac_screenshot.jpg</icono>
 				<imgfondo>https://archive.org/serve/psx_fordrac/psx_fordrac_screenshot.jpg</imgfondo>
 				<tipo>psx</tipo>
@@ -3618,24 +3608,24 @@
 			<descripcion></descripcion>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/doom-2-play/doom-2-play_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/doom-2-play/doom-2-play_screenshot.gif</imgfondo>
+				<icono>https://archive.org/serve/Doom-2/Doom2_screenshot.png</icono>
+				<imgfondo>https://archive.org/serve/Doom-2/Doom2_screenshot.png</imgfondo>
 				<tipo>dosbox</tipo>
 				<capitulo>01</capitulo>
-				<titulo>DOOM II: Hell on Earth</titulo>
-				<url>https://archive.org/embed/doom-2-play</url>
+				<titulo>Doom 2 (MS-DOS)</titulo>
+				<url>https://archive.org/embed/Doom-2</url>
 				<descripcion></descripcion>
 				<modificacionestipo>
 				</modificacionestipo>
 			</item>
 			<item>
 				<id></id>
-				<icono>https://archive.org/serve/quake_dos/quake_dos_screenshot.gif</icono>
-				<imgfondo>https://archive.org/serve/quake_dos/quake_dos_screenshot.gif</imgfondo>
+				<icono>https://archive.org/serve/QUAKE_201806/QUAKE_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/QUAKE_201806/QUAKE_screenshot.gif</imgfondo>
 				<tipo>dosbox</tipo>
 				<capitulo>01</capitulo>
 				<titulo>Quake</titulo>
-				<url>https://archive.org/embed/quake_dos</url>
+				<url>https://archive.org/embed/QUAKE_201806</url>
 				<descripcion></descripcion>				
 				<modificacionestipo>
 				</modificacionestipo>
@@ -4417,6 +4407,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
