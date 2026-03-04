@@ -2700,6 +2700,28 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-03-03 20:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/goof_snes_2/goof_snes_2_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/goof_snes_2/goof_snes_2_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Goof Troop (SNES)</titulo>
+				<url>https://archive.org/embed/goof_snes_2</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-04 00:00</fechaentrada>
+			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/battletoads-double-dragon-usa_202301/battletoads-double-dragon-usa_202301_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/battletoads-double-dragon-usa_202301/battletoads-double-dragon-usa_202301_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Battletoads and Double Dragon SNES (USA)</titulo>
+				<url>https://archive.org/embed/battletoads-double-dragon-usa_202301</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-04 00:00</fechaentrada>
+			</item>
 			
 			
 		
@@ -4384,6 +4406,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
