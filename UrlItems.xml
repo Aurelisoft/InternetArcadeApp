@@ -2766,6 +2766,17 @@
 				<descripcion></descripcion>
 				<fechaentrada>2026-03-06 00:00</fechaentrada>
 			</item>
+			<item>
+				<id></id>
+				<icono>https://archive.org/serve/super-castlevania-iv-usa_202301/super-castlevania-iv-usa_202301_screenshot.gif</icono>
+				<imgfondo>https://archive.org/serve/super-castlevania-iv-usa_202301/super-castlevania-iv-usa_202301_screenshot.gif</imgfondo>
+				<tipo>snes</tipo>
+				<capitulo>01</capitulo>
+				<titulo>Super Castlevania IV SNES (USA)</titulo>
+				<url>https://archive.org/embed/super-castlevania-iv-usa_202301</url>
+				<descripcion></descripcion>
+				<fechaentrada>2026-03-06 00:00</fechaentrada>
+			</item>
 			
 			
 		
@@ -4495,6 +4506,7 @@
 		</carpeta>	
 	</inicio>
 </InternetArcadeApp>
+
 
 
 
